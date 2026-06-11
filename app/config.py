@@ -49,7 +49,7 @@ ESCALATION_ONLY_ACTIONS = {"execute_payment", "approve_hire", "award_contract"}
 DB_PATH = os.getenv("AUDIT_DB_PATH", os.path.join(os.path.dirname(__file__), "..", "data", "audit.db"))
 CHECKPOINT_DB_PATH = os.getenv("CHECKPOINT_DB_PATH", os.path.join(os.path.dirname(__file__), "..", "data", "checkpoints.db"))
 
-VERSION = "1.2.0"  # chassis version; see CHANGELOG.md
+VERSION = "1.2.1"  # chassis version; see CHANGELOG.md
 
 
 def config_snapshot(domain: str, system_prompt: str, tool_names: list[str], role: str) -> dict:
