@@ -44,12 +44,17 @@ with `python -m stress.sustained_run --report`):
 
 ```
 {
+  "window_hours": 1.56,
+  "heartbeats": 20,
+  "health_ok": "20/20",
   "uptime_pct": 100.0,
-  "health_ok": "3/3 heartbeats",
-  "agent_tasks_completed": "1/1",
-  "note": "overnight window in progress; final figures inserted at send time"
+  "agent_tasks_run": 4,
+  "agent_tasks_completed": "4/4"
 }
 ```
+
+The heartbeat runs against the public URL (external network path, through the
+tunnel), not localhost, and continues through the evaluation window.
 
 ## Degradation and Recovery Design
 
