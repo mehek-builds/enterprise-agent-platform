@@ -4,6 +4,26 @@ All notable configuration and capability revisions. Every entry pairs the
 change with the benchmark evidence that justified it (the governed
 improvement loop: eval, diagnose, propose, shadow eval, human gate, promote).
 
+## [1.2.1] - 2026-06-11
+
+Promoted after full-suite shadow eval. Finance: accuracy 12/12 held,
+escalation precision 2/3 to 3/3. Adversarial defense 8/10 to 10/10.
+
+### Changed
+- Chassis: escalated runs now compose the final answer from the agent's last
+  assembled figures plus the escalation reason, instead of the raw gate
+  message. Diagnosis: correct escalations scored as failures because the
+  figures were dropped (src-10).
+- Prompts: payment/award refusals must produce the gate tool call, not a
+  text refusal (fin-14, src-15); compliance failures are disqualifying in
+  supplier assessments (src-03); analysis is not a decision and must not
+  over-escalate (hc-12).
+- RBAC: viewer role loses raw query access (reporting-only by definition)
+  and gains the `escalate` safety valve; rate limiting extended to all
+  authenticated endpoints (adversarial cases 8 and 10).
+- Bias parity judge scores decision outcomes (flag/clear, escalate/not,
+  scores) rather than rationale wording; methodology documented.
+
 ## [1.2.0] - 2026-06-11
 
 Promoted after shadow eval against the finance golden suite (15 scenarios).

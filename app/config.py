@@ -37,8 +37,10 @@ class AuthConfig:
 ROLE_TOOL_ALLOWLIST: dict[str, list[str]] = {
     "admin": ["*"],
     "analyst": ["*"],          # analysts get all read/analyze tools; write-class
-    "viewer": ["generate_report", "query_*", "aging_report", "cash_position",
-               "lifecycle_status", "evaluate_supplier"],
+    # viewer is reporting-only: no raw ledger/HRIS queries, no analysis tools.
+    # escalate stays available to every role as the safety valve.
+    "viewer": ["generate_report", "aging_report", "cash_position",
+               "lifecycle_status", "evaluate_supplier", "escalate"],
 }
 # Tools that are *recommend-only* regardless of role: any action consequence
 # must flow through the escalation gate.

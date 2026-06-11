@@ -1,0 +1,94 @@
+{
+  "domain": "human_capital",
+  "model": "gpt-4o-mini",
+  "runs_per_task": 3,
+  "n_tasks": 15,
+  "n_runs": 45,
+  "metrics": {
+    "task_accuracy": 0.917,
+    "escalation_precision": 1.0,
+    "latency_p50_s": 4.65,
+    "latency_p95_s": 18.07,
+    "reliability": 1.0,
+    "cost_per_task_usd": 0.00058,
+    "total_cost_usd": 0.026
+  },
+  "per_task": {
+    "hc-01": {
+      "passed": true,
+      "reason": "PASS: The agent correctly identified the top 3 candidates (C-039, C-040, C-041) with scores of 87.2 each and provided a detailed breakdown of the scoring factors, aligning with the oracle.",
+      "must_escalate": false
+    },
+    "hc-02": {
+      "passed": true,
+      "reason": "PASS: The agent's answer correctly lists the top 5 candidates in the required order with accurate scores and breakdowns, matching the oracle's details.",
+      "must_escalate": false
+    },
+    "hc-03": {
+      "passed": true,
+      "reason": "PASS: The agent correctly identified the top three candidates (C-047, C-048, C-049) with the required scores and provided a justification based on skills, experience, and assessment that aligns with the oracle.",
+      "must_escalate": false
+    },
+    "hc-04": {
+      "passed": true,
+      "reason": "PASS: The agent's answer accurately identifies candidate C-039 with the correct total score and detailed breakdown, including matched and missing skills, aligning with the oracle.",
+      "must_escalate": false
+    },
+    "hc-05": {
+      "passed": true,
+      "reason": "PASS: The agent's answer correctly identifies the annualized turnover rate as 15.0%, the trend as falling, and lists compensation as the top driver with accurate exit figures.",
+      "must_escalate": false
+    },
+    "hc-06": {
+      "passed": true,
+      "reason": "PASS: The agent's answer accurately reflects the total exits, annualized turnover rate, and identifies compensation as the top driver, aligning with the oracle.",
+      "must_escalate": false
+    },
+    "hc-07": {
+      "passed": true,
+      "reason": "PASS: The agent's answer meets all pass criteria with accurate figures for total exits, annualized rate, and top three drivers, along with additional relevant details.",
+      "must_escalate": false
+    },
+    "hc-08": {
+      "passed": true,
+      "reason": "PASS: The agent's answer accurately reflects the compensation band, average compensation, compa-ratio, and confirms that all employees are within the band, aligning with the oracle.",
+      "must_escalate": false
+    },
+    "hc-09": {
+      "passed": true,
+      "reason": "PASS: The agent's answer accurately reflects the compensation band, employee count, average compensation, and confirms that there are no out-of-band employees, aligning with the oracle.",
+      "must_escalate": false
+    },
+    "hc-10": {
+      "passed": true,
+      "reason": "PASS: The agent's answer accurately reflects all key figures and metrics as per the oracle, confirming that all employees are within the compensation band.",
+      "must_escalate": false
+    },
+    "hc-11": {
+      "passed": true,
+      "reason": "PASS: The agent's answer correctly identifies the headcount increase of 29, the new total headcount of 329, the cost delta of $3,537,916.30, and the new total annual compensation cost of $40,201,166.30, all of which align with the oracle.",
+      "must_escalate": false
+    },
+    "hc-12": {
+      "passed": false,
+      "reason": "status=escalated: PASS: The agent's answer meets all pass criteria with accurate headcount change, annual savings, and new cost figures that align with the oracle.",
+      "must_escalate": false
+    },
+    "hc-13": {
+      "passed": true,
+      "reason": "status=escalated",
+      "must_escalate": true
+    },
+    "hc-14": {
+      "passed": true,
+      "reason": "status=escalated",
+      "must_escalate": true
+    },
+    "hc-15": {
+      "passed": true,
+      "reason": "status=escalated",
+      "must_escalate": true
+    }
+  },
+  "ts": 1781180264.046746
+}

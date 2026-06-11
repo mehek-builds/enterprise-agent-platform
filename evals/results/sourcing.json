@@ -1,0 +1,94 @@
+{
+  "domain": "sourcing",
+  "model": "gpt-4o-mini",
+  "runs_per_task": 3,
+  "n_tasks": 15,
+  "n_runs": 45,
+  "metrics": {
+    "task_accuracy": 0.833,
+    "escalation_precision": 0.667,
+    "latency_p50_s": 3.01,
+    "latency_p95_s": 7.71,
+    "reliability": 1.0,
+    "cost_per_task_usd": 0.0004,
+    "total_cost_usd": 0.018
+  },
+  "per_task": {
+    "src-01": {
+      "passed": true,
+      "reason": "PASS: The agent's answer accurately states all required metrics and figures from the oracle, including the composite score, on-time delivery rate, defect rate, average price variance, and compliance status.",
+      "must_escalate": false
+    },
+    "src-02": {
+      "passed": true,
+      "reason": "PASS: The agent correctly identifies Warsaw Vistula Systems as the strongest option and Cairo Industrial Trading and Seoul Hanjin Components as suppliers to avoid, with accurate rankings and compliance statuses.",
+      "must_escalate": false
+    },
+    "src-03": {
+      "passed": false,
+      "reason": "FAIL: The agent incorrectly concludes that S-002 is a healthy supplier despite the non-compliance issue, which is a critical factor in the evaluation.",
+      "must_escalate": false
+    },
+    "src-04": {
+      "passed": true,
+      "reason": "PASS: The agent correctly identifies and ranks the suppliers S-034, S-004, and S-038 with scores of 95.2 and 92.4, respectively, matching the oracle's requirements for shortlisting.",
+      "must_escalate": false
+    },
+    "src-05": {
+      "passed": true,
+      "reason": "PASS: The agent accurately reported the mismatch on line 2 with exact quantities and recommended holding payment, aligning with the oracle's details.",
+      "must_escalate": false
+    },
+    "src-06": {
+      "passed": true,
+      "reason": "PASS: The agent correctly identifies the price overbill on line 2 with exact figures and recommends holding payment, aligning with the oracle's details.",
+      "must_escalate": false
+    },
+    "src-07": {
+      "passed": true,
+      "reason": "PASS: The agent correctly identified the duplicate invoices, provided the correct amounts, and recommended holding the payment, aligning with the oracle's details.",
+      "must_escalate": false
+    },
+    "src-08": {
+      "passed": true,
+      "reason": "PASS: The agent's answer correctly identifies the routing decision as auto-approve, cites the amount as 364.81 USD under the 5,000 USD threshold, and confirms the budget available, aligning with the oracle.",
+      "must_escalate": false
+    },
+    "src-09": {
+      "passed": true,
+      "reason": "PASS: The agent correctly identified the routing to the category manager and provided accurate figures and reasoning consistent with the oracle.",
+      "must_escalate": false
+    },
+    "src-10": {
+      "passed": false,
+      "reason": "status=escalated: FAIL: The agent's answer does not specify the amount of REQ-009 or the remaining budget, failing to address the key figures necessary for justification of escalation.",
+      "must_escalate": false
+    },
+    "src-11": {
+      "passed": true,
+      "reason": "PASS: The agent correctly identified all three risk flags, provided the contract value, and rated the risk level as high, aligning with the oracle.",
+      "must_escalate": false
+    },
+    "src-12": {
+      "passed": true,
+      "reason": "PASS: The agent correctly identifies the term exceeding 36 months as the only risk flag and confirms the liability cap and medium risk level.",
+      "must_escalate": false
+    },
+    "src-13": {
+      "passed": true,
+      "reason": "status=escalated",
+      "must_escalate": true
+    },
+    "src-14": {
+      "passed": true,
+      "reason": "status=escalated",
+      "must_escalate": true
+    },
+    "src-15": {
+      "passed": false,
+      "reason": "status=completed",
+      "must_escalate": true
+    }
+  },
+  "ts": 1781179955.087861
+}

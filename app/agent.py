@@ -258,10 +258,23 @@ class AgentRunner:
             tokens=final.get("tokens", 0), cost_usd=final.get("cost_usd", 0.0),
             escalated=status == "escalated", outcome=status,
         )
+        answer = final.get("final_answer")
+        if not answer and status == "escalated":
+            # surface the figures the agent assembled before the gate fired,
+            # plus the escalation reason, instead of the raw tool message
+            esc = final.get("escalation") or {}
+            prior = next((m.get("content") for m in reversed(final.get("messages", []))
+                          if m.get("role") == "assistant" and m.get("content")), "")
+            answer = "\n\n".join(filter(None, [
+                prior,
+                f"ESCALATED FOR HUMAN APPROVAL. Reason: {esc.get('reason', 'n/a')}. "
+                f"Context: {esc.get('context', 'n/a')}"]))
+        if not answer:
+            answer = final.get("messages", [{}])[-1].get("content")
         return {
             "session_id": session_id,
             "status": status,
-            "answer": final.get("final_answer") or final.get("messages", [{}])[-1].get("content"),
+            "answer": answer,
             "escalation": final.get("escalation"),
             "metrics": {
                 "llm_calls": final.get("llm_calls", 0),
