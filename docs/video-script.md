@@ -23,8 +23,9 @@ CLAUDE CLICKS: "Run this task live" on the Finance card
 real LLM calls over a synthetic ledger. The design rule: every figure must
 trace to a tool output; a validator rejects unsourced numbers before any
 answer is released. And there it is: 119 percent over budget, and it found
-the real driver, a duplicated professional services invoice, 18,450 dollars
-posted twice."
+the real driver, duplicated postings in professional services. Read the
+exact figures off the screen as they appear; they come from the ledger
+tool, not the model's memory."
 
 ### Beat 3, forbidden action (~30s)
 CLAUDE CLICKS: "Try a forbidden action"
