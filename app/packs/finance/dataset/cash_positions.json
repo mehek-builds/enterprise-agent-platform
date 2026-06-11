@@ -1,0 +1,632 @@
+[
+ {
+  "date": "2026-03-13",
+  "opening_balance": 12500000.0,
+  "inflows": 317053.97,
+  "outflows": 366411.92,
+  "closing_balance": 12450642.05
+ },
+ {
+  "date": "2026-03-14",
+  "opening_balance": 12450642.05,
+  "inflows": 234240.41,
+  "outflows": 787998.3,
+  "closing_balance": 11896884.16
+ },
+ {
+  "date": "2026-03-15",
+  "opening_balance": 11896884.16,
+  "inflows": 881459.66,
+  "outflows": 481648.26,
+  "closing_balance": 12296695.56
+ },
+ {
+  "date": "2026-03-16",
+  "opening_balance": 12296695.56,
+  "inflows": 527366.76,
+  "outflows": 479291.54,
+  "closing_balance": 12344770.78
+ },
+ {
+  "date": "2026-03-17",
+  "opening_balance": 12344770.78,
+  "inflows": 423631.27,
+  "outflows": 468231.38,
+  "closing_balance": 12300170.67
+ },
+ {
+  "date": "2026-03-18",
+  "opening_balance": 12300170.67,
+  "inflows": 271095.44,
+  "outflows": 184365.21,
+  "closing_balance": 12386900.9
+ },
+ {
+  "date": "2026-03-19",
+  "opening_balance": 12386900.9,
+  "inflows": 734619.97,
+  "outflows": 226795.82,
+  "closing_balance": 12894725.05
+ },
+ {
+  "date": "2026-03-20",
+  "opening_balance": 12894725.05,
+  "inflows": 754382.29,
+  "outflows": 213682.47,
+  "closing_balance": 13435424.87
+ },
+ {
+  "date": "2026-03-21",
+  "opening_balance": 13435424.87,
+  "inflows": 833153.45,
+  "outflows": 444698.1,
+  "closing_balance": 13823880.22
+ },
+ {
+  "date": "2026-03-22",
+  "opening_balance": 13823880.22,
+  "inflows": 567184.45,
+  "outflows": 394479.08,
+  "closing_balance": 13996585.59
+ },
+ {
+  "date": "2026-03-23",
+  "opening_balance": 13996585.59,
+  "inflows": 708126.57,
+  "outflows": 628858.72,
+  "closing_balance": 14075853.44
+ },
+ {
+  "date": "2026-03-24",
+  "opening_balance": 14075853.44,
+  "inflows": 396768.43,
+  "outflows": 865751.25,
+  "closing_balance": 13606870.62
+ },
+ {
+  "date": "2026-03-25",
+  "opening_balance": 13606870.62,
+  "inflows": 473688.45,
+  "outflows": 788370.55,
+  "closing_balance": 13292188.52
+ },
+ {
+  "date": "2026-03-26",
+  "opening_balance": 13292188.52,
+  "inflows": 203730.75,
+  "outflows": 295679.37,
+  "closing_balance": 13200239.9
+ },
+ {
+  "date": "2026-03-27",
+  "opening_balance": 13200239.9,
+  "inflows": 349296.61,
+  "outflows": 732597.89,
+  "closing_balance": 12816938.62
+ },
+ {
+  "date": "2026-03-28",
+  "opening_balance": 12816938.62,
+  "inflows": 793513.24,
+  "outflows": 808605.9,
+  "closing_balance": 12801845.96
+ },
+ {
+  "date": "2026-03-29",
+  "opening_balance": 12801845.96,
+  "inflows": 407133.42,
+  "outflows": 649193.8,
+  "closing_balance": 12559785.58
+ },
+ {
+  "date": "2026-03-30",
+  "opening_balance": 12559785.58,
+  "inflows": 409503.51,
+  "outflows": 836363.81,
+  "closing_balance": 12132925.28
+ },
+ {
+  "date": "2026-03-31",
+  "opening_balance": 12132925.28,
+  "inflows": 923331.35,
+  "outflows": 821682.84,
+  "closing_balance": 12234573.79
+ },
+ {
+  "date": "2026-04-01",
+  "opening_balance": 12234573.79,
+  "inflows": 678914.27,
+  "outflows": 888469.82,
+  "closing_balance": 12025018.24
+ },
+ {
+  "date": "2026-04-02",
+  "opening_balance": 12025018.24,
+  "inflows": 188585.66,
+  "outflows": 827327.53,
+  "closing_balance": 11386276.37
+ },
+ {
+  "date": "2026-04-03",
+  "opening_balance": 11386276.37,
+  "inflows": 288857.88,
+  "outflows": 210912.12,
+  "closing_balance": 11464222.13
+ },
+ {
+  "date": "2026-04-04",
+  "opening_balance": 11464222.13,
+  "inflows": 620993.32,
+  "outflows": 471620.46,
+  "closing_balance": 11613594.99
+ },
+ {
+  "date": "2026-04-05",
+  "opening_balance": 11613594.99,
+  "inflows": 601594.6,
+  "outflows": 242993.87,
+  "closing_balance": 11972195.72
+ },
+ {
+  "date": "2026-04-06",
+  "opening_balance": 11972195.72,
+  "inflows": 341740.73,
+  "outflows": 728658.56,
+  "closing_balance": 11585277.89
+ },
+ {
+  "date": "2026-04-07",
+  "opening_balance": 11585277.89,
+  "inflows": 738971.76,
+  "outflows": 336685.34,
+  "closing_balance": 11987564.31
+ },
+ {
+  "date": "2026-04-08",
+  "opening_balance": 11987564.31,
+  "inflows": 877333.58,
+  "outflows": 810079.55,
+  "closing_balance": 12054818.34
+ },
+ {
+  "date": "2026-04-09",
+  "opening_balance": 12054818.34,
+  "inflows": 289690.44,
+  "outflows": 316154.61,
+  "closing_balance": 12028354.17
+ },
+ {
+  "date": "2026-04-10",
+  "opening_balance": 12028354.17,
+  "inflows": 655001.39,
+  "outflows": 367028.92,
+  "closing_balance": 12316326.64
+ },
+ {
+  "date": "2026-04-11",
+  "opening_balance": 12316326.64,
+  "inflows": 268259.36,
+  "outflows": 676523.65,
+  "closing_balance": 11908062.35
+ },
+ {
+  "date": "2026-04-12",
+  "opening_balance": 11908062.35,
+  "inflows": 616815.34,
+  "outflows": 220247.35,
+  "closing_balance": 12304630.34
+ },
+ {
+  "date": "2026-04-13",
+  "opening_balance": 12304630.34,
+  "inflows": 758302.2,
+  "outflows": 912656.55,
+  "closing_balance": 12150275.99
+ },
+ {
+  "date": "2026-04-14",
+  "opening_balance": 12150275.99,
+  "inflows": 602615.36,
+  "outflows": 657059.14,
+  "closing_balance": 12095832.21
+ },
+ {
+  "date": "2026-04-15",
+  "opening_balance": 12095832.21,
+  "inflows": 236321.32,
+  "outflows": 677047.08,
+  "closing_balance": 11655106.45
+ },
+ {
+  "date": "2026-04-16",
+  "opening_balance": 11655106.45,
+  "inflows": 373029.46,
+  "outflows": 326089.02,
+  "closing_balance": 11702046.89
+ },
+ {
+  "date": "2026-04-17",
+  "opening_balance": 11702046.89,
+  "inflows": 627058.65,
+  "outflows": 884139.53,
+  "closing_balance": 11444966.01
+ },
+ {
+  "date": "2026-04-18",
+  "opening_balance": 11444966.01,
+  "inflows": 454996.54,
+  "outflows": 676758.72,
+  "closing_balance": 11223203.83
+ },
+ {
+  "date": "2026-04-19",
+  "opening_balance": 11223203.83,
+  "inflows": 360590.29,
+  "outflows": 391001.49,
+  "closing_balance": 11192792.63
+ },
+ {
+  "date": "2026-04-20",
+  "opening_balance": 11192792.63,
+  "inflows": 233752.84,
+  "outflows": 323188.94,
+  "closing_balance": 11103356.53
+ },
+ {
+  "date": "2026-04-21",
+  "opening_balance": 11103356.53,
+  "inflows": 554113.15,
+  "outflows": 422976.1,
+  "closing_balance": 11234493.58
+ },
+ {
+  "date": "2026-04-22",
+  "opening_balance": 11234493.58,
+  "inflows": 687755.13,
+  "outflows": 693159.02,
+  "closing_balance": 11229089.69
+ },
+ {
+  "date": "2026-04-23",
+  "opening_balance": 11229089.69,
+  "inflows": 297344.12,
+  "outflows": 599477.8,
+  "closing_balance": 10926956.01
+ },
+ {
+  "date": "2026-04-24",
+  "opening_balance": 10926956.01,
+  "inflows": 801928.82,
+  "outflows": 889407.6,
+  "closing_balance": 10839477.23
+ },
+ {
+  "date": "2026-04-25",
+  "opening_balance": 10839477.23,
+  "inflows": 309852.42,
+  "outflows": 411778.94,
+  "closing_balance": 10737550.71
+ },
+ {
+  "date": "2026-04-26",
+  "opening_balance": 10737550.71,
+  "inflows": 784958.29,
+  "outflows": 707027.35,
+  "closing_balance": 10815481.65
+ },
+ {
+  "date": "2026-04-27",
+  "opening_balance": 10815481.65,
+  "inflows": 673445.68,
+  "outflows": 384743.08,
+  "closing_balance": 11104184.25
+ },
+ {
+  "date": "2026-04-28",
+  "opening_balance": 11104184.25,
+  "inflows": 456804.22,
+  "outflows": 682889.33,
+  "closing_balance": 10878099.14
+ },
+ {
+  "date": "2026-04-29",
+  "opening_balance": 10878099.14,
+  "inflows": 435303.47,
+  "outflows": 535165.94,
+  "closing_balance": 10778236.67
+ },
+ {
+  "date": "2026-04-30",
+  "opening_balance": 10778236.67,
+  "inflows": 522925.64,
+  "outflows": 753327.55,
+  "closing_balance": 10547834.76
+ },
+ {
+  "date": "2026-05-01",
+  "opening_balance": 10547834.76,
+  "inflows": 554967.96,
+  "outflows": 260536.15,
+  "closing_balance": 10842266.57
+ },
+ {
+  "date": "2026-05-02",
+  "opening_balance": 10842266.57,
+  "inflows": 677074.74,
+  "outflows": 240660.53,
+  "closing_balance": 11278680.78
+ },
+ {
+  "date": "2026-05-03",
+  "opening_balance": 11278680.78,
+  "inflows": 396074.27,
+  "outflows": 791568.32,
+  "closing_balance": 10883186.73
+ },
+ {
+  "date": "2026-05-04",
+  "opening_balance": 10883186.73,
+  "inflows": 866298.72,
+  "outflows": 325359.63,
+  "closing_balance": 11424125.82
+ },
+ {
+  "date": "2026-05-05",
+  "opening_balance": 11424125.82,
+  "inflows": 744829.36,
+  "outflows": 643697.97,
+  "closing_balance": 11525257.21
+ },
+ {
+  "date": "2026-05-06",
+  "opening_balance": 11525257.21,
+  "inflows": 740117.53,
+  "outflows": 840157.84,
+  "closing_balance": 11425216.9
+ },
+ {
+  "date": "2026-05-07",
+  "opening_balance": 11425216.9,
+  "inflows": 834182.2,
+  "outflows": 647403.61,
+  "closing_balance": 11611995.49
+ },
+ {
+  "date": "2026-05-08",
+  "opening_balance": 11611995.49,
+  "inflows": 805734.65,
+  "outflows": 608386.58,
+  "closing_balance": 11809343.56
+ },
+ {
+  "date": "2026-05-09",
+  "opening_balance": 11809343.56,
+  "inflows": 772284.2,
+  "outflows": 337442.91,
+  "closing_balance": 12244184.85
+ },
+ {
+  "date": "2026-05-10",
+  "opening_balance": 12244184.85,
+  "inflows": 208225.36,
+  "outflows": 372856.08,
+  "closing_balance": 12079554.13
+ },
+ {
+  "date": "2026-05-11",
+  "opening_balance": 12079554.13,
+  "inflows": 868369.17,
+  "outflows": 579361.07,
+  "closing_balance": 12368562.23
+ },
+ {
+  "date": "2026-05-12",
+  "opening_balance": 12368562.23,
+  "inflows": 683509.27,
+  "outflows": 289988.41,
+  "closing_balance": 12762083.09
+ },
+ {
+  "date": "2026-05-13",
+  "opening_balance": 12762083.09,
+  "inflows": 482223.73,
+  "outflows": 839663.78,
+  "closing_balance": 12404643.04
+ },
+ {
+  "date": "2026-05-14",
+  "opening_balance": 12404643.04,
+  "inflows": 633992.58,
+  "outflows": 814301.47,
+  "closing_balance": 12224334.15
+ },
+ {
+  "date": "2026-05-15",
+  "opening_balance": 12224334.15,
+  "inflows": 283088.57,
+  "outflows": 550831.15,
+  "closing_balance": 11956591.57
+ },
+ {
+  "date": "2026-05-16",
+  "opening_balance": 11956591.57,
+  "inflows": 249726.6,
+  "outflows": 449260.51,
+  "closing_balance": 11757057.66
+ },
+ {
+  "date": "2026-05-17",
+  "opening_balance": 11757057.66,
+  "inflows": 188155.6,
+  "outflows": 356771.8,
+  "closing_balance": 11588441.46
+ },
+ {
+  "date": "2026-05-18",
+  "opening_balance": 11588441.46,
+  "inflows": 922280.21,
+  "outflows": 906571.37,
+  "closing_balance": 11604150.3
+ },
+ {
+  "date": "2026-05-19",
+  "opening_balance": 11604150.3,
+  "inflows": 706804.48,
+  "outflows": 740332.49,
+  "closing_balance": 11570622.29
+ },
+ {
+  "date": "2026-05-20",
+  "opening_balance": 11570622.29,
+  "inflows": 288085.43,
+  "outflows": 297824.59,
+  "closing_balance": 11560883.13
+ },
+ {
+  "date": "2026-05-21",
+  "opening_balance": 11560883.13,
+  "inflows": 616095.09,
+  "outflows": 598701.27,
+  "closing_balance": 11578276.95
+ },
+ {
+  "date": "2026-05-22",
+  "opening_balance": 11578276.95,
+  "inflows": 851590.27,
+  "outflows": 288187.3,
+  "closing_balance": 12141679.92
+ },
+ {
+  "date": "2026-05-23",
+  "opening_balance": 12141679.92,
+  "inflows": 743643.45,
+  "outflows": 874989.69,
+  "closing_balance": 12010333.68
+ },
+ {
+  "date": "2026-05-24",
+  "opening_balance": 12010333.68,
+  "inflows": 211123.27,
+  "outflows": 743489.56,
+  "closing_balance": 11477967.39
+ },
+ {
+  "date": "2026-05-25",
+  "opening_balance": 11477967.39,
+  "inflows": 358447.43,
+  "outflows": 375624.27,
+  "closing_balance": 11460790.55
+ },
+ {
+  "date": "2026-05-26",
+  "opening_balance": 11460790.55,
+  "inflows": 360194.38,
+  "outflows": 674753.34,
+  "closing_balance": 11146231.59
+ },
+ {
+  "date": "2026-05-27",
+  "opening_balance": 11146231.59,
+  "inflows": 578771.63,
+  "outflows": 765680.74,
+  "closing_balance": 10959322.48
+ },
+ {
+  "date": "2026-05-28",
+  "opening_balance": 10959322.48,
+  "inflows": 478831.69,
+  "outflows": 859247.44,
+  "closing_balance": 10578906.73
+ },
+ {
+  "date": "2026-05-29",
+  "opening_balance": 10578906.73,
+  "inflows": 858795.03,
+  "outflows": 209529.48,
+  "closing_balance": 11228172.28
+ },
+ {
+  "date": "2026-05-30",
+  "opening_balance": 11228172.28,
+  "inflows": 679364.06,
+  "outflows": 256386.51,
+  "closing_balance": 11651149.83
+ },
+ {
+  "date": "2026-05-31",
+  "opening_balance": 11651149.83,
+  "inflows": 925699.88,
+  "outflows": 648839.57,
+  "closing_balance": 11928010.14
+ },
+ {
+  "date": "2026-06-01",
+  "opening_balance": 11928010.14,
+  "inflows": 390591.39,
+  "outflows": 729013.18,
+  "closing_balance": 11589588.35
+ },
+ {
+  "date": "2026-06-02",
+  "opening_balance": 11589588.35,
+  "inflows": 625546.2,
+  "outflows": 601918.51,
+  "closing_balance": 11613216.04
+ },
+ {
+  "date": "2026-06-03",
+  "opening_balance": 11613216.04,
+  "inflows": 470027.87,
+  "outflows": 460103.7,
+  "closing_balance": 11623140.21
+ },
+ {
+  "date": "2026-06-04",
+  "opening_balance": 11623140.21,
+  "inflows": 632512.7,
+  "outflows": 844687.7,
+  "closing_balance": 11410965.21
+ },
+ {
+  "date": "2026-06-05",
+  "opening_balance": 11410965.21,
+  "inflows": 239934.85,
+  "outflows": 366173.94,
+  "closing_balance": 11284726.12
+ },
+ {
+  "date": "2026-06-06",
+  "opening_balance": 11284726.12,
+  "inflows": 928959.06,
+  "outflows": 344945.45,
+  "closing_balance": 11868739.73
+ },
+ {
+  "date": "2026-06-07",
+  "opening_balance": 11868739.73,
+  "inflows": 492498.5,
+  "outflows": 784755.21,
+  "closing_balance": 11576483.02
+ },
+ {
+  "date": "2026-06-08",
+  "opening_balance": 11576483.02,
+  "inflows": 445674.89,
+  "outflows": 766566.52,
+  "closing_balance": 11255591.39
+ },
+ {
+  "date": "2026-06-09",
+  "opening_balance": 11255591.39,
+  "inflows": 863122.4,
+  "outflows": 184882.29,
+  "closing_balance": 11933831.5
+ },
+ {
+  "date": "2026-06-10",
+  "opening_balance": 11933831.5,
+  "inflows": 859166.37,
+  "outflows": 505525.04,
+  "closing_balance": 12287472.83
+ }
+]

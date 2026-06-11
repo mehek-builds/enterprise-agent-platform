@@ -1,0 +1,1982 @@
+[
+ {
+  "invoice_id": "AP-INV-0001",
+  "ledger": "ap",
+  "counterparty": "Tanaka Industrial Co",
+  "issue_date": "2026-03-16",
+  "due_date": "2026-04-30",
+  "amount": 35918.53,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AP-INV-0002",
+  "ledger": "ap",
+  "counterparty": "Banerjee Consulting Group",
+  "issue_date": "2026-01-28",
+  "due_date": "2026-02-12",
+  "amount": 93249.19,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AP-INV-0003",
+  "ledger": "ap",
+  "counterparty": "Noor Al Ain Contracting",
+  "issue_date": "2026-02-23",
+  "due_date": "2026-03-10",
+  "amount": 73666.29,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AP-INV-0004",
+  "ledger": "ap",
+  "counterparty": "Patel Infotech Solutions",
+  "issue_date": "2026-03-18",
+  "due_date": "2026-05-02",
+  "amount": 1550.7,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AP-INV-0005",
+  "ledger": "ap",
+  "counterparty": "Noor Al Ain Contracting",
+  "issue_date": "2026-04-15",
+  "due_date": "2026-05-30",
+  "amount": 70468.06,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AP-INV-0006",
+  "ledger": "ap",
+  "counterparty": "Mehta Engineering Works",
+  "issue_date": "2026-04-04",
+  "due_date": "2026-06-03",
+  "amount": 94791.55,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AP-INV-0007",
+  "ledger": "ap",
+  "counterparty": "Iyer & Krishnan Associates",
+  "issue_date": "2026-04-16",
+  "due_date": "2026-05-16",
+  "amount": 3052.35,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AP-INV-0008",
+  "ledger": "ap",
+  "counterparty": "Lin Dynamics Ltd",
+  "issue_date": "2026-01-18",
+  "due_date": "2026-03-04",
+  "amount": 83432.11,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AP-INV-0009",
+  "ledger": "ap",
+  "counterparty": "Sharma Logistics Pvt Ltd",
+  "issue_date": "2026-03-12",
+  "due_date": "2026-03-27",
+  "amount": 80776.36,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AP-INV-0010",
+  "ledger": "ap",
+  "counterparty": "Dar Al Khaleej Services",
+  "issue_date": "2026-03-19",
+  "due_date": "2026-04-03",
+  "amount": 40346.65,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AP-INV-0011",
+  "ledger": "ap",
+  "counterparty": "Granite Peak Software",
+  "issue_date": "2026-05-21",
+  "due_date": "2026-06-20",
+  "amount": 4935.41,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AP-INV-0012",
+  "ledger": "ap",
+  "counterparty": "Al Safa Logistics",
+  "issue_date": "2026-04-07",
+  "due_date": "2026-06-06",
+  "amount": 43986.75,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AP-INV-0013",
+  "ledger": "ap",
+  "counterparty": "Kim & Park Advisory",
+  "issue_date": "2026-05-15",
+  "due_date": "2026-05-30",
+  "amount": 78040.5,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AP-INV-0014",
+  "ledger": "ap",
+  "counterparty": "Hudson Print Co",
+  "issue_date": "2026-05-17",
+  "due_date": "2026-06-01",
+  "amount": 23103.9,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AP-INV-0015",
+  "ledger": "ap",
+  "counterparty": "Sharma Logistics Pvt Ltd",
+  "issue_date": "2026-03-31",
+  "due_date": "2026-05-15",
+  "amount": 66808.35,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AP-INV-0016",
+  "ledger": "ap",
+  "counterparty": "Dar Al Khaleej Services",
+  "issue_date": "2026-03-14",
+  "due_date": "2026-04-28",
+  "amount": 7835.56,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AP-INV-0017",
+  "ledger": "ap",
+  "counterparty": "Tanaka Industrial Co",
+  "issue_date": "2026-04-15",
+  "due_date": "2026-05-15",
+  "amount": 11065.24,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AP-INV-0018",
+  "ledger": "ap",
+  "counterparty": "Bayt Al Hikma Advisory",
+  "issue_date": "2026-05-09",
+  "due_date": "2026-06-08",
+  "amount": 39093.48,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AP-INV-0019",
+  "ledger": "ap",
+  "counterparty": "Al Manara Trading LLC",
+  "issue_date": "2026-01-19",
+  "due_date": "2026-03-05",
+  "amount": 43370.59,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AP-INV-0020",
+  "ledger": "ap",
+  "counterparty": "Granite Peak Software",
+  "issue_date": "2026-02-07",
+  "due_date": "2026-03-24",
+  "amount": 15647.37,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AP-INV-0021",
+  "ledger": "ap",
+  "counterparty": "Bayt Al Hikma Advisory",
+  "issue_date": "2026-03-20",
+  "due_date": "2026-04-04",
+  "amount": 14772.1,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AP-INV-0022",
+  "ledger": "ap",
+  "counterparty": "Sterling & Hayes LLP",
+  "issue_date": "2026-04-03",
+  "due_date": "2026-05-18",
+  "amount": 64590.67,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AP-INV-0023",
+  "ledger": "ap",
+  "counterparty": "Sharma Logistics Pvt Ltd",
+  "issue_date": "2026-03-31",
+  "due_date": "2026-04-30",
+  "amount": 81303.44,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AP-INV-0024",
+  "ledger": "ap",
+  "counterparty": "Whitfield Analytics",
+  "issue_date": "2026-01-14",
+  "due_date": "2026-02-13",
+  "amount": 76527.07,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AP-INV-0025",
+  "ledger": "ap",
+  "counterparty": "Dar Al Khaleej Services",
+  "issue_date": "2026-05-01",
+  "due_date": "2026-05-16",
+  "amount": 13113.38,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AP-INV-0026",
+  "ledger": "ap",
+  "counterparty": "Kim & Park Advisory",
+  "issue_date": "2026-02-23",
+  "due_date": "2026-04-09",
+  "amount": 8716.51,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AP-INV-0027",
+  "ledger": "ap",
+  "counterparty": "Granite Peak Software",
+  "issue_date": "2026-01-06",
+  "due_date": "2026-02-20",
+  "amount": 2853.58,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AP-INV-0028",
+  "ledger": "ap",
+  "counterparty": "Patel Infotech Solutions",
+  "issue_date": "2026-05-20",
+  "due_date": "2026-06-19",
+  "amount": 77035.93,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AP-INV-0029",
+  "ledger": "ap",
+  "counterparty": "Patel Infotech Solutions",
+  "issue_date": "2026-05-13",
+  "due_date": "2026-06-27",
+  "amount": 5570.07,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AP-INV-0030",
+  "ledger": "ap",
+  "counterparty": "Sharma Logistics Pvt Ltd",
+  "issue_date": "2026-01-10",
+  "due_date": "2026-03-11",
+  "amount": 47535.11,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AP-INV-0031",
+  "ledger": "ap",
+  "counterparty": "Al Manara Trading LLC",
+  "issue_date": "2026-02-28",
+  "due_date": "2026-04-29",
+  "amount": 86362.26,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AP-INV-0032",
+  "ledger": "ap",
+  "counterparty": "Hudson Print Co",
+  "issue_date": "2026-03-27",
+  "due_date": "2026-05-11",
+  "amount": 4063.98,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AP-INV-0033",
+  "ledger": "ap",
+  "counterparty": "Reddy Facilities Mgmt",
+  "issue_date": "2026-04-04",
+  "due_date": "2026-05-19",
+  "amount": 45924.71,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AP-INV-0034",
+  "ledger": "ap",
+  "counterparty": "Iyer & Krishnan Associates",
+  "issue_date": "2026-05-14",
+  "due_date": "2026-06-28",
+  "amount": 19588.93,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AP-INV-0035",
+  "ledger": "ap",
+  "counterparty": "Reddy Facilities Mgmt",
+  "issue_date": "2026-01-22",
+  "due_date": "2026-02-21",
+  "amount": 75674.52,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AP-INV-0036",
+  "ledger": "ap",
+  "counterparty": "Mehta Engineering Works",
+  "issue_date": "2026-02-28",
+  "due_date": "2026-04-14",
+  "amount": 33208.01,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AP-INV-0037",
+  "ledger": "ap",
+  "counterparty": "Beacon Field Services",
+  "issue_date": "2026-01-12",
+  "due_date": "2026-02-26",
+  "amount": 3255.13,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AP-INV-0038",
+  "ledger": "ap",
+  "counterparty": "Khalid Bin Rashid Est",
+  "issue_date": "2026-01-04",
+  "due_date": "2026-02-03",
+  "amount": 6319.29,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AP-INV-0039",
+  "ledger": "ap",
+  "counterparty": "Dar Al Khaleej Services",
+  "issue_date": "2026-02-05",
+  "due_date": "2026-03-22",
+  "amount": 92548.9,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AP-INV-0040",
+  "ledger": "ap",
+  "counterparty": "Khalid Bin Rashid Est",
+  "issue_date": "2026-05-11",
+  "due_date": "2026-06-10",
+  "amount": 51073.56,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AP-INV-0041",
+  "ledger": "ap",
+  "counterparty": "Sharma Logistics Pvt Ltd",
+  "issue_date": "2026-05-22",
+  "due_date": "2026-06-21",
+  "amount": 34222.6,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AP-INV-0042",
+  "ledger": "ap",
+  "counterparty": "Bayt Al Hikma Advisory",
+  "issue_date": "2026-04-22",
+  "due_date": "2026-05-22",
+  "amount": 76745.0,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AP-INV-0043",
+  "ledger": "ap",
+  "counterparty": "Al Safa Logistics",
+  "issue_date": "2026-03-06",
+  "due_date": "2026-03-21",
+  "amount": 90060.03,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AP-INV-0044",
+  "ledger": "ap",
+  "counterparty": "Al Manara Trading LLC",
+  "issue_date": "2026-01-12",
+  "due_date": "2026-02-11",
+  "amount": 79616.84,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AP-INV-0045",
+  "ledger": "ap",
+  "counterparty": "Sterling & Hayes LLP",
+  "issue_date": "2026-01-30",
+  "due_date": "2026-03-16",
+  "amount": 9302.24,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AP-INV-0046",
+  "ledger": "ap",
+  "counterparty": "Mehta Engineering Works",
+  "issue_date": "2026-04-07",
+  "due_date": "2026-05-07",
+  "amount": 864.39,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AP-INV-0047",
+  "ledger": "ap",
+  "counterparty": "Beacon Field Services",
+  "issue_date": "2026-04-15",
+  "due_date": "2026-05-15",
+  "amount": 87349.15,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AP-INV-0048",
+  "ledger": "ap",
+  "counterparty": "Tanaka Industrial Co",
+  "issue_date": "2026-03-15",
+  "due_date": "2026-03-30",
+  "amount": 67182.4,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AP-INV-0049",
+  "ledger": "ap",
+  "counterparty": "Al Safa Logistics",
+  "issue_date": "2026-04-30",
+  "due_date": "2026-05-15",
+  "amount": 91284.63,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AP-INV-0050",
+  "ledger": "ap",
+  "counterparty": "Bayt Al Hikma Advisory",
+  "issue_date": "2026-03-02",
+  "due_date": "2026-05-01",
+  "amount": 29226.28,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AP-INV-0051",
+  "ledger": "ap",
+  "counterparty": "Iyer & Krishnan Associates",
+  "issue_date": "2026-05-02",
+  "due_date": "2026-06-01",
+  "amount": 75391.57,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AP-INV-0052",
+  "ledger": "ap",
+  "counterparty": "Reddy Facilities Mgmt",
+  "issue_date": "2026-02-01",
+  "due_date": "2026-03-18",
+  "amount": 66133.39,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AP-INV-0053",
+  "ledger": "ap",
+  "counterparty": "Beacon Field Services",
+  "issue_date": "2026-03-06",
+  "due_date": "2026-04-05",
+  "amount": 36443.78,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AP-INV-0054",
+  "ledger": "ap",
+  "counterparty": "Northwind Consulting",
+  "issue_date": "2026-03-22",
+  "due_date": "2026-04-21",
+  "amount": 90175.84,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AP-INV-0055",
+  "ledger": "ap",
+  "counterparty": "Tanaka Industrial Co",
+  "issue_date": "2026-01-10",
+  "due_date": "2026-03-11",
+  "amount": 3850.45,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AP-INV-0056",
+  "ledger": "ap",
+  "counterparty": "Chen Wei Manufacturing",
+  "issue_date": "2026-01-02",
+  "due_date": "2026-02-16",
+  "amount": 21608.33,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AP-INV-0057",
+  "ledger": "ap",
+  "counterparty": "Hudson Print Co",
+  "issue_date": "2026-01-12",
+  "due_date": "2026-01-27",
+  "amount": 31996.07,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AP-INV-0058",
+  "ledger": "ap",
+  "counterparty": "Bayt Al Hikma Advisory",
+  "issue_date": "2026-05-17",
+  "due_date": "2026-06-16",
+  "amount": 16614.99,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AP-INV-0059",
+  "ledger": "ap",
+  "counterparty": "Khalid Bin Rashid Est",
+  "issue_date": "2026-05-14",
+  "due_date": "2026-06-28",
+  "amount": 20552.26,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AP-INV-0060",
+  "ledger": "ap",
+  "counterparty": "Whitfield Analytics",
+  "issue_date": "2026-05-19",
+  "due_date": "2026-07-03",
+  "amount": 68662.96,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AP-INV-0061",
+  "ledger": "ap",
+  "counterparty": "Iyer & Krishnan Associates",
+  "issue_date": "2026-05-24",
+  "due_date": "2026-07-23",
+  "amount": 92089.39,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AP-INV-0062",
+  "ledger": "ap",
+  "counterparty": "Al Safa Logistics",
+  "issue_date": "2026-02-20",
+  "due_date": "2026-04-21",
+  "amount": 52235.46,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AP-INV-0063",
+  "ledger": "ap",
+  "counterparty": "Tanaka Industrial Co",
+  "issue_date": "2026-05-11",
+  "due_date": "2026-07-10",
+  "amount": 62121.33,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AP-INV-0064",
+  "ledger": "ap",
+  "counterparty": "Sterling & Hayes LLP",
+  "issue_date": "2026-04-09",
+  "due_date": "2026-05-09",
+  "amount": 28580.39,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AP-INV-0065",
+  "ledger": "ap",
+  "counterparty": "Granite Peak Software",
+  "issue_date": "2026-03-16",
+  "due_date": "2026-04-30",
+  "amount": 32998.33,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AP-INV-0066",
+  "ledger": "ap",
+  "counterparty": "Reddy Facilities Mgmt",
+  "issue_date": "2026-03-01",
+  "due_date": "2026-03-31",
+  "amount": 89520.78,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AP-INV-0067",
+  "ledger": "ap",
+  "counterparty": "Chen Wei Manufacturing",
+  "issue_date": "2026-05-13",
+  "due_date": "2026-06-27",
+  "amount": 84941.91,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AP-INV-0068",
+  "ledger": "ap",
+  "counterparty": "Beacon Field Services",
+  "issue_date": "2026-05-29",
+  "due_date": "2026-07-28",
+  "amount": 58009.32,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AP-INV-0069",
+  "ledger": "ap",
+  "counterparty": "Bayt Al Hikma Advisory",
+  "issue_date": "2026-02-14",
+  "due_date": "2026-03-16",
+  "amount": 20162.85,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AP-INV-0070",
+  "ledger": "ap",
+  "counterparty": "Sato Precision Tools",
+  "issue_date": "2026-04-18",
+  "due_date": "2026-06-17",
+  "amount": 87989.03,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AP-INV-0071",
+  "ledger": "ap",
+  "counterparty": "Noor Al Ain Contracting",
+  "issue_date": "2026-01-18",
+  "due_date": "2026-03-04",
+  "amount": 23177.05,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AP-INV-0072",
+  "ledger": "ap",
+  "counterparty": "Mehta Engineering Works",
+  "issue_date": "2026-05-24",
+  "due_date": "2026-07-23",
+  "amount": 15268.17,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AP-INV-0073",
+  "ledger": "ap",
+  "counterparty": "Noor Al Ain Contracting",
+  "issue_date": "2026-03-05",
+  "due_date": "2026-03-20",
+  "amount": 78411.13,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AP-INV-0074",
+  "ledger": "ap",
+  "counterparty": "Northwind Consulting",
+  "issue_date": "2026-01-03",
+  "due_date": "2026-03-04",
+  "amount": 20294.97,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AP-INV-0075",
+  "ledger": "ap",
+  "counterparty": "Whitfield Analytics",
+  "issue_date": "2026-03-23",
+  "due_date": "2026-04-07",
+  "amount": 29846.89,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AP-INV-0076",
+  "ledger": "ap",
+  "counterparty": "Nakamura Systems KK",
+  "issue_date": "2026-02-24",
+  "due_date": "2026-04-25",
+  "amount": 25763.41,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AP-INV-0077",
+  "ledger": "ap",
+  "counterparty": "Sharma Logistics Pvt Ltd",
+  "issue_date": "2026-01-17",
+  "due_date": "2026-03-18",
+  "amount": 35597.64,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AP-INV-0078",
+  "ledger": "ap",
+  "counterparty": "Patel Infotech Solutions",
+  "issue_date": "2026-02-11",
+  "due_date": "2026-02-26",
+  "amount": 25612.36,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AP-INV-0079",
+  "ledger": "ap",
+  "counterparty": "Lin Dynamics Ltd",
+  "issue_date": "2026-03-29",
+  "due_date": "2026-04-13",
+  "amount": 63675.53,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AP-INV-0080",
+  "ledger": "ap",
+  "counterparty": "Iyer & Krishnan Associates",
+  "issue_date": "2026-05-15",
+  "due_date": "2026-06-29",
+  "amount": 92240.46,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AP-INV-0081",
+  "ledger": "ap",
+  "counterparty": "Sharma Logistics Pvt Ltd",
+  "issue_date": "2026-01-06",
+  "due_date": "2026-02-05",
+  "amount": 77893.77,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AP-INV-0082",
+  "ledger": "ap",
+  "counterparty": "Dar Al Khaleej Services",
+  "issue_date": "2026-02-18",
+  "due_date": "2026-04-19",
+  "amount": 45663.91,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AP-INV-0083",
+  "ledger": "ap",
+  "counterparty": "Lin Dynamics Ltd",
+  "issue_date": "2026-05-16",
+  "due_date": "2026-07-15",
+  "amount": 4071.42,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AP-INV-0084",
+  "ledger": "ap",
+  "counterparty": "Patel Infotech Solutions",
+  "issue_date": "2026-01-10",
+  "due_date": "2026-02-09",
+  "amount": 17085.2,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AP-INV-0085",
+  "ledger": "ap",
+  "counterparty": "Hudson Print Co",
+  "issue_date": "2026-04-24",
+  "due_date": "2026-05-24",
+  "amount": 4820.07,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AP-INV-0086",
+  "ledger": "ap",
+  "counterparty": "Kim & Park Advisory",
+  "issue_date": "2026-05-16",
+  "due_date": "2026-07-15",
+  "amount": 14730.13,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AP-INV-0087",
+  "ledger": "ap",
+  "counterparty": "Sato Precision Tools",
+  "issue_date": "2026-01-04",
+  "due_date": "2026-02-18",
+  "amount": 86915.18,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AP-INV-0088",
+  "ledger": "ap",
+  "counterparty": "Sharma Logistics Pvt Ltd",
+  "issue_date": "2026-05-19",
+  "due_date": "2026-06-03",
+  "amount": 52803.5,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AP-INV-0089",
+  "ledger": "ap",
+  "counterparty": "Northwind Consulting",
+  "issue_date": "2026-03-27",
+  "due_date": "2026-05-26",
+  "amount": 74893.07,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AP-INV-0090",
+  "ledger": "ap",
+  "counterparty": "Hudson Print Co",
+  "issue_date": "2026-01-06",
+  "due_date": "2026-03-07",
+  "amount": 14760.42,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AP-INV-0091",
+  "ledger": "ap",
+  "counterparty": "Tanaka Industrial Co",
+  "issue_date": "2026-01-06",
+  "due_date": "2026-01-21",
+  "amount": 74233.11,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AP-INV-0092",
+  "ledger": "ap",
+  "counterparty": "Khalid Bin Rashid Est",
+  "issue_date": "2026-03-24",
+  "due_date": "2026-05-08",
+  "amount": 36882.7,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AP-INV-0093",
+  "ledger": "ap",
+  "counterparty": "Khalid Bin Rashid Est",
+  "issue_date": "2026-02-01",
+  "due_date": "2026-04-02",
+  "amount": 38760.15,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AP-INV-0094",
+  "ledger": "ap",
+  "counterparty": "Bayt Al Hikma Advisory",
+  "issue_date": "2026-01-01",
+  "due_date": "2026-03-02",
+  "amount": 65846.4,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AP-INV-0095",
+  "ledger": "ap",
+  "counterparty": "Al Safa Logistics",
+  "issue_date": "2026-05-24",
+  "due_date": "2026-07-23",
+  "amount": 2705.94,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AP-INV-0096",
+  "ledger": "ap",
+  "counterparty": "Mehta Engineering Works",
+  "issue_date": "2026-03-20",
+  "due_date": "2026-05-04",
+  "amount": 81645.72,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AP-INV-0097",
+  "ledger": "ap",
+  "counterparty": "Sato Precision Tools",
+  "issue_date": "2026-05-11",
+  "due_date": "2026-06-10",
+  "amount": 42541.02,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AP-INV-0098",
+  "ledger": "ap",
+  "counterparty": "Chen Wei Manufacturing",
+  "issue_date": "2026-03-15",
+  "due_date": "2026-04-29",
+  "amount": 61611.26,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AP-INV-0099",
+  "ledger": "ap",
+  "counterparty": "Iyer & Krishnan Associates",
+  "issue_date": "2026-04-18",
+  "due_date": "2026-06-17",
+  "amount": 70597.0,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AP-INV-0100",
+  "ledger": "ap",
+  "counterparty": "Banerjee Consulting Group",
+  "issue_date": "2026-01-24",
+  "due_date": "2026-03-10",
+  "amount": 75358.39,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AP-INV-0101",
+  "ledger": "ap",
+  "counterparty": "Sharma Logistics Pvt Ltd",
+  "issue_date": "2026-05-20",
+  "due_date": "2026-07-04",
+  "amount": 13578.21,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AP-INV-0102",
+  "ledger": "ap",
+  "counterparty": "Al Manara Trading LLC",
+  "issue_date": "2026-01-22",
+  "due_date": "2026-02-06",
+  "amount": 79643.2,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AP-INV-0103",
+  "ledger": "ap",
+  "counterparty": "Al Safa Logistics",
+  "issue_date": "2026-04-03",
+  "due_date": "2026-04-18",
+  "amount": 67176.52,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AP-INV-0104",
+  "ledger": "ap",
+  "counterparty": "Banerjee Consulting Group",
+  "issue_date": "2026-03-27",
+  "due_date": "2026-05-11",
+  "amount": 38191.96,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AP-INV-0105",
+  "ledger": "ap",
+  "counterparty": "Mehta Engineering Works",
+  "issue_date": "2026-05-05",
+  "due_date": "2026-05-20",
+  "amount": 56758.91,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AP-INV-0106",
+  "ledger": "ap",
+  "counterparty": "Al Safa Logistics",
+  "issue_date": "2026-04-21",
+  "due_date": "2026-06-20",
+  "amount": 33228.26,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AP-INV-0107",
+  "ledger": "ap",
+  "counterparty": "Sharma Logistics Pvt Ltd",
+  "issue_date": "2026-03-31",
+  "due_date": "2026-04-15",
+  "amount": 5477.13,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AP-INV-0108",
+  "ledger": "ap",
+  "counterparty": "Kim & Park Advisory",
+  "issue_date": "2026-01-10",
+  "due_date": "2026-02-09",
+  "amount": 22005.55,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AP-INV-0109",
+  "ledger": "ap",
+  "counterparty": "Banerjee Consulting Group",
+  "issue_date": "2026-04-14",
+  "due_date": "2026-05-29",
+  "amount": 2688.93,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AP-INV-0110",
+  "ledger": "ap",
+  "counterparty": "Kim & Park Advisory",
+  "issue_date": "2026-06-03",
+  "due_date": "2026-08-02",
+  "amount": 17115.5,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AP-INV-0111",
+  "ledger": "ap",
+  "counterparty": "Noor Al Ain Contracting",
+  "issue_date": "2026-06-03",
+  "due_date": "2026-07-03",
+  "amount": 67940.15,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AP-INV-0112",
+  "ledger": "ap",
+  "counterparty": "Al Safa Logistics",
+  "issue_date": "2026-03-27",
+  "due_date": "2026-05-26",
+  "amount": 44037.61,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AP-INV-0113",
+  "ledger": "ap",
+  "counterparty": "Banerjee Consulting Group",
+  "issue_date": "2026-04-11",
+  "due_date": "2026-06-10",
+  "amount": 78450.08,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AP-INV-0114",
+  "ledger": "ap",
+  "counterparty": "Nakamura Systems KK",
+  "issue_date": "2026-02-24",
+  "due_date": "2026-03-11",
+  "amount": 91842.93,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AP-INV-0115",
+  "ledger": "ap",
+  "counterparty": "Whitfield Analytics",
+  "issue_date": "2026-03-02",
+  "due_date": "2026-04-16",
+  "amount": 46179.76,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AP-INV-0116",
+  "ledger": "ap",
+  "counterparty": "Khalid Bin Rashid Est",
+  "issue_date": "2026-03-11",
+  "due_date": "2026-04-25",
+  "amount": 25400.04,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AP-INV-0117",
+  "ledger": "ap",
+  "counterparty": "Dar Al Khaleej Services",
+  "issue_date": "2026-03-21",
+  "due_date": "2026-04-20",
+  "amount": 85550.52,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AP-INV-0118",
+  "ledger": "ap",
+  "counterparty": "Nakamura Systems KK",
+  "issue_date": "2026-01-03",
+  "due_date": "2026-03-04",
+  "amount": 13981.36,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AP-INV-0119",
+  "ledger": "ap",
+  "counterparty": "Khalid Bin Rashid Est",
+  "issue_date": "2026-05-30",
+  "due_date": "2026-07-29",
+  "amount": 86231.07,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AP-INV-0120",
+  "ledger": "ap",
+  "counterparty": "Tanaka Industrial Co",
+  "issue_date": "2026-02-22",
+  "due_date": "2026-04-23",
+  "amount": 67500.1,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AR-INV-0121",
+  "ledger": "ar",
+  "counterparty": "Lin Dynamics Ltd",
+  "issue_date": "2026-01-10",
+  "due_date": "2026-02-09",
+  "amount": 21746.61,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AR-INV-0122",
+  "ledger": "ar",
+  "counterparty": "Nakamura Systems KK",
+  "issue_date": "2026-01-20",
+  "due_date": "2026-03-21",
+  "amount": 34570.43,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AR-INV-0123",
+  "ledger": "ar",
+  "counterparty": "Reddy Facilities Mgmt",
+  "issue_date": "2026-03-21",
+  "due_date": "2026-04-20",
+  "amount": 17863.0,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AR-INV-0124",
+  "ledger": "ar",
+  "counterparty": "Khalid Bin Rashid Est",
+  "issue_date": "2026-05-12",
+  "due_date": "2026-07-11",
+  "amount": 69112.58,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AR-INV-0125",
+  "ledger": "ar",
+  "counterparty": "Bayt Al Hikma Advisory",
+  "issue_date": "2026-01-13",
+  "due_date": "2026-02-12",
+  "amount": 62447.74,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AR-INV-0126",
+  "ledger": "ar",
+  "counterparty": "Noor Al Ain Contracting",
+  "issue_date": "2026-04-10",
+  "due_date": "2026-05-25",
+  "amount": 40408.52,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AR-INV-0127",
+  "ledger": "ar",
+  "counterparty": "Noor Al Ain Contracting",
+  "issue_date": "2026-03-13",
+  "due_date": "2026-04-27",
+  "amount": 44486.25,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AR-INV-0128",
+  "ledger": "ar",
+  "counterparty": "Kim & Park Advisory",
+  "issue_date": "2026-05-06",
+  "due_date": "2026-07-05",
+  "amount": 55772.73,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AR-INV-0129",
+  "ledger": "ar",
+  "counterparty": "Banerjee Consulting Group",
+  "issue_date": "2026-05-18",
+  "due_date": "2026-07-17",
+  "amount": 12086.66,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AR-INV-0130",
+  "ledger": "ar",
+  "counterparty": "Hudson Print Co",
+  "issue_date": "2026-02-28",
+  "due_date": "2026-04-14",
+  "amount": 13739.81,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AR-INV-0131",
+  "ledger": "ar",
+  "counterparty": "Tanaka Industrial Co",
+  "issue_date": "2026-04-15",
+  "due_date": "2026-05-30",
+  "amount": 84906.01,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AR-INV-0132",
+  "ledger": "ar",
+  "counterparty": "Lin Dynamics Ltd",
+  "issue_date": "2026-02-08",
+  "due_date": "2026-03-10",
+  "amount": 17789.61,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AR-INV-0133",
+  "ledger": "ar",
+  "counterparty": "Beacon Field Services",
+  "issue_date": "2026-05-16",
+  "due_date": "2026-07-15",
+  "amount": 30323.61,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AR-INV-0134",
+  "ledger": "ar",
+  "counterparty": "Al Manara Trading LLC",
+  "issue_date": "2026-05-22",
+  "due_date": "2026-06-06",
+  "amount": 72504.41,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AR-INV-0135",
+  "ledger": "ar",
+  "counterparty": "Granite Peak Software",
+  "issue_date": "2026-04-23",
+  "due_date": "2026-05-23",
+  "amount": 12990.04,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AR-INV-0136",
+  "ledger": "ar",
+  "counterparty": "Mehta Engineering Works",
+  "issue_date": "2026-02-14",
+  "due_date": "2026-04-15",
+  "amount": 36908.41,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AR-INV-0137",
+  "ledger": "ar",
+  "counterparty": "Northwind Consulting",
+  "issue_date": "2026-05-27",
+  "due_date": "2026-06-26",
+  "amount": 84827.0,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AR-INV-0138",
+  "ledger": "ar",
+  "counterparty": "Northwind Consulting",
+  "issue_date": "2026-01-21",
+  "due_date": "2026-02-20",
+  "amount": 59833.91,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AR-INV-0139",
+  "ledger": "ar",
+  "counterparty": "Al Safa Logistics",
+  "issue_date": "2026-04-03",
+  "due_date": "2026-05-03",
+  "amount": 30199.09,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AR-INV-0140",
+  "ledger": "ar",
+  "counterparty": "Noor Al Ain Contracting",
+  "issue_date": "2026-05-10",
+  "due_date": "2026-07-09",
+  "amount": 16533.3,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AR-INV-0141",
+  "ledger": "ar",
+  "counterparty": "Patel Infotech Solutions",
+  "issue_date": "2026-05-25",
+  "due_date": "2026-07-09",
+  "amount": 69361.77,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AR-INV-0142",
+  "ledger": "ar",
+  "counterparty": "Nakamura Systems KK",
+  "issue_date": "2026-01-04",
+  "due_date": "2026-02-18",
+  "amount": 94573.5,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AR-INV-0143",
+  "ledger": "ar",
+  "counterparty": "Al Manara Trading LLC",
+  "issue_date": "2026-03-10",
+  "due_date": "2026-05-09",
+  "amount": 16332.03,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AR-INV-0144",
+  "ledger": "ar",
+  "counterparty": "Sato Precision Tools",
+  "issue_date": "2026-02-22",
+  "due_date": "2026-03-09",
+  "amount": 93575.65,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AR-INV-0145",
+  "ledger": "ar",
+  "counterparty": "Beacon Field Services",
+  "issue_date": "2026-04-12",
+  "due_date": "2026-04-27",
+  "amount": 12401.86,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AR-INV-0146",
+  "ledger": "ar",
+  "counterparty": "Khalid Bin Rashid Est",
+  "issue_date": "2026-05-27",
+  "due_date": "2026-07-26",
+  "amount": 73451.72,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AR-INV-0147",
+  "ledger": "ar",
+  "counterparty": "Kim & Park Advisory",
+  "issue_date": "2026-05-24",
+  "due_date": "2026-06-08",
+  "amount": 79562.5,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AR-INV-0148",
+  "ledger": "ar",
+  "counterparty": "Sharma Logistics Pvt Ltd",
+  "issue_date": "2026-05-24",
+  "due_date": "2026-06-08",
+  "amount": 12442.65,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AR-INV-0149",
+  "ledger": "ar",
+  "counterparty": "Al Manara Trading LLC",
+  "issue_date": "2026-04-02",
+  "due_date": "2026-06-01",
+  "amount": 66287.09,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AR-INV-0150",
+  "ledger": "ar",
+  "counterparty": "Whitfield Analytics",
+  "issue_date": "2026-06-03",
+  "due_date": "2026-07-18",
+  "amount": 63205.9,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AR-INV-0151",
+  "ledger": "ar",
+  "counterparty": "Whitfield Analytics",
+  "issue_date": "2026-03-28",
+  "due_date": "2026-04-27",
+  "amount": 48991.29,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AR-INV-0152",
+  "ledger": "ar",
+  "counterparty": "Whitfield Analytics",
+  "issue_date": "2026-05-06",
+  "due_date": "2026-06-20",
+  "amount": 47687.02,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AR-INV-0153",
+  "ledger": "ar",
+  "counterparty": "Banerjee Consulting Group",
+  "issue_date": "2026-01-01",
+  "due_date": "2026-01-31",
+  "amount": 92467.88,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AR-INV-0154",
+  "ledger": "ar",
+  "counterparty": "Sterling & Hayes LLP",
+  "issue_date": "2026-03-06",
+  "due_date": "2026-05-05",
+  "amount": 52434.67,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AR-INV-0155",
+  "ledger": "ar",
+  "counterparty": "Northwind Consulting",
+  "issue_date": "2026-04-13",
+  "due_date": "2026-06-12",
+  "amount": 2000.99,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AR-INV-0156",
+  "ledger": "ar",
+  "counterparty": "Nakamura Systems KK",
+  "issue_date": "2026-05-14",
+  "due_date": "2026-05-29",
+  "amount": 47344.6,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AR-INV-0157",
+  "ledger": "ar",
+  "counterparty": "Whitfield Analytics",
+  "issue_date": "2026-05-13",
+  "due_date": "2026-05-28",
+  "amount": 86030.22,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AR-INV-0158",
+  "ledger": "ar",
+  "counterparty": "Noor Al Ain Contracting",
+  "issue_date": "2026-04-07",
+  "due_date": "2026-06-06",
+  "amount": 25680.58,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AR-INV-0159",
+  "ledger": "ar",
+  "counterparty": "Sterling & Hayes LLP",
+  "issue_date": "2026-05-24",
+  "due_date": "2026-06-08",
+  "amount": 81081.83,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AR-INV-0160",
+  "ledger": "ar",
+  "counterparty": "Whitfield Analytics",
+  "issue_date": "2026-03-05",
+  "due_date": "2026-04-19",
+  "amount": 9748.86,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AR-INV-0161",
+  "ledger": "ar",
+  "counterparty": "Nakamura Systems KK",
+  "issue_date": "2026-05-25",
+  "due_date": "2026-06-09",
+  "amount": 61766.11,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AR-INV-0162",
+  "ledger": "ar",
+  "counterparty": "Chen Wei Manufacturing",
+  "issue_date": "2026-03-13",
+  "due_date": "2026-04-27",
+  "amount": 26074.75,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AR-INV-0163",
+  "ledger": "ar",
+  "counterparty": "Beacon Field Services",
+  "issue_date": "2026-05-13",
+  "due_date": "2026-06-27",
+  "amount": 11522.97,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AR-INV-0164",
+  "ledger": "ar",
+  "counterparty": "Sharma Logistics Pvt Ltd",
+  "issue_date": "2026-02-23",
+  "due_date": "2026-04-24",
+  "amount": 65788.81,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AR-INV-0165",
+  "ledger": "ar",
+  "counterparty": "Beacon Field Services",
+  "issue_date": "2026-02-03",
+  "due_date": "2026-04-04",
+  "amount": 11449.93,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AR-INV-0166",
+  "ledger": "ar",
+  "counterparty": "Tanaka Industrial Co",
+  "issue_date": "2026-05-21",
+  "due_date": "2026-06-20",
+  "amount": 46267.97,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AR-INV-0167",
+  "ledger": "ar",
+  "counterparty": "Sharma Logistics Pvt Ltd",
+  "issue_date": "2026-01-11",
+  "due_date": "2026-03-12",
+  "amount": 74197.28,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AR-INV-0168",
+  "ledger": "ar",
+  "counterparty": "Mehta Engineering Works",
+  "issue_date": "2026-05-29",
+  "due_date": "2026-06-28",
+  "amount": 11438.71,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AR-INV-0169",
+  "ledger": "ar",
+  "counterparty": "Khalid Bin Rashid Est",
+  "issue_date": "2026-02-20",
+  "due_date": "2026-04-21",
+  "amount": 62498.51,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AR-INV-0170",
+  "ledger": "ar",
+  "counterparty": "Nakamura Systems KK",
+  "issue_date": "2026-06-02",
+  "due_date": "2026-07-02",
+  "amount": 83050.12,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AR-INV-0171",
+  "ledger": "ar",
+  "counterparty": "Sato Precision Tools",
+  "issue_date": "2026-01-24",
+  "due_date": "2026-02-08",
+  "amount": 24215.95,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AR-INV-0172",
+  "ledger": "ar",
+  "counterparty": "Reddy Facilities Mgmt",
+  "issue_date": "2026-03-09",
+  "due_date": "2026-05-08",
+  "amount": 84832.23,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AR-INV-0173",
+  "ledger": "ar",
+  "counterparty": "Beacon Field Services",
+  "issue_date": "2026-05-23",
+  "due_date": "2026-06-07",
+  "amount": 48424.47,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AR-INV-0174",
+  "ledger": "ar",
+  "counterparty": "Granite Peak Software",
+  "issue_date": "2026-02-05",
+  "due_date": "2026-04-06",
+  "amount": 71584.71,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AR-INV-0175",
+  "ledger": "ar",
+  "counterparty": "Khalid Bin Rashid Est",
+  "issue_date": "2026-03-15",
+  "due_date": "2026-04-14",
+  "amount": 5543.04,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AR-INV-0176",
+  "ledger": "ar",
+  "counterparty": "Dar Al Khaleej Services",
+  "issue_date": "2026-04-09",
+  "due_date": "2026-06-08",
+  "amount": 8225.84,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AR-INV-0177",
+  "ledger": "ar",
+  "counterparty": "Mehta Engineering Works",
+  "issue_date": "2026-02-12",
+  "due_date": "2026-04-13",
+  "amount": 42913.82,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AR-INV-0178",
+  "ledger": "ar",
+  "counterparty": "Northwind Consulting",
+  "issue_date": "2026-05-06",
+  "due_date": "2026-07-05",
+  "amount": 10469.0,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AR-INV-0179",
+  "ledger": "ar",
+  "counterparty": "Northwind Consulting",
+  "issue_date": "2026-02-20",
+  "due_date": "2026-03-07",
+  "amount": 78600.61,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AR-INV-0180",
+  "ledger": "ar",
+  "counterparty": "Reddy Facilities Mgmt",
+  "issue_date": "2026-01-02",
+  "due_date": "2026-02-16",
+  "amount": 20285.39,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AR-INV-0181",
+  "ledger": "ar",
+  "counterparty": "Sterling & Hayes LLP",
+  "issue_date": "2026-02-09",
+  "due_date": "2026-03-26",
+  "amount": 77722.65,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AR-INV-0182",
+  "ledger": "ar",
+  "counterparty": "Chen Wei Manufacturing",
+  "issue_date": "2026-02-09",
+  "due_date": "2026-03-26",
+  "amount": 57315.4,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AR-INV-0183",
+  "ledger": "ar",
+  "counterparty": "Nakamura Systems KK",
+  "issue_date": "2026-03-04",
+  "due_date": "2026-05-03",
+  "amount": 21688.58,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AR-INV-0184",
+  "ledger": "ar",
+  "counterparty": "Noor Al Ain Contracting",
+  "issue_date": "2026-03-10",
+  "due_date": "2026-04-24",
+  "amount": 52392.45,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AR-INV-0185",
+  "ledger": "ar",
+  "counterparty": "Beacon Field Services",
+  "issue_date": "2026-03-02",
+  "due_date": "2026-03-17",
+  "amount": 47186.17,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AR-INV-0186",
+  "ledger": "ar",
+  "counterparty": "Al Manara Trading LLC",
+  "issue_date": "2026-02-21",
+  "due_date": "2026-03-08",
+  "amount": 18466.59,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AR-INV-0187",
+  "ledger": "ar",
+  "counterparty": "Al Manara Trading LLC",
+  "issue_date": "2026-02-25",
+  "due_date": "2026-03-27",
+  "amount": 68321.42,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AR-INV-0188",
+  "ledger": "ar",
+  "counterparty": "Kim & Park Advisory",
+  "issue_date": "2026-05-09",
+  "due_date": "2026-07-08",
+  "amount": 79689.32,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AR-INV-0189",
+  "ledger": "ar",
+  "counterparty": "Patel Infotech Solutions",
+  "issue_date": "2026-01-06",
+  "due_date": "2026-01-21",
+  "amount": 43885.94,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AR-INV-0190",
+  "ledger": "ar",
+  "counterparty": "Northwind Consulting",
+  "issue_date": "2026-01-06",
+  "due_date": "2026-02-05",
+  "amount": 50760.32,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AR-INV-0191",
+  "ledger": "ar",
+  "counterparty": "Mehta Engineering Works",
+  "issue_date": "2026-05-24",
+  "due_date": "2026-07-23",
+  "amount": 87875.74,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AR-INV-0192",
+  "ledger": "ar",
+  "counterparty": "Hudson Print Co",
+  "issue_date": "2026-04-21",
+  "due_date": "2026-05-21",
+  "amount": 10554.78,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AR-INV-0193",
+  "ledger": "ar",
+  "counterparty": "Sharma Logistics Pvt Ltd",
+  "issue_date": "2026-01-03",
+  "due_date": "2026-02-17",
+  "amount": 40238.22,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AR-INV-0194",
+  "ledger": "ar",
+  "counterparty": "Bayt Al Hikma Advisory",
+  "issue_date": "2026-01-01",
+  "due_date": "2026-01-31",
+  "amount": 92220.31,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AR-INV-0195",
+  "ledger": "ar",
+  "counterparty": "Chen Wei Manufacturing",
+  "issue_date": "2026-02-10",
+  "due_date": "2026-03-12",
+  "amount": 66741.35,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AR-INV-0196",
+  "ledger": "ar",
+  "counterparty": "Reddy Facilities Mgmt",
+  "issue_date": "2026-01-25",
+  "due_date": "2026-03-11",
+  "amount": 81878.65,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AR-INV-0197",
+  "ledger": "ar",
+  "counterparty": "Chen Wei Manufacturing",
+  "issue_date": "2026-01-15",
+  "due_date": "2026-02-14",
+  "amount": 68095.02,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AR-INV-0198",
+  "ledger": "ar",
+  "counterparty": "Kim & Park Advisory",
+  "issue_date": "2026-03-09",
+  "due_date": "2026-04-08",
+  "amount": 92661.91,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AR-INV-0199",
+  "ledger": "ar",
+  "counterparty": "Al Safa Logistics",
+  "issue_date": "2026-04-21",
+  "due_date": "2026-06-05",
+  "amount": 53766.8,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AR-INV-0200",
+  "ledger": "ar",
+  "counterparty": "Reddy Facilities Mgmt",
+  "issue_date": "2026-01-07",
+  "due_date": "2026-03-08",
+  "amount": 27734.42,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AR-INV-0201",
+  "ledger": "ar",
+  "counterparty": "Northwind Consulting",
+  "issue_date": "2026-02-17",
+  "due_date": "2026-03-04",
+  "amount": 36677.98,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AR-INV-0202",
+  "ledger": "ar",
+  "counterparty": "Beacon Field Services",
+  "issue_date": "2026-05-23",
+  "due_date": "2026-06-07",
+  "amount": 93448.75,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AR-INV-0203",
+  "ledger": "ar",
+  "counterparty": "Lin Dynamics Ltd",
+  "issue_date": "2026-04-02",
+  "due_date": "2026-05-02",
+  "amount": 74686.47,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AR-INV-0204",
+  "ledger": "ar",
+  "counterparty": "Patel Infotech Solutions",
+  "issue_date": "2026-04-14",
+  "due_date": "2026-04-29",
+  "amount": 10453.62,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AR-INV-0205",
+  "ledger": "ar",
+  "counterparty": "Reddy Facilities Mgmt",
+  "issue_date": "2026-01-13",
+  "due_date": "2026-02-12",
+  "amount": 37433.12,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AR-INV-0206",
+  "ledger": "ar",
+  "counterparty": "Sterling & Hayes LLP",
+  "issue_date": "2026-01-26",
+  "due_date": "2026-03-12",
+  "amount": 88074.87,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AR-INV-0207",
+  "ledger": "ar",
+  "counterparty": "Nakamura Systems KK",
+  "issue_date": "2026-02-26",
+  "due_date": "2026-04-27",
+  "amount": 30252.01,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AR-INV-0208",
+  "ledger": "ar",
+  "counterparty": "Khalid Bin Rashid Est",
+  "issue_date": "2026-01-15",
+  "due_date": "2026-01-30",
+  "amount": 19930.82,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AR-INV-0209",
+  "ledger": "ar",
+  "counterparty": "Lin Dynamics Ltd",
+  "issue_date": "2026-02-12",
+  "due_date": "2026-03-14",
+  "amount": 67639.18,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AR-INV-0210",
+  "ledger": "ar",
+  "counterparty": "Al Manara Trading LLC",
+  "issue_date": "2026-03-03",
+  "due_date": "2026-04-02",
+  "amount": 28511.54,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AR-INV-0211",
+  "ledger": "ar",
+  "counterparty": "Beacon Field Services",
+  "issue_date": "2026-04-21",
+  "due_date": "2026-05-06",
+  "amount": 70044.49,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AR-INV-0212",
+  "ledger": "ar",
+  "counterparty": "Khalid Bin Rashid Est",
+  "issue_date": "2026-05-06",
+  "due_date": "2026-07-05",
+  "amount": 53231.59,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AR-INV-0213",
+  "ledger": "ar",
+  "counterparty": "Khalid Bin Rashid Est",
+  "issue_date": "2026-05-03",
+  "due_date": "2026-06-02",
+  "amount": 1331.77,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AR-INV-0214",
+  "ledger": "ar",
+  "counterparty": "Bayt Al Hikma Advisory",
+  "issue_date": "2026-02-06",
+  "due_date": "2026-03-08",
+  "amount": 57026.13,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AR-INV-0215",
+  "ledger": "ar",
+  "counterparty": "Reddy Facilities Mgmt",
+  "issue_date": "2026-03-20",
+  "due_date": "2026-05-19",
+  "amount": 34531.66,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AR-INV-0216",
+  "ledger": "ar",
+  "counterparty": "Banerjee Consulting Group",
+  "issue_date": "2026-03-16",
+  "due_date": "2026-04-15",
+  "amount": 7222.22,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AR-INV-0217",
+  "ledger": "ar",
+  "counterparty": "Reddy Facilities Mgmt",
+  "issue_date": "2026-01-27",
+  "due_date": "2026-02-26",
+  "amount": 38801.89,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AR-INV-0218",
+  "ledger": "ar",
+  "counterparty": "Nakamura Systems KK",
+  "issue_date": "2026-03-08",
+  "due_date": "2026-04-07",
+  "amount": 32063.43,
+  "status": "open"
+ },
+ {
+  "invoice_id": "AR-INV-0219",
+  "ledger": "ar",
+  "counterparty": "Chen Wei Manufacturing",
+  "issue_date": "2026-03-05",
+  "due_date": "2026-04-19",
+  "amount": 50773.0,
+  "status": "paid"
+ },
+ {
+  "invoice_id": "AR-INV-0220",
+  "ledger": "ar",
+  "counterparty": "Al Safa Logistics",
+  "issue_date": "2026-01-13",
+  "due_date": "2026-01-28",
+  "amount": 42781.85,
+  "status": "paid"
+ }
+]

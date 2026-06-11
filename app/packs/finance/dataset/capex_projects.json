@@ -1,0 +1,92 @@
+[
+ {
+  "project_id": "CAPEX-01",
+  "name": "HQ Data Center Expansion",
+  "budget": 3642000.0,
+  "spent": 3345707.71,
+  "percent_complete": 93,
+  "start_date": "2025-09-01",
+  "expected_completion": "2026-07-20"
+ },
+ {
+  "project_id": "CAPEX-02",
+  "name": "Abu Dhabi Office Fit-Out",
+  "budget": 2810000.0,
+  "spent": 1427579.19,
+  "percent_complete": 56,
+  "start_date": "2025-07-30",
+  "expected_completion": "2027-01-13"
+ },
+ {
+  "project_id": "CAPEX-03",
+  "name": "ERP Platform Migration",
+  "budget": 1212000.0,
+  "spent": 1458127.93,
+  "percent_complete": 70,
+  "start_date": "2025-11-10",
+  "expected_completion": "2027-01-07"
+ },
+ {
+  "project_id": "CAPEX-04",
+  "name": "Manufacturing Line Automation",
+  "budget": 2179000.0,
+  "spent": 1598224.22,
+  "percent_complete": 80,
+  "start_date": "2025-07-12",
+  "expected_completion": "2026-11-28"
+ },
+ {
+  "project_id": "CAPEX-05",
+  "name": "Fleet Electrification Phase 1",
+  "budget": 3619000.0,
+  "spent": 1267512.39,
+  "percent_complete": 39,
+  "start_date": "2025-07-22",
+  "expected_completion": "2026-08-18"
+ },
+ {
+  "project_id": "CAPEX-06",
+  "name": "Warehouse Robotics Pilot",
+  "budget": 878000.0,
+  "spent": 677714.26,
+  "percent_complete": 83,
+  "start_date": "2025-12-08",
+  "expected_completion": "2026-08-02"
+ },
+ {
+  "project_id": "CAPEX-07",
+  "name": "Network Infrastructure Refresh",
+  "budget": 1040000.0,
+  "spent": 1234498.16,
+  "percent_complete": 76,
+  "start_date": "2025-12-23",
+  "expected_completion": "2027-02-02"
+ },
+ {
+  "project_id": "CAPEX-08",
+  "name": "Solar Rooftop Installation",
+  "budget": 3384000.0,
+  "spent": 1291239.26,
+  "percent_complete": 41,
+  "start_date": "2025-12-27",
+  "expected_completion": "2027-02-07"
+ },
+ {
+  "project_id": "CAPEX-09",
+  "name": "Lab Equipment Upgrade",
+  "budget": 2675000.0,
+  "spent": 617625.59,
+  "percent_complete": 24,
+  "start_date": "2025-08-09",
+  "expected_completion": "2026-07-12"
+ },
+ {
+  "project_id": "CAPEX-10",
+  "name": "Security Systems Overhaul",
+  "budget": 1972000.0,
+  "spent": 961821.86,
+  "percent_complete": 57,
+  "start_date": "2025-07-19",
+  "expected_completion": "2026-07-27"
+ }
+]

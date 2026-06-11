@@ -1,0 +1,272 @@
+[
+ {
+  "req_id": "REQ-001",
+  "requester": "A. Hassan",
+  "category": "cloud services",
+  "description": "Purchase requisition replacement units",
+  "amount_usd": 364.81,
+  "budget_remaining_usd": 1978.59,
+  "date": "2026-06-01"
+ },
+ {
+  "req_id": "REQ-002",
+  "requester": "S. Park",
+  "category": "professional services",
+  "description": "Purchase requisition Q3 capacity",
+  "amount_usd": 11023.4,
+  "budget_remaining_usd": 34084.18,
+  "date": "2026-06-01"
+ },
+ {
+  "req_id": "REQ-003",
+  "requester": "J. Carter",
+  "category": "professional services",
+  "description": "Purchase requisition replacement units",
+  "amount_usd": 30491.16,
+  "budget_remaining_usd": 91307.48,
+  "date": "2026-06-01"
+ },
+ {
+  "req_id": "REQ-004",
+  "requester": "J. Carter",
+  "category": "cloud services",
+  "description": "Purchase requisition replacement units",
+  "amount_usd": 1210.86,
+  "budget_remaining_usd": 4369.87,
+  "date": "2026-06-01"
+ },
+ {
+  "req_id": "REQ-005",
+  "requester": "T. Almheiri",
+  "category": "MRO",
+  "description": "Purchase requisition annual renewal",
+  "amount_usd": 44404.72,
+  "budget_remaining_usd": 19378.87,
+  "date": "2026-06-01"
+ },
+ {
+  "req_id": "REQ-006",
+  "requester": "R. Iyer",
+  "category": "facilities",
+  "description": "Purchase requisition site expansion",
+  "amount_usd": 4819.82,
+  "budget_remaining_usd": 21652.78,
+  "date": "2026-06-01"
+ },
+ {
+  "req_id": "REQ-007",
+  "requester": "F. El-Sayed",
+  "category": "professional services",
+  "description": "Purchase requisition new project onboarding",
+  "amount_usd": 396611.1,
+  "budget_remaining_usd": 1374471.11,
+  "date": "2026-06-01"
+ },
+ {
+  "req_id": "REQ-008",
+  "requester": "P. Sharma",
+  "category": "MRO",
+  "description": "Purchase requisition new project onboarding",
+  "amount_usd": 43628.39,
+  "budget_remaining_usd": 253066.64,
+  "date": "2026-06-01"
+ },
+ {
+  "req_id": "REQ-009",
+  "requester": "K. Nowak",
+  "category": "MRO",
+  "description": "Purchase requisition new project onboarding",
+  "amount_usd": 2717.65,
+  "budget_remaining_usd": 924.05,
+  "date": "2026-06-01"
+ },
+ {
+  "req_id": "REQ-010",
+  "requester": "S. Park",
+  "category": "MRO",
+  "description": "Purchase requisition Q3 capacity",
+  "amount_usd": 31764.95,
+  "budget_remaining_usd": 189650.54,
+  "date": "2026-06-01"
+ },
+ {
+  "req_id": "REQ-011",
+  "requester": "S. Park",
+  "category": "professional services",
+  "description": "Purchase requisition maintenance stock",
+  "amount_usd": 3623.78,
+  "budget_remaining_usd": 8720.99,
+  "date": "2026-06-01"
+ },
+ {
+  "req_id": "REQ-012",
+  "requester": "T. Almheiri",
+  "category": "facilities",
+  "description": "Purchase requisition maintenance stock",
+  "amount_usd": 43205.49,
+  "budget_remaining_usd": 89915.55,
+  "date": "2026-06-01"
+ },
+ {
+  "req_id": "REQ-013",
+  "requester": "K. Nowak",
+  "category": "MRO",
+  "description": "Purchase requisition site expansion",
+  "amount_usd": 3445.01,
+  "budget_remaining_usd": 13228.83,
+  "date": "2026-06-01"
+ },
+ {
+  "req_id": "REQ-014",
+  "requester": "J. Carter",
+  "category": "IT hardware",
+  "description": "Purchase requisition site expansion",
+  "amount_usd": 152730.23,
+  "budget_remaining_usd": 783034.77,
+  "date": "2026-06-01"
+ },
+ {
+  "req_id": "REQ-015",
+  "requester": "M. Weber",
+  "category": "MRO",
+  "description": "Purchase requisition Q3 capacity",
+  "amount_usd": 31280.93,
+  "budget_remaining_usd": 106082.42,
+  "date": "2026-06-01"
+ },
+ {
+  "req_id": "REQ-016",
+  "requester": "K. Nowak",
+  "category": "IT hardware",
+  "description": "Purchase requisition maintenance stock",
+  "amount_usd": 45457.1,
+  "budget_remaining_usd": 102615.71,
+  "date": "2026-06-01"
+ },
+ {
+  "req_id": "REQ-017",
+  "requester": "S. Park",
+  "category": "logistics",
+  "description": "Purchase requisition maintenance stock",
+  "amount_usd": 248781.15,
+  "budget_remaining_usd": 1092824.1,
+  "date": "2026-06-01"
+ },
+ {
+  "req_id": "REQ-018",
+  "requester": "J. Carter",
+  "category": "cloud services",
+  "description": "Purchase requisition annual renewal",
+  "amount_usd": 183276.7,
+  "budget_remaining_usd": 788492.58,
+  "date": "2026-06-01"
+ },
+ {
+  "req_id": "REQ-019",
+  "requester": "R. Iyer",
+  "category": "facilities",
+  "description": "Purchase requisition site expansion",
+  "amount_usd": 267193.58,
+  "budget_remaining_usd": 905774.21,
+  "date": "2026-06-01"
+ },
+ {
+  "req_id": "REQ-020",
+  "requester": "R. Iyer",
+  "category": "cloud services",
+  "description": "Purchase requisition maintenance stock",
+  "amount_usd": 97235.4,
+  "budget_remaining_usd": 237647.34,
+  "date": "2026-06-01"
+ },
+ {
+  "req_id": "REQ-021",
+  "requester": "K. Nowak",
+  "category": "cloud services",
+  "description": "Purchase requisition site expansion",
+  "amount_usd": 24120.04,
+  "budget_remaining_usd": 7272.02,
+  "date": "2026-06-01"
+ },
+ {
+  "req_id": "REQ-022",
+  "requester": "P. Sharma",
+  "category": "facilities",
+  "description": "Purchase requisition replacement units",
+  "amount_usd": 16914.14,
+  "budget_remaining_usd": 41631.85,
+  "date": "2026-06-01"
+ },
+ {
+  "req_id": "REQ-023",
+  "requester": "S. Park",
+  "category": "IT hardware",
+  "description": "Purchase requisition annual renewal",
+  "amount_usd": 8136.26,
+  "budget_remaining_usd": 48148.49,
+  "date": "2026-06-01"
+ },
+ {
+  "req_id": "REQ-024",
+  "requester": "L. Chen",
+  "category": "facilities",
+  "description": "Purchase requisition Q3 capacity",
+  "amount_usd": 3645.45,
+  "budget_remaining_usd": 14341.09,
+  "date": "2026-06-01"
+ },
+ {
+  "req_id": "REQ-025",
+  "requester": "F. El-Sayed",
+  "category": "facilities",
+  "description": "Purchase requisition site expansion",
+  "amount_usd": 30732.41,
+  "budget_remaining_usd": 168677.69,
+  "date": "2026-06-01"
+ },
+ {
+  "req_id": "REQ-026",
+  "requester": "T. Almheiri",
+  "category": "professional services",
+  "description": "Purchase requisition site expansion",
+  "amount_usd": 438.62,
+  "budget_remaining_usd": 1274.56,
+  "date": "2026-06-01"
+ },
+ {
+  "req_id": "REQ-027",
+  "requester": "K. Nowak",
+  "category": "cloud services",
+  "description": "Purchase requisition Q3 capacity",
+  "amount_usd": 17303.19,
+  "budget_remaining_usd": 91047.48,
+  "date": "2026-06-01"
+ },
+ {
+  "req_id": "REQ-028",
+  "requester": "L. Chen",
+  "category": "cloud services",
+  "description": "Purchase requisition maintenance stock",
+  "amount_usd": 3840.08,
+  "budget_remaining_usd": 8067.35,
+  "date": "2026-06-01"
+ },
+ {
+  "req_id": "REQ-029",
+  "requester": "R. Iyer",
+  "category": "professional services",
+  "description": "Purchase requisition site expansion",
+  "amount_usd": 3204.19,
+  "budget_remaining_usd": 11637.32,
+  "date": "2026-06-01"
+ },
+ {
+  "req_id": "REQ-030",
+  "requester": "A. Hassan",
+  "category": "cloud services",
+  "description": "Purchase requisition Q3 capacity",
+  "amount_usd": 8006.77,
+  "budget_remaining_usd": 46089.2,
+  "date": "2026-06-01"
+ }
+]

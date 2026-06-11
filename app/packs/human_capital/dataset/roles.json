@@ -1,0 +1,50 @@
+[
+  {
+    "role_id": "ROLE-ENG-01",
+    "title": "Senior Software Engineer",
+    "role_family": "Engineering",
+    "level": "L4",
+    "department": "Technology",
+    "required_skills": [
+      "python",
+      "distributed_systems",
+      "kubernetes",
+      "system_design",
+      "ci_cd"
+    ],
+    "min_years_experience": 5,
+    "status": "open"
+  },
+  {
+    "role_id": "ROLE-DATA-02",
+    "title": "Data Scientist",
+    "role_family": "Data Science",
+    "level": "L3",
+    "department": "Technology",
+    "required_skills": [
+      "python",
+      "sql",
+      "machine_learning",
+      "statistics",
+      "data_visualization"
+    ],
+    "min_years_experience": 3,
+    "status": "open"
+  },
+  {
+    "role_id": "ROLE-PM-03",
+    "title": "Product Manager",
+    "role_family": "Product",
+    "level": "L4",
+    "department": "Product & Design",
+    "required_skills": [
+      "roadmapping",
+      "stakeholder_management",
+      "analytics",
+      "agile",
+      "user_research"
+    ],
+    "min_years_experience": 4,
+    "status": "open"
+  }
+]

@@ -1,0 +1,578 @@
+[
+ {
+  "period": "2025-07",
+  "cost_center": "CC-OPS",
+  "budget": 128214.61,
+  "actual": 123896.23
+ },
+ {
+  "period": "2025-07",
+  "cost_center": "CC-ENG",
+  "budget": 148815.16,
+  "actual": 159539.03
+ },
+ {
+  "period": "2025-07",
+  "cost_center": "CC-MKT",
+  "budget": 41639.92,
+  "actual": 38556.54
+ },
+ {
+  "period": "2025-07",
+  "cost_center": "CC-FIN",
+  "budget": 135687.36,
+  "actual": 147138.88
+ },
+ {
+  "period": "2025-07",
+  "cost_center": "CC-HR",
+  "budget": 144096.06,
+  "actual": 146290.76
+ },
+ {
+  "period": "2025-07",
+  "cost_center": "CC-IT",
+  "budget": 76383.36,
+  "actual": 78184.33
+ },
+ {
+  "period": "2025-07",
+  "cost_center": "CC-SLS",
+  "budget": 75872.82,
+  "actual": 76667.8
+ },
+ {
+  "period": "2025-07",
+  "cost_center": "CC-RND",
+  "budget": 94997.58,
+  "actual": 88698.63
+ },
+ {
+  "period": "2025-08",
+  "cost_center": "CC-OPS",
+  "budget": 93836.08,
+  "actual": 94236.07
+ },
+ {
+  "period": "2025-08",
+  "cost_center": "CC-ENG",
+  "budget": 170131.0,
+  "actual": 167066.32
+ },
+ {
+  "period": "2025-08",
+  "cost_center": "CC-MKT",
+  "budget": 119549.72,
+  "actual": 125696.45
+ },
+ {
+  "period": "2025-08",
+  "cost_center": "CC-FIN",
+  "budget": 184104.21,
+  "actual": 183227.9
+ },
+ {
+  "period": "2025-08",
+  "cost_center": "CC-HR",
+  "budget": 119717.64,
+  "actual": 109059.68
+ },
+ {
+  "period": "2025-08",
+  "cost_center": "CC-IT",
+  "budget": 72926.19,
+  "actual": 78151.51
+ },
+ {
+  "period": "2025-08",
+  "cost_center": "CC-SLS",
+  "budget": 42436.47,
+  "actual": 41372.15
+ },
+ {
+  "period": "2025-08",
+  "cost_center": "CC-RND",
+  "budget": 140735.06,
+  "actual": 152561.17
+ },
+ {
+  "period": "2025-09",
+  "cost_center": "CC-OPS",
+  "budget": 143437.99,
+  "actual": 149596.31
+ },
+ {
+  "period": "2025-09",
+  "cost_center": "CC-ENG",
+  "budget": 133244.71,
+  "actual": 122685.84
+ },
+ {
+  "period": "2025-09",
+  "cost_center": "CC-MKT",
+  "budget": 105203.63,
+  "actual": 96449.63
+ },
+ {
+  "period": "2025-09",
+  "cost_center": "CC-FIN",
+  "budget": 146522.63,
+  "actual": 147758.56
+ },
+ {
+  "period": "2025-09",
+  "cost_center": "CC-HR",
+  "budget": 127848.35,
+  "actual": 131589.74
+ },
+ {
+  "period": "2025-09",
+  "cost_center": "CC-IT",
+  "budget": 87998.65,
+  "actual": 83946.29
+ },
+ {
+  "period": "2025-09",
+  "cost_center": "CC-SLS",
+  "budget": 96276.75,
+  "actual": 90991.96
+ },
+ {
+  "period": "2025-09",
+  "cost_center": "CC-RND",
+  "budget": 101155.15,
+  "actual": 101536.57
+ },
+ {
+  "period": "2025-10",
+  "cost_center": "CC-OPS",
+  "budget": 126474.53,
+  "actual": 127441.82
+ },
+ {
+  "period": "2025-10",
+  "cost_center": "CC-ENG",
+  "budget": 157584.43,
+  "actual": 152211.85
+ },
+ {
+  "period": "2025-10",
+  "cost_center": "CC-MKT",
+  "budget": 96309.33,
+  "actual": 94720.12
+ },
+ {
+  "period": "2025-10",
+  "cost_center": "CC-FIN",
+  "budget": 116028.53,
+  "actual": 122459.82
+ },
+ {
+  "period": "2025-10",
+  "cost_center": "CC-HR",
+  "budget": 137372.27,
+  "actual": 146914.75
+ },
+ {
+  "period": "2025-10",
+  "cost_center": "CC-IT",
+  "budget": 93748.61,
+  "actual": 100349.19
+ },
+ {
+  "period": "2025-10",
+  "cost_center": "CC-SLS",
+  "budget": 116167.65,
+  "actual": 106991.38
+ },
+ {
+  "period": "2025-10",
+  "cost_center": "CC-RND",
+  "budget": 83520.28,
+  "actual": 76248.02
+ },
+ {
+  "period": "2025-11",
+  "cost_center": "CC-OPS",
+  "budget": 113925.89,
+  "actual": 120179.06
+ },
+ {
+  "period": "2025-11",
+  "cost_center": "CC-ENG",
+  "budget": 90847.07,
+  "actual": 92813.32
+ },
+ {
+  "period": "2025-11",
+  "cost_center": "CC-MKT",
+  "budget": 152326.26,
+  "actual": 148530.03
+ },
+ {
+  "period": "2025-11",
+  "cost_center": "CC-FIN",
+  "budget": 114217.46,
+  "actual": 108019.28
+ },
+ {
+  "period": "2025-11",
+  "cost_center": "CC-HR",
+  "budget": 51879.73,
+  "actual": 50030.06
+ },
+ {
+  "period": "2025-11",
+  "cost_center": "CC-IT",
+  "budget": 112645.73,
+  "actual": 108755.77
+ },
+ {
+  "period": "2025-11",
+  "cost_center": "CC-SLS",
+  "budget": 59248.06,
+  "actual": 60715.52
+ },
+ {
+  "period": "2025-11",
+  "cost_center": "CC-RND",
+  "budget": 150900.33,
+  "actual": 151089.57
+ },
+ {
+  "period": "2025-12",
+  "cost_center": "CC-OPS",
+  "budget": 143502.47,
+  "actual": 131458.62
+ },
+ {
+  "period": "2025-12",
+  "cost_center": "CC-ENG",
+  "budget": 124303.57,
+  "actual": 129085.58
+ },
+ {
+  "period": "2025-12",
+  "cost_center": "CC-MKT",
+  "budget": 128876.57,
+  "actual": 133688.51
+ },
+ {
+  "period": "2025-12",
+  "cost_center": "CC-FIN",
+  "budget": 148025.64,
+  "actual": 136249.21
+ },
+ {
+  "period": "2025-12",
+  "cost_center": "CC-HR",
+  "budget": 107338.25,
+  "actual": 114083.12
+ },
+ {
+  "period": "2025-12",
+  "cost_center": "CC-IT",
+  "budget": 166505.15,
+  "actual": 161622.0
+ },
+ {
+  "period": "2025-12",
+  "cost_center": "CC-SLS",
+  "budget": 44536.73,
+  "actual": 47893.84
+ },
+ {
+  "period": "2025-12",
+  "cost_center": "CC-RND",
+  "budget": 165605.91,
+  "actual": 159252.63
+ },
+ {
+  "period": "2026-01",
+  "cost_center": "CC-OPS",
+  "budget": 118569.0,
+  "actual": 114178.89
+ },
+ {
+  "period": "2026-01",
+  "cost_center": "CC-ENG",
+  "budget": 92681.97,
+  "actual": 97394.27
+ },
+ {
+  "period": "2026-01",
+  "cost_center": "CC-MKT",
+  "budget": 138528.94,
+  "actual": 150202.74
+ },
+ {
+  "period": "2026-01",
+  "cost_center": "CC-FIN",
+  "budget": 64078.11,
+  "actual": 67829.19
+ },
+ {
+  "period": "2026-01",
+  "cost_center": "CC-HR",
+  "budget": 57383.89,
+  "actual": 62235.58
+ },
+ {
+  "period": "2026-01",
+  "cost_center": "CC-IT",
+  "budget": 85931.61,
+  "actual": 85135.23
+ },
+ {
+  "period": "2026-01",
+  "cost_center": "CC-SLS",
+  "budget": 137362.73,
+  "actual": 139822.64
+ },
+ {
+  "period": "2026-01",
+  "cost_center": "CC-RND",
+  "budget": 163161.43,
+  "actual": 161051.64
+ },
+ {
+  "period": "2026-02",
+  "cost_center": "CC-OPS",
+  "budget": 49688.3,
+  "actual": 46522.39
+ },
+ {
+  "period": "2026-02",
+  "cost_center": "CC-ENG",
+  "budget": 104458.96,
+  "actual": 108061.24
+ },
+ {
+  "period": "2026-02",
+  "cost_center": "CC-MKT",
+  "budget": 116360.89,
+  "actual": 117901.09
+ },
+ {
+  "period": "2026-02",
+  "cost_center": "CC-FIN",
+  "budget": 20188.84,
+  "actual": 19137.07
+ },
+ {
+  "period": "2026-02",
+  "cost_center": "CC-HR",
+  "budget": 136677.76,
+  "actual": 126879.75
+ },
+ {
+  "period": "2026-02",
+  "cost_center": "CC-IT",
+  "budget": 114249.58,
+  "actual": 108609.65
+ },
+ {
+  "period": "2026-02",
+  "cost_center": "CC-SLS",
+  "budget": 128635.19,
+  "actual": 136664.18
+ },
+ {
+  "period": "2026-02",
+  "cost_center": "CC-RND",
+  "budget": 71720.1,
+  "actual": 66285.88
+ },
+ {
+  "period": "2026-03",
+  "cost_center": "CC-OPS",
+  "budget": 58213.45,
+  "actual": 234383.18
+ },
+ {
+  "period": "2026-03",
+  "cost_center": "CC-ENG",
+  "budget": 129065.76,
+  "actual": 129417.98
+ },
+ {
+  "period": "2026-03",
+  "cost_center": "CC-MKT",
+  "budget": 146519.01,
+  "actual": 144454.22
+ },
+ {
+  "period": "2026-03",
+  "cost_center": "CC-FIN",
+  "budget": 45437.11,
+  "actual": 46971.63
+ },
+ {
+  "period": "2026-03",
+  "cost_center": "CC-HR",
+  "budget": 129070.41,
+  "actual": 117817.74
+ },
+ {
+  "period": "2026-03",
+  "cost_center": "CC-IT",
+  "budget": 132565.15,
+  "actual": 128335.73
+ },
+ {
+  "period": "2026-03",
+  "cost_center": "CC-SLS",
+  "budget": 110993.54,
+  "actual": 109970.1
+ },
+ {
+  "period": "2026-03",
+  "cost_center": "CC-RND",
+  "budget": 74975.0,
+  "actual": 74090.31
+ },
+ {
+  "period": "2026-04",
+  "cost_center": "CC-OPS",
+  "budget": 80424.65,
+  "actual": 86480.07
+ },
+ {
+  "period": "2026-04",
+  "cost_center": "CC-ENG",
+  "budget": 153869.97,
+  "actual": 143176.84
+ },
+ {
+  "period": "2026-04",
+  "cost_center": "CC-MKT",
+  "budget": 121584.32,
+  "actual": 127978.29
+ },
+ {
+  "period": "2026-04",
+  "cost_center": "CC-FIN",
+  "budget": 64760.48,
+  "actual": 142089.99
+ },
+ {
+  "period": "2026-04",
+  "cost_center": "CC-HR",
+  "budget": 56199.49,
+  "actual": 53058.47
+ },
+ {
+  "period": "2026-04",
+  "cost_center": "CC-IT",
+  "budget": 129512.85,
+  "actual": 119811.88
+ },
+ {
+  "period": "2026-04",
+  "cost_center": "CC-SLS",
+  "budget": 171329.45,
+  "actual": 164527.6
+ },
+ {
+  "period": "2026-04",
+  "cost_center": "CC-RND",
+  "budget": 158310.04,
+  "actual": 168278.87
+ },
+ {
+  "period": "2026-05",
+  "cost_center": "CC-OPS",
+  "budget": 83490.98,
+  "actual": 79263.06
+ },
+ {
+  "period": "2026-05",
+  "cost_center": "CC-ENG",
+  "budget": 46809.19,
+  "actual": 50854.0
+ },
+ {
+  "period": "2026-05",
+  "cost_center": "CC-MKT",
+  "budget": 137044.03,
+  "actual": 327534.54
+ },
+ {
+  "period": "2026-05",
+  "cost_center": "CC-FIN",
+  "budget": 78814.6,
+  "actual": 85462.57
+ },
+ {
+  "period": "2026-05",
+  "cost_center": "CC-HR",
+  "budget": 103677.83,
+  "actual": 111688.5
+ },
+ {
+  "period": "2026-05",
+  "cost_center": "CC-IT",
+  "budget": 126009.4,
+  "actual": 127861.37
+ },
+ {
+  "period": "2026-05",
+  "cost_center": "CC-SLS",
+  "budget": 127290.62,
+  "actual": 117249.3
+ },
+ {
+  "period": "2026-05",
+  "cost_center": "CC-RND",
+  "budget": 116720.92,
+  "actual": 122578.59
+ },
+ {
+  "period": "2026-06",
+  "cost_center": "CC-OPS",
+  "budget": 77768.13,
+  "actual": 71160.09
+ },
+ {
+  "period": "2026-06",
+  "cost_center": "CC-ENG",
+  "budget": 59208.05,
+  "actual": 63914.36
+ },
+ {
+  "period": "2026-06",
+  "cost_center": "CC-MKT",
+  "budget": 131076.48,
+  "actual": 123127.29
+ },
+ {
+  "period": "2026-06",
+  "cost_center": "CC-FIN",
+  "budget": 136845.08,
+  "actual": 130512.14
+ },
+ {
+  "period": "2026-06",
+  "cost_center": "CC-HR",
+  "budget": 103842.38,
+  "actual": 100038.27
+ },
+ {
+  "period": "2026-06",
+  "cost_center": "CC-IT",
+  "budget": 106597.06,
+  "actual": 110990.88
+ },
+ {
+  "period": "2026-06",
+  "cost_center": "CC-SLS",
+  "budget": 149483.77,
+  "actual": 154955.66
+ },
+ {
+  "period": "2026-06",
+  "cost_center": "CC-RND",
+  "budget": 66235.2,
+  "actual": 61054.49
+ }
+]

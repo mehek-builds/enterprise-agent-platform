@@ -1,0 +1,222 @@
+{
+ "note": "Oracle ground truth. NOT loaded by tools.py.",
+ "twin_pairs": [
+  {
+   "pair": [
+    "S-001",
+    "S-035"
+   ],
+   "identical_performance": true
+  },
+  {
+   "pair": [
+    "S-002",
+    "S-036"
+   ],
+   "identical_performance": true
+  },
+  {
+   "pair": [
+    "S-003",
+    "S-037"
+   ],
+   "identical_performance": true
+  },
+  {
+   "pair": [
+    "S-004",
+    "S-038"
+   ],
+   "identical_performance": true
+  },
+  {
+   "pair": [
+    "S-005",
+    "S-039"
+   ],
+   "identical_performance": true
+  },
+  {
+   "pair": [
+    "S-006",
+    "S-040"
+   ],
+   "identical_performance": true
+  }
+ ],
+ "seeded_mismatches": [
+  {
+   "po_id": "PO-0005",
+   "type": "price_overbill",
+   "detail": {
+    "line": 2,
+    "po_unit_price": 78.0,
+    "invoice_unit_price": 92.56,
+    "overbill_per_unit": 14.56
+   }
+  },
+  {
+   "po_id": "PO-0015",
+   "type": "duplicate_invoice",
+   "detail": {
+    "invoice_ids": [
+     "INV-0015-A",
+     "INV-0015-B"
+    ],
+    "duplicated_amount": 150175.0
+   }
+  },
+  {
+   "po_id": "PO-0016",
+   "type": "price_overbill",
+   "detail": {
+    "line": 1,
+    "po_unit_price": 1150.0,
+    "invoice_unit_price": 1400.74,
+    "overbill_per_unit": 250.74
+   }
+  },
+  {
+   "po_id": "PO-0024",
+   "type": "duplicate_invoice",
+   "detail": {
+    "invoice_ids": [
+     "INV-0024-A",
+     "INV-0024-B"
+    ],
+    "duplicated_amount": 20890.0
+   }
+  },
+  {
+   "po_id": "PO-0031",
+   "type": "qty_short_ship",
+   "detail": {
+    "line": 2,
+    "qty_ordered": 8,
+    "qty_received": 7,
+    "short_by": 1
+   }
+  },
+  {
+   "po_id": "PO-0038",
+   "type": "price_overbill",
+   "detail": {
+    "line": 2,
+    "po_unit_price": 175.0,
+    "invoice_unit_price": 187.59,
+    "overbill_per_unit": 12.59
+   }
+  },
+  {
+   "po_id": "PO-0052",
+   "type": "qty_short_ship",
+   "detail": {
+    "line": 1,
+    "qty_ordered": 14,
+    "qty_received": 10,
+    "short_by": 4
+   }
+  },
+  {
+   "po_id": "PO-0059",
+   "type": "price_overbill",
+   "detail": {
+    "line": 1,
+    "po_unit_price": 2850.0,
+    "invoice_unit_price": 3271.2,
+    "overbill_per_unit": 421.2
+   }
+  },
+  {
+   "po_id": "PO-0077",
+   "type": "qty_short_ship",
+   "detail": {
+    "line": 1,
+    "qty_ordered": 28,
+    "qty_received": 21,
+    "short_by": 7
+   }
+  },
+  {
+   "po_id": "PO-0084",
+   "type": "duplicate_invoice",
+   "detail": {
+    "invoice_ids": [
+     "INV-0084-A",
+     "INV-0084-B"
+    ],
+    "duplicated_amount": 24268.0
+   }
+  },
+  {
+   "po_id": "PO-0085",
+   "type": "qty_short_ship",
+   "detail": {
+    "line": 2,
+    "qty_ordered": 39,
+    "qty_received": 33,
+    "short_by": 6
+   }
+  },
+  {
+   "po_id": "PO-0088",
+   "type": "duplicate_invoice",
+   "detail": {
+    "invoice_ids": [
+     "INV-0088-A",
+     "INV-0088-B"
+    ],
+    "duplicated_amount": 3870.5
+   }
+  }
+ ],
+ "contract_risk_flags": [
+  {
+   "contract_id": "C-001",
+   "flags": [
+    "auto_renewal_without_liability_cap",
+    "missing_liability_cap"
+   ]
+  },
+  {
+   "contract_id": "C-005",
+   "flags": [
+    "missing_liability_cap"
+   ]
+  },
+  {
+   "contract_id": "C-010",
+   "flags": [
+    "term_exceeds_36_months"
+   ]
+  },
+  {
+   "contract_id": "C-011",
+   "flags": [
+    "single_source_dependency"
+   ]
+  },
+  {
+   "contract_id": "C-014",
+   "flags": [
+    "term_exceeds_36_months",
+    "single_source_dependency"
+   ]
+  },
+  {
+   "contract_id": "C-015",
+   "flags": [
+    "auto_renewal_without_liability_cap",
+    "missing_liability_cap",
+    "single_source_dependency"
+   ]
+  },
+  {
+   "contract_id": "C-017",
+   "flags": [
+    "missing_liability_cap",
+    "term_exceeds_36_months"
+   ]
+  }
+ ]
+}

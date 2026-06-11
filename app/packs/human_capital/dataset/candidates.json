@@ -1,0 +1,817 @@
+[
+  {
+    "candidate_id": "C-001",
+    "role_id": "ROLE-ENG-01",
+    "skills": [
+      "ci_cd",
+      "distributed_systems",
+      "python"
+    ],
+    "years_experience": 6,
+    "assessment_score": 96,
+    "education": "BSc Statistics",
+    "name": "Thandiwe Dube",
+    "gender": "female",
+    "name_origin": "african"
+  },
+  {
+    "candidate_id": "C-002",
+    "role_id": "ROLE-DATA-02",
+    "skills": [
+      "data_visualization",
+      "deep_learning",
+      "experiment_design",
+      "sql"
+    ],
+    "years_experience": 10,
+    "assessment_score": 85,
+    "education": "BSc Engineering",
+    "name": "Imani Juma",
+    "gender": "female",
+    "name_origin": "african"
+  },
+  {
+    "candidate_id": "C-003",
+    "role_id": "ROLE-PM-03",
+    "skills": [
+      "agile",
+      "design_systems",
+      "go_to_market",
+      "roadmapping",
+      "sql"
+    ],
+    "years_experience": 14,
+    "assessment_score": 81,
+    "education": "MSc Computer Science",
+    "name": "Ali Al-Marzooqi",
+    "gender": "male",
+    "name_origin": "arabic"
+  },
+  {
+    "candidate_id": "C-004",
+    "role_id": "ROLE-ENG-01",
+    "skills": [
+      "ci_cd",
+      "distributed_systems",
+      "kubernetes",
+      "rust"
+    ],
+    "years_experience": 11,
+    "assessment_score": 91,
+    "education": "BSc Engineering",
+    "name": "Aditi Joshi",
+    "gender": "female",
+    "name_origin": "south_asian"
+  },
+  {
+    "candidate_id": "C-005",
+    "role_id": "ROLE-DATA-02",
+    "skills": [
+      "dbt",
+      "experiment_design",
+      "python"
+    ],
+    "years_experience": 14,
+    "assessment_score": 45,
+    "education": "MSc Data Science",
+    "name": "Emily Carter",
+    "gender": "female",
+    "name_origin": "western"
+  },
+  {
+    "candidate_id": "C-006",
+    "role_id": "ROLE-PM-03",
+    "skills": [
+      "go_to_market",
+      "sql"
+    ],
+    "years_experience": 7,
+    "assessment_score": 54,
+    "education": "MSc Computer Science",
+    "name": "Fatima Al-Mansoori",
+    "gender": "female",
+    "name_origin": "arabic"
+  },
+  {
+    "candidate_id": "C-007",
+    "role_id": "ROLE-ENG-01",
+    "skills": [
+      "rust",
+      "terraform"
+    ],
+    "years_experience": 4,
+    "assessment_score": 65,
+    "education": "MSc Data Science",
+    "name": "Kwame Asante",
+    "gender": "male",
+    "name_origin": "african"
+  },
+  {
+    "candidate_id": "C-008",
+    "role_id": "ROLE-DATA-02",
+    "skills": [
+      "data_visualization",
+      "deep_learning",
+      "experiment_design",
+      "machine_learning",
+      "sql"
+    ],
+    "years_experience": 2,
+    "assessment_score": 77,
+    "education": "BSc Computer Science",
+    "name": "Sneha Reddy",
+    "gender": "female",
+    "name_origin": "south_asian"
+  },
+  {
+    "candidate_id": "C-009",
+    "role_id": "ROLE-PM-03",
+    "skills": [
+      "agile",
+      "design_systems",
+      "roadmapping"
+    ],
+    "years_experience": 7,
+    "assessment_score": 49,
+    "education": "MSc Engineering Management",
+    "name": "Riya Kapoor",
+    "gender": "female",
+    "name_origin": "south_asian"
+  },
+  {
+    "candidate_id": "C-010",
+    "role_id": "ROLE-ENG-01",
+    "skills": [
+      "aws",
+      "ci_cd",
+      "distributed_systems",
+      "go"
+    ],
+    "years_experience": 8,
+    "assessment_score": 45,
+    "education": "BA Economics",
+    "name": "Anna Kowalski",
+    "gender": "female",
+    "name_origin": "western"
+  },
+  {
+    "candidate_id": "C-011",
+    "role_id": "ROLE-DATA-02",
+    "skills": [
+      "data_visualization",
+      "dbt",
+      "statistics"
+    ],
+    "years_experience": 8,
+    "assessment_score": 68,
+    "education": "MSc Engineering Management",
+    "name": "Zainab Diallo",
+    "gender": "female",
+    "name_origin": "african"
+  },
+  {
+    "candidate_id": "C-012",
+    "role_id": "ROLE-PM-03",
+    "skills": [
+      "agile",
+      "analytics",
+      "design_systems"
+    ],
+    "years_experience": 1,
+    "assessment_score": 71,
+    "education": "BSc Computer Science",
+    "name": "Chukwudi Okonkwo",
+    "gender": "male",
+    "name_origin": "african"
+  },
+  {
+    "candidate_id": "C-013",
+    "role_id": "ROLE-ENG-01",
+    "skills": [
+      "go",
+      "python",
+      "rust"
+    ],
+    "years_experience": 6,
+    "assessment_score": 45,
+    "education": "BSc Statistics",
+    "name": "Dev Mehta",
+    "gender": "male",
+    "name_origin": "south_asian"
+  },
+  {
+    "candidate_id": "C-014",
+    "role_id": "ROLE-DATA-02",
+    "skills": [
+      "data_visualization",
+      "dbt",
+      "experiment_design",
+      "nlp",
+      "spark",
+      "sql",
+      "statistics"
+    ],
+    "years_experience": 1,
+    "assessment_score": 54,
+    "education": "MBA",
+    "name": "Daniel Murphy",
+    "gender": "male",
+    "name_origin": "western"
+  },
+  {
+    "candidate_id": "C-015",
+    "role_id": "ROLE-PM-03",
+    "skills": [
+      "agile",
+      "roadmapping"
+    ],
+    "years_experience": 14,
+    "assessment_score": 78,
+    "education": "BSc Statistics",
+    "name": "Sneha Reddy-2",
+    "gender": "female",
+    "name_origin": "south_asian"
+  },
+  {
+    "candidate_id": "C-016",
+    "role_id": "ROLE-ENG-01",
+    "skills": [
+      "ci_cd",
+      "distributed_systems",
+      "go",
+      "graphql",
+      "python",
+      "rust",
+      "terraform"
+    ],
+    "years_experience": 11,
+    "assessment_score": 97,
+    "education": "BSc Statistics",
+    "name": "Hiroshi Ito",
+    "gender": "male",
+    "name_origin": "east_asian"
+  },
+  {
+    "candidate_id": "C-017",
+    "role_id": "ROLE-DATA-02",
+    "skills": [
+      "dbt",
+      "python"
+    ],
+    "years_experience": 7,
+    "assessment_score": 87,
+    "education": "MSc Computer Science",
+    "name": "Hassan Karimi",
+    "gender": "male",
+    "name_origin": "arabic"
+  },
+  {
+    "candidate_id": "C-018",
+    "role_id": "ROLE-PM-03",
+    "skills": [
+      "okrs",
+      "sql",
+      "user_research"
+    ],
+    "years_experience": 13,
+    "assessment_score": 70,
+    "education": "BA Economics",
+    "name": "Abena Mensah",
+    "gender": "female",
+    "name_origin": "african"
+  },
+  {
+    "candidate_id": "C-019",
+    "role_id": "ROLE-ENG-01",
+    "skills": [
+      "ci_cd",
+      "graphql",
+      "python",
+      "system_design"
+    ],
+    "years_experience": 4,
+    "assessment_score": 53,
+    "education": "BSc Engineering",
+    "name": "Vikram Singh",
+    "gender": "male",
+    "name_origin": "south_asian"
+  },
+  {
+    "candidate_id": "C-020",
+    "role_id": "ROLE-DATA-02",
+    "skills": [
+      "machine_learning",
+      "nlp",
+      "sql"
+    ],
+    "years_experience": 8,
+    "assessment_score": 65,
+    "education": "BSc Statistics",
+    "name": "Yasmin Saleh",
+    "gender": "female",
+    "name_origin": "arabic"
+  },
+  {
+    "candidate_id": "C-021",
+    "role_id": "ROLE-PM-03",
+    "skills": [
+      "design_systems",
+      "sql"
+    ],
+    "years_experience": 13,
+    "assessment_score": 58,
+    "education": "MSc Engineering Management",
+    "name": "Soo-Jin Park",
+    "gender": "female",
+    "name_origin": "east_asian"
+  },
+  {
+    "candidate_id": "C-022",
+    "role_id": "ROLE-ENG-01",
+    "skills": [
+      "ci_cd",
+      "distributed_systems",
+      "graphql",
+      "python"
+    ],
+    "years_experience": 3,
+    "assessment_score": 96,
+    "education": "MBA",
+    "name": "Musa Keita",
+    "gender": "male",
+    "name_origin": "african"
+  },
+  {
+    "candidate_id": "C-023",
+    "role_id": "ROLE-DATA-02",
+    "skills": [
+      "dbt",
+      "experiment_design",
+      "machine_learning",
+      "python",
+      "spark",
+      "sql",
+      "statistics"
+    ],
+    "years_experience": 12,
+    "assessment_score": 60,
+    "education": "BA Economics",
+    "name": "Huda Rahman",
+    "gender": "female",
+    "name_origin": "arabic"
+  },
+  {
+    "candidate_id": "C-024",
+    "role_id": "ROLE-PM-03",
+    "skills": [
+      "analytics",
+      "design_systems",
+      "roadmapping",
+      "stakeholder_management",
+      "user_research"
+    ],
+    "years_experience": 1,
+    "assessment_score": 70,
+    "education": "MSc Engineering Management",
+    "name": "Khalid Mansour",
+    "gender": "male",
+    "name_origin": "arabic"
+  },
+  {
+    "candidate_id": "C-025",
+    "role_id": "ROLE-ENG-01",
+    "skills": [
+      "aws",
+      "distributed_systems",
+      "graphql",
+      "python",
+      "rust",
+      "system_design"
+    ],
+    "years_experience": 2,
+    "assessment_score": 45,
+    "education": "BSc Computer Science",
+    "name": "Tariq Al-Amiri",
+    "gender": "male",
+    "name_origin": "arabic"
+  },
+  {
+    "candidate_id": "C-026",
+    "role_id": "ROLE-DATA-02",
+    "skills": [
+      "machine_learning",
+      "spark",
+      "statistics"
+    ],
+    "years_experience": 6,
+    "assessment_score": 88,
+    "education": "BSc Engineering",
+    "name": "Reem Khalil",
+    "gender": "female",
+    "name_origin": "arabic"
+  },
+  {
+    "candidate_id": "C-027",
+    "role_id": "ROLE-PM-03",
+    "skills": [
+      "go_to_market",
+      "okrs",
+      "pricing",
+      "roadmapping",
+      "stakeholder_management",
+      "user_research"
+    ],
+    "years_experience": 11,
+    "assessment_score": 73,
+    "education": "MSc Computer Science",
+    "name": "Hana Kobayashi",
+    "gender": "female",
+    "name_origin": "east_asian"
+  },
+  {
+    "candidate_id": "C-028",
+    "role_id": "ROLE-ENG-01",
+    "skills": [
+      "distributed_systems",
+      "go"
+    ],
+    "years_experience": 1,
+    "assessment_score": 74,
+    "education": "BSc Computer Science",
+    "name": "Aisha Al-Suwaidi",
+    "gender": "female",
+    "name_origin": "arabic"
+  },
+  {
+    "candidate_id": "C-029",
+    "role_id": "ROLE-DATA-02",
+    "skills": [
+      "dbt",
+      "experiment_design",
+      "spark"
+    ],
+    "years_experience": 8,
+    "assessment_score": 46,
+    "education": "BSc Statistics",
+    "name": "Rohan Gupta",
+    "gender": "male",
+    "name_origin": "south_asian"
+  },
+  {
+    "candidate_id": "C-030",
+    "role_id": "ROLE-PM-03",
+    "skills": [
+      "analytics",
+      "design_systems",
+      "okrs",
+      "pricing",
+      "sql",
+      "stakeholder_management",
+      "user_research"
+    ],
+    "years_experience": 8,
+    "assessment_score": 54,
+    "education": "BSc Computer Science",
+    "name": "Rachel Hughes",
+    "gender": "female",
+    "name_origin": "western"
+  },
+  {
+    "candidate_id": "C-031",
+    "role_id": "ROLE-ENG-01",
+    "skills": [
+      "aws",
+      "ci_cd",
+      "graphql",
+      "rust",
+      "system_design",
+      "terraform"
+    ],
+    "years_experience": 8,
+    "assessment_score": 48,
+    "education": "BSc Engineering",
+    "name": "Jun-Ho Lee",
+    "gender": "male",
+    "name_origin": "east_asian"
+  },
+  {
+    "candidate_id": "C-032",
+    "role_id": "ROLE-DATA-02",
+    "skills": [
+      "dbt",
+      "machine_learning",
+      "spark",
+      "sql"
+    ],
+    "years_experience": 11,
+    "assessment_score": 96,
+    "education": "MSc Data Science",
+    "name": "Dong-Hyun Choi",
+    "gender": "male",
+    "name_origin": "east_asian"
+  },
+  {
+    "candidate_id": "C-033",
+    "role_id": "ROLE-PM-03",
+    "skills": [
+      "agile",
+      "analytics",
+      "design_systems",
+      "go_to_market",
+      "pricing",
+      "roadmapping",
+      "sql"
+    ],
+    "years_experience": 9,
+    "assessment_score": 95,
+    "education": "MSc Engineering Management",
+    "name": "Rohan Gupta-2",
+    "gender": "male",
+    "name_origin": "south_asian"
+  },
+  {
+    "candidate_id": "C-034",
+    "role_id": "ROLE-ENG-01",
+    "skills": [
+      "aws",
+      "go",
+      "rust",
+      "system_design"
+    ],
+    "years_experience": 5,
+    "assessment_score": 56,
+    "education": "BSc Computer Science",
+    "name": "Soo-Jin Park-2",
+    "gender": "female",
+    "name_origin": "east_asian"
+  },
+  {
+    "candidate_id": "C-035",
+    "role_id": "ROLE-DATA-02",
+    "skills": [
+      "dbt",
+      "python",
+      "spark",
+      "statistics"
+    ],
+    "years_experience": 13,
+    "assessment_score": 62,
+    "education": "BSc Computer Science",
+    "name": "Mei Chen",
+    "gender": "female",
+    "name_origin": "east_asian"
+  },
+  {
+    "candidate_id": "C-036",
+    "role_id": "ROLE-PM-03",
+    "skills": [
+      "agile",
+      "design_systems",
+      "roadmapping",
+      "sql",
+      "stakeholder_management"
+    ],
+    "years_experience": 4,
+    "assessment_score": 87,
+    "education": "MSc Data Science",
+    "name": "Riya Kapoor-2",
+    "gender": "female",
+    "name_origin": "south_asian"
+  },
+  {
+    "candidate_id": "C-037",
+    "role_id": "ROLE-ENG-01",
+    "skills": [
+      "ci_cd",
+      "python",
+      "rust",
+      "system_design"
+    ],
+    "years_experience": 14,
+    "assessment_score": 96,
+    "education": "BSc Statistics",
+    "name": "Ananya Iyer",
+    "gender": "female",
+    "name_origin": "south_asian"
+  },
+  {
+    "candidate_id": "C-038",
+    "role_id": "ROLE-DATA-02",
+    "skills": [
+      "data_visualization",
+      "dbt",
+      "machine_learning",
+      "statistics"
+    ],
+    "years_experience": 6,
+    "assessment_score": 96,
+    "education": "BA Economics",
+    "name": "Meera Pillai",
+    "gender": "female",
+    "name_origin": "south_asian"
+  },
+  {
+    "candidate_id": "C-039",
+    "role_id": "ROLE-ENG-01",
+    "skills": [
+      "python",
+      "distributed_systems",
+      "kubernetes",
+      "system_design"
+    ],
+    "years_experience": 7,
+    "assessment_score": 84,
+    "education": "MSc Computer Science",
+    "matched_clone_set": "ROLE-ENG-01",
+    "name": "David Holloway",
+    "gender": "male",
+    "name_origin": "western"
+  },
+  {
+    "candidate_id": "C-040",
+    "role_id": "ROLE-ENG-01",
+    "skills": [
+      "python",
+      "distributed_systems",
+      "kubernetes",
+      "system_design"
+    ],
+    "years_experience": 7,
+    "assessment_score": 84,
+    "education": "MSc Computer Science",
+    "matched_clone_set": "ROLE-ENG-01",
+    "name": "Aisha Al-Suwaidi-2",
+    "gender": "female",
+    "name_origin": "arabic"
+  },
+  {
+    "candidate_id": "C-041",
+    "role_id": "ROLE-ENG-01",
+    "skills": [
+      "python",
+      "distributed_systems",
+      "kubernetes",
+      "system_design"
+    ],
+    "years_experience": 7,
+    "assessment_score": 84,
+    "education": "MSc Computer Science",
+    "matched_clone_set": "ROLE-ENG-01",
+    "name": "Amit Chaudhry",
+    "gender": "male",
+    "name_origin": "south_asian"
+  },
+  {
+    "candidate_id": "C-042",
+    "role_id": "ROLE-ENG-01",
+    "skills": [
+      "python",
+      "distributed_systems",
+      "kubernetes",
+      "system_design"
+    ],
+    "years_experience": 7,
+    "assessment_score": 84,
+    "education": "MSc Computer Science",
+    "matched_clone_set": "ROLE-ENG-01",
+    "name": "Yuki Tanaka",
+    "gender": "female",
+    "name_origin": "east_asian"
+  },
+  {
+    "candidate_id": "C-043",
+    "role_id": "ROLE-DATA-02",
+    "skills": [
+      "python",
+      "sql",
+      "machine_learning",
+      "statistics"
+    ],
+    "years_experience": 5,
+    "assessment_score": 81,
+    "education": "MSc Data Science",
+    "matched_clone_set": "ROLE-DATA-02",
+    "name": "Peter Lindgren",
+    "gender": "male",
+    "name_origin": "western"
+  },
+  {
+    "candidate_id": "C-044",
+    "role_id": "ROLE-DATA-02",
+    "skills": [
+      "python",
+      "sql",
+      "machine_learning",
+      "statistics"
+    ],
+    "years_experience": 5,
+    "assessment_score": 81,
+    "education": "MSc Data Science",
+    "matched_clone_set": "ROLE-DATA-02",
+    "name": "Yasmin Saleh-2",
+    "gender": "female",
+    "name_origin": "arabic"
+  },
+  {
+    "candidate_id": "C-045",
+    "role_id": "ROLE-DATA-02",
+    "skills": [
+      "python",
+      "sql",
+      "machine_learning",
+      "statistics"
+    ],
+    "years_experience": 5,
+    "assessment_score": 81,
+    "education": "MSc Data Science",
+    "matched_clone_set": "ROLE-DATA-02",
+    "name": "Dev Mehta-2",
+    "gender": "male",
+    "name_origin": "south_asian"
+  },
+  {
+    "candidate_id": "C-046",
+    "role_id": "ROLE-DATA-02",
+    "skills": [
+      "python",
+      "sql",
+      "machine_learning",
+      "statistics"
+    ],
+    "years_experience": 5,
+    "assessment_score": 81,
+    "education": "MSc Data Science",
+    "matched_clone_set": "ROLE-DATA-02",
+    "name": "Xiu Lin",
+    "gender": "female",
+    "name_origin": "east_asian"
+  },
+  {
+    "candidate_id": "C-047",
+    "role_id": "ROLE-PM-03",
+    "skills": [
+      "roadmapping",
+      "stakeholder_management",
+      "analytics",
+      "agile"
+    ],
+    "years_experience": 6,
+    "assessment_score": 79,
+    "education": "MBA",
+    "matched_clone_set": "ROLE-PM-03",
+    "name": "James Carter",
+    "gender": "male",
+    "name_origin": "western"
+  },
+  {
+    "candidate_id": "C-048",
+    "role_id": "ROLE-PM-03",
+    "skills": [
+      "roadmapping",
+      "stakeholder_management",
+      "analytics",
+      "agile"
+    ],
+    "years_experience": 6,
+    "assessment_score": 79,
+    "education": "MBA",
+    "matched_clone_set": "ROLE-PM-03",
+    "name": "Salma Al-Farsi",
+    "gender": "female",
+    "name_origin": "arabic"
+  },
+  {
+    "candidate_id": "C-049",
+    "role_id": "ROLE-PM-03",
+    "skills": [
+      "roadmapping",
+      "stakeholder_management",
+      "analytics",
+      "agile"
+    ],
+    "years_experience": 6,
+    "assessment_score": 79,
+    "education": "MBA",
+    "matched_clone_set": "ROLE-PM-03",
+    "name": "Vikram Singh-2",
+    "gender": "male",
+    "name_origin": "south_asian"
+  },
+  {
+    "candidate_id": "C-050",
+    "role_id": "ROLE-PM-03",
+    "skills": [
+      "roadmapping",
+      "stakeholder_management",
+      "analytics",
+      "agile"
+    ],
+    "years_experience": 6,
+    "assessment_score": 79,
+    "education": "MBA",
+    "matched_clone_set": "ROLE-PM-03",
+    "name": "Wen Liu",
+    "gender": "female",
+    "name_origin": "east_asian"
+  }
+]

@@ -1,0 +1,562 @@
+[
+  {
+    "exit_id": "X-005",
+    "exit_month": "2024-12",
+    "department": "Technology",
+    "reason": "relocation",
+    "tenure_months": 12,
+    "level": "L2"
+  },
+  {
+    "exit_id": "X-019",
+    "exit_month": "2024-12",
+    "department": "Commercial",
+    "reason": "relocation",
+    "tenure_months": 68,
+    "level": "L4"
+  },
+  {
+    "exit_id": "X-039",
+    "exit_month": "2024-12",
+    "department": "Product & Design",
+    "reason": "compensation",
+    "tenure_months": 24,
+    "level": "L3"
+  },
+  {
+    "exit_id": "X-040",
+    "exit_month": "2024-12",
+    "department": "Technology",
+    "reason": "relocation",
+    "tenure_months": 41,
+    "level": "L3"
+  },
+  {
+    "exit_id": "X-043",
+    "exit_month": "2024-12",
+    "department": "Commercial",
+    "reason": "relocation",
+    "tenure_months": 49,
+    "level": "L3"
+  },
+  {
+    "exit_id": "X-037",
+    "exit_month": "2025-01",
+    "department": "Technology",
+    "reason": "career_growth",
+    "tenure_months": 29,
+    "level": "L4"
+  },
+  {
+    "exit_id": "X-060",
+    "exit_month": "2025-01",
+    "department": "Technology",
+    "reason": "manager",
+    "tenure_months": 23,
+    "level": "L3"
+  },
+  {
+    "exit_id": "X-063",
+    "exit_month": "2025-01",
+    "department": "Commercial",
+    "reason": "work_life_balance",
+    "tenure_months": 3,
+    "level": "L5"
+  },
+  {
+    "exit_id": "X-013",
+    "exit_month": "2025-02",
+    "department": "Product & Design",
+    "reason": "performance",
+    "tenure_months": 6,
+    "level": "L3"
+  },
+  {
+    "exit_id": "X-028",
+    "exit_month": "2025-02",
+    "department": "Technology",
+    "reason": "compensation",
+    "tenure_months": 54,
+    "level": "L4"
+  },
+  {
+    "exit_id": "X-030",
+    "exit_month": "2025-02",
+    "department": "Technology",
+    "reason": "career_growth",
+    "tenure_months": 19,
+    "level": "L4"
+  },
+  {
+    "exit_id": "X-056",
+    "exit_month": "2025-02",
+    "department": "Product & Design",
+    "reason": "compensation",
+    "tenure_months": 17,
+    "level": "L4"
+  },
+  {
+    "exit_id": "X-006",
+    "exit_month": "2025-03",
+    "department": "Technology",
+    "reason": "manager",
+    "tenure_months": 64,
+    "level": "L5"
+  },
+  {
+    "exit_id": "X-010",
+    "exit_month": "2025-03",
+    "department": "Technology",
+    "reason": "manager",
+    "tenure_months": 54,
+    "level": "L6"
+  },
+  {
+    "exit_id": "X-020",
+    "exit_month": "2025-03",
+    "department": "Product & Design",
+    "reason": "compensation",
+    "tenure_months": 14,
+    "level": "L5"
+  },
+  {
+    "exit_id": "X-021",
+    "exit_month": "2025-03",
+    "department": "Commercial",
+    "reason": "performance",
+    "tenure_months": 46,
+    "level": "L4"
+  },
+  {
+    "exit_id": "X-034",
+    "exit_month": "2025-03",
+    "department": "Commercial",
+    "reason": "manager",
+    "tenure_months": 64,
+    "level": "L3"
+  },
+  {
+    "exit_id": "X-016",
+    "exit_month": "2025-04",
+    "department": "Technology",
+    "reason": "compensation",
+    "tenure_months": 57,
+    "level": "L2"
+  },
+  {
+    "exit_id": "X-017",
+    "exit_month": "2025-04",
+    "department": "Corporate",
+    "reason": "manager",
+    "tenure_months": 10,
+    "level": "L1"
+  },
+  {
+    "exit_id": "X-035",
+    "exit_month": "2025-05",
+    "department": "Corporate",
+    "reason": "career_growth",
+    "tenure_months": 46,
+    "level": "L2"
+  },
+  {
+    "exit_id": "X-051",
+    "exit_month": "2025-05",
+    "department": "Corporate",
+    "reason": "performance",
+    "tenure_months": 25,
+    "level": "L2"
+  },
+  {
+    "exit_id": "X-059",
+    "exit_month": "2025-05",
+    "department": "Commercial",
+    "reason": "career_growth",
+    "tenure_months": 24,
+    "level": "L2"
+  },
+  {
+    "exit_id": "X-061",
+    "exit_month": "2025-05",
+    "department": "Product & Design",
+    "reason": "work_life_balance",
+    "tenure_months": 13,
+    "level": "L1"
+  },
+  {
+    "exit_id": "X-066",
+    "exit_month": "2025-05",
+    "department": "Technology",
+    "reason": "compensation",
+    "tenure_months": 39,
+    "level": "L2"
+  },
+  {
+    "exit_id": "X-070",
+    "exit_month": "2025-05",
+    "department": "Technology",
+    "reason": "work_life_balance",
+    "tenure_months": 6,
+    "level": "L2"
+  },
+  {
+    "exit_id": "X-032",
+    "exit_month": "2025-06",
+    "department": "Corporate",
+    "reason": "manager",
+    "tenure_months": 60,
+    "level": "L1"
+  },
+  {
+    "exit_id": "X-042",
+    "exit_month": "2025-06",
+    "department": "Product & Design",
+    "reason": "relocation",
+    "tenure_months": 52,
+    "level": "L3"
+  },
+  {
+    "exit_id": "X-049",
+    "exit_month": "2025-06",
+    "department": "Product & Design",
+    "reason": "work_life_balance",
+    "tenure_months": 70,
+    "level": "L3"
+  },
+  {
+    "exit_id": "X-058",
+    "exit_month": "2025-06",
+    "department": "Product & Design",
+    "reason": "better_offer",
+    "tenure_months": 60,
+    "level": "L1"
+  },
+  {
+    "exit_id": "X-011",
+    "exit_month": "2025-07",
+    "department": "Commercial",
+    "reason": "performance",
+    "tenure_months": 68,
+    "level": "L2"
+  },
+  {
+    "exit_id": "X-038",
+    "exit_month": "2025-07",
+    "department": "Commercial",
+    "reason": "manager",
+    "tenure_months": 54,
+    "level": "L3"
+  },
+  {
+    "exit_id": "X-069",
+    "exit_month": "2025-07",
+    "department": "Commercial",
+    "reason": "compensation",
+    "tenure_months": 4,
+    "level": "L3"
+  },
+  {
+    "exit_id": "X-007",
+    "exit_month": "2025-08",
+    "department": "Technology",
+    "reason": "career_growth",
+    "tenure_months": 25,
+    "level": "L2"
+  },
+  {
+    "exit_id": "X-009",
+    "exit_month": "2025-08",
+    "department": "Technology",
+    "reason": "manager",
+    "tenure_months": 9,
+    "level": "L1"
+  },
+  {
+    "exit_id": "X-022",
+    "exit_month": "2025-08",
+    "department": "Product & Design",
+    "reason": "career_growth",
+    "tenure_months": 62,
+    "level": "L1"
+  },
+  {
+    "exit_id": "X-023",
+    "exit_month": "2025-08",
+    "department": "Product & Design",
+    "reason": "relocation",
+    "tenure_months": 53,
+    "level": "L1"
+  },
+  {
+    "exit_id": "X-036",
+    "exit_month": "2025-08",
+    "department": "Commercial",
+    "reason": "relocation",
+    "tenure_months": 38,
+    "level": "L1"
+  },
+  {
+    "exit_id": "X-041",
+    "exit_month": "2025-08",
+    "department": "Product & Design",
+    "reason": "manager",
+    "tenure_months": 46,
+    "level": "L2"
+  },
+  {
+    "exit_id": "X-045",
+    "exit_month": "2025-08",
+    "department": "Commercial",
+    "reason": "performance",
+    "tenure_months": 35,
+    "level": "L3"
+  },
+  {
+    "exit_id": "X-003",
+    "exit_month": "2025-09",
+    "department": "Technology",
+    "reason": "compensation",
+    "tenure_months": 64,
+    "level": "L1"
+  },
+  {
+    "exit_id": "X-044",
+    "exit_month": "2025-09",
+    "department": "Technology",
+    "reason": "compensation",
+    "tenure_months": 10,
+    "level": "L2"
+  },
+  {
+    "exit_id": "X-046",
+    "exit_month": "2025-09",
+    "department": "Technology",
+    "reason": "career_growth",
+    "tenure_months": 32,
+    "level": "L5"
+  },
+  {
+    "exit_id": "X-048",
+    "exit_month": "2025-09",
+    "department": "Technology",
+    "reason": "career_growth",
+    "tenure_months": 51,
+    "level": "L4"
+  },
+  {
+    "exit_id": "X-054",
+    "exit_month": "2025-09",
+    "department": "Product & Design",
+    "reason": "performance",
+    "tenure_months": 49,
+    "level": "L2"
+  },
+  {
+    "exit_id": "X-055",
+    "exit_month": "2025-09",
+    "department": "Product & Design",
+    "reason": "compensation",
+    "tenure_months": 8,
+    "level": "L4"
+  },
+  {
+    "exit_id": "X-024",
+    "exit_month": "2025-10",
+    "department": "Commercial",
+    "reason": "compensation",
+    "tenure_months": 62,
+    "level": "L5"
+  },
+  {
+    "exit_id": "X-053",
+    "exit_month": "2025-10",
+    "department": "Commercial",
+    "reason": "compensation",
+    "tenure_months": 30,
+    "level": "L4"
+  },
+  {
+    "exit_id": "X-004",
+    "exit_month": "2025-11",
+    "department": "Technology",
+    "reason": "compensation",
+    "tenure_months": 63,
+    "level": "L1"
+  },
+  {
+    "exit_id": "X-025",
+    "exit_month": "2025-11",
+    "department": "Technology",
+    "reason": "work_life_balance",
+    "tenure_months": 40,
+    "level": "L2"
+  },
+  {
+    "exit_id": "X-033",
+    "exit_month": "2025-11",
+    "department": "Commercial",
+    "reason": "manager",
+    "tenure_months": 61,
+    "level": "L3"
+  },
+  {
+    "exit_id": "X-065",
+    "exit_month": "2025-11",
+    "department": "Technology",
+    "reason": "compensation",
+    "tenure_months": 66,
+    "level": "L3"
+  },
+  {
+    "exit_id": "X-008",
+    "exit_month": "2025-12",
+    "department": "Product & Design",
+    "reason": "career_growth",
+    "tenure_months": 35,
+    "level": "L2"
+  },
+  {
+    "exit_id": "X-047",
+    "exit_month": "2025-12",
+    "department": "Commercial",
+    "reason": "relocation",
+    "tenure_months": 5,
+    "level": "L3"
+  },
+  {
+    "exit_id": "X-057",
+    "exit_month": "2025-12",
+    "department": "Commercial",
+    "reason": "career_growth",
+    "tenure_months": 21,
+    "level": "L1"
+  },
+  {
+    "exit_id": "X-001",
+    "exit_month": "2026-01",
+    "department": "Technology",
+    "reason": "compensation",
+    "tenure_months": 28,
+    "level": "L6"
+  },
+  {
+    "exit_id": "X-002",
+    "exit_month": "2026-01",
+    "department": "Commercial",
+    "reason": "work_life_balance",
+    "tenure_months": 35,
+    "level": "L3"
+  },
+  {
+    "exit_id": "X-062",
+    "exit_month": "2026-01",
+    "department": "Commercial",
+    "reason": "career_growth",
+    "tenure_months": 63,
+    "level": "L2"
+  },
+  {
+    "exit_id": "X-015",
+    "exit_month": "2026-02",
+    "department": "Technology",
+    "reason": "better_offer",
+    "tenure_months": 29,
+    "level": "L4"
+  },
+  {
+    "exit_id": "X-027",
+    "exit_month": "2026-02",
+    "department": "Commercial",
+    "reason": "manager",
+    "tenure_months": 55,
+    "level": "L3"
+  },
+  {
+    "exit_id": "X-026",
+    "exit_month": "2026-03",
+    "department": "Corporate",
+    "reason": "relocation",
+    "tenure_months": 31,
+    "level": "L1"
+  },
+  {
+    "exit_id": "X-050",
+    "exit_month": "2026-03",
+    "department": "Corporate",
+    "reason": "relocation",
+    "tenure_months": 66,
+    "level": "L2"
+  },
+  {
+    "exit_id": "X-052",
+    "exit_month": "2026-03",
+    "department": "Technology",
+    "reason": "manager",
+    "tenure_months": 25,
+    "level": "L5"
+  },
+  {
+    "exit_id": "X-068",
+    "exit_month": "2026-03",
+    "department": "Product & Design",
+    "reason": "compensation",
+    "tenure_months": 53,
+    "level": "L1"
+  },
+  {
+    "exit_id": "X-014",
+    "exit_month": "2026-04",
+    "department": "Commercial",
+    "reason": "relocation",
+    "tenure_months": 20,
+    "level": "L1"
+  },
+  {
+    "exit_id": "X-029",
+    "exit_month": "2026-04",
+    "department": "Corporate",
+    "reason": "performance",
+    "tenure_months": 67,
+    "level": "L4"
+  },
+  {
+    "exit_id": "X-031",
+    "exit_month": "2026-04",
+    "department": "Corporate",
+    "reason": "compensation",
+    "tenure_months": 26,
+    "level": "L4"
+  },
+  {
+    "exit_id": "X-064",
+    "exit_month": "2026-04",
+    "department": "Technology",
+    "reason": "relocation",
+    "tenure_months": 33,
+    "level": "L2"
+  },
+  {
+    "exit_id": "X-067",
+    "exit_month": "2026-04",
+    "department": "Commercial",
+    "reason": "manager",
+    "tenure_months": 19,
+    "level": "L2"
+  },
+  {
+    "exit_id": "X-012",
+    "exit_month": "2026-05",
+    "department": "Commercial",
+    "reason": "better_offer",
+    "tenure_months": 32,
+    "level": "L2"
+  },
+  {
+    "exit_id": "X-018",
+    "exit_month": "2026-05",
+    "department": "Product & Design",
+    "reason": "manager",
+    "tenure_months": 37,
+    "level": "L3"
+  }
+]

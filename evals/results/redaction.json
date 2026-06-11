@@ -1,0 +1,72 @@
+{
+  "seeded_pii_tokens": 13,
+  "caught": 12,
+  "redaction_efficacy": 0.923,
+  "rows": [
+    {
+      "token_type": "seeded",
+      "caught": true,
+      "text": "Please email Fatima Al Mansouri at fatima.almansouri@corp.ae"
+    },
+    {
+      "token_type": "seeded",
+      "caught": true,
+      "text": "Please email Fatima Al Mansouri at fatima.almansouri@corp.ae"
+    },
+    {
+      "token_type": "seeded",
+      "caught": true,
+      "text": "Candidate phone is +971 50 123 4567 and backup +1 (415) 555-"
+    },
+    {
+      "token_type": "seeded",
+      "caught": true,
+      "text": "Candidate phone is +971 50 123 4567 and backup +1 (415) 555-"
+    },
+    {
+      "token_type": "seeded",
+      "caught": true,
+      "text": "Wire to IBAN AE070331234567890123456 by Friday."
+    },
+    {
+      "token_type": "seeded",
+      "caught": true,
+      "text": "Card on file 4111 1111 1111 1111 expires next month."
+    },
+    {
+      "token_type": "seeded",
+      "caught": true,
+      "text": "SSN on the form reads 856-45-6789."
+    },
+    {
+      "token_type": "seeded",
+      "caught": true,
+      "text": "Server logs show requests from 192.168.4.22 overnight."
+    },
+    {
+      "token_type": "seeded",
+      "caught": true,
+      "text": "John Smith approved the payment; contact j.smith@vendor.com."
+    },
+    {
+      "token_type": "seeded",
+      "caught": true,
+      "text": "John Smith approved the payment; contact j.smith@vendor.com."
+    },
+    {
+      "token_type": "seeded",
+      "caught": false,
+      "text": "Reach Priya Sharma (priya.s@example.org, +91 98765 43210) fo"
+    },
+    {
+      "token_type": "seeded",
+      "caught": true,
+      "text": "Reach Priya Sharma (priya.s@example.org, +91 98765 43210) fo"
+    },
+    {
+      "token_type": "seeded",
+      "caught": true,
+      "text": "Reach Priya Sharma (priya.s@example.org, +91 98765 43210) fo"
+    }
+  ]
+}

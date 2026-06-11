@@ -1,0 +1,7122 @@
+[
+ {
+  "supplier_id": "S-001",
+  "name": "Lisboa Servicos Tecnicos",
+  "country": "Portugal",
+  "category": "IT hardware",
+  "compliance_status": "compliant",
+  "onboarded": "2024-05-01",
+  "history": [
+   {
+    "month": "2024-06",
+    "deliveries": 7,
+    "on_time": 7,
+    "defects": 0,
+    "price_variance_pct": -1.16
+   },
+   {
+    "month": "2024-07",
+    "deliveries": 9,
+    "on_time": 8,
+    "defects": 0,
+    "price_variance_pct": 0.21
+   },
+   {
+    "month": "2024-08",
+    "deliveries": 6,
+    "on_time": 6,
+    "defects": 0,
+    "price_variance_pct": 1.07
+   },
+   {
+    "month": "2024-09",
+    "deliveries": 6,
+    "on_time": 5,
+    "defects": 0,
+    "price_variance_pct": -1.1
+   },
+   {
+    "month": "2024-10",
+    "deliveries": 14,
+    "on_time": 13,
+    "defects": 0,
+    "price_variance_pct": -0.05
+   },
+   {
+    "month": "2024-11",
+    "deliveries": 12,
+    "on_time": 10,
+    "defects": 0,
+    "price_variance_pct": 0.69
+   },
+   {
+    "month": "2024-12",
+    "deliveries": 20,
+    "on_time": 16,
+    "defects": 0,
+    "price_variance_pct": -1.1
+   },
+   {
+    "month": "2025-01",
+    "deliveries": 14,
+    "on_time": 13,
+    "defects": 0,
+    "price_variance_pct": 1.04
+   },
+   {
+    "month": "2025-02",
+    "deliveries": 18,
+    "on_time": 16,
+    "defects": 0,
+    "price_variance_pct": 0.87
+   },
+   {
+    "month": "2025-03",
+    "deliveries": 6,
+    "on_time": 6,
+    "defects": 0,
+    "price_variance_pct": -0.68
+   },
+   {
+    "month": "2025-04",
+    "deliveries": 14,
+    "on_time": 11,
+    "defects": 0,
+    "price_variance_pct": -0.85
+   },
+   {
+    "month": "2025-05",
+    "deliveries": 7,
+    "on_time": 7,
+    "defects": 0,
+    "price_variance_pct": -1.07
+   },
+   {
+    "month": "2025-06",
+    "deliveries": 14,
+    "on_time": 13,
+    "defects": 0,
+    "price_variance_pct": 1.06
+   },
+   {
+    "month": "2025-07",
+    "deliveries": 9,
+    "on_time": 7,
+    "defects": 0,
+    "price_variance_pct": -0.44
+   },
+   {
+    "month": "2025-08",
+    "deliveries": 11,
+    "on_time": 11,
+    "defects": 0,
+    "price_variance_pct": -0.9
+   },
+   {
+    "month": "2025-09",
+    "deliveries": 10,
+    "on_time": 9,
+    "defects": 0,
+    "price_variance_pct": -0.87
+   },
+   {
+    "month": "2025-10",
+    "deliveries": 17,
+    "on_time": 16,
+    "defects": 0,
+    "price_variance_pct": 0.21
+   },
+   {
+    "month": "2025-11",
+    "deliveries": 16,
+    "on_time": 15,
+    "defects": 0,
+    "price_variance_pct": 0.66
+   },
+   {
+    "month": "2025-12",
+    "deliveries": 20,
+    "on_time": 19,
+    "defects": 0,
+    "price_variance_pct": 0.84
+   },
+   {
+    "month": "2026-01",
+    "deliveries": 8,
+    "on_time": 6,
+    "defects": 0,
+    "price_variance_pct": -0.16
+   },
+   {
+    "month": "2026-02",
+    "deliveries": 6,
+    "on_time": 5,
+    "defects": 0,
+    "price_variance_pct": -0.6
+   },
+   {
+    "month": "2026-03",
+    "deliveries": 19,
+    "on_time": 17,
+    "defects": 0,
+    "price_variance_pct": 0.81
+   },
+   {
+    "month": "2026-04",
+    "deliveries": 8,
+    "on_time": 7,
+    "defects": 0,
+    "price_variance_pct": 0.29
+   },
+   {
+    "month": "2026-05",
+    "deliveries": 16,
+    "on_time": 16,
+    "defects": 0,
+    "price_variance_pct": -0.62
+   }
+  ]
+ },
+ {
+  "supplier_id": "S-002",
+  "name": "Cairo Industrial Trading",
+  "country": "Egypt",
+  "category": "cloud services",
+  "compliance_status": "non_compliant",
+  "onboarded": "2024-05-01",
+  "history": [
+   {
+    "month": "2024-06",
+    "deliveries": 9,
+    "on_time": 8,
+    "defects": 0,
+    "price_variance_pct": 5.78
+   },
+   {
+    "month": "2024-07",
+    "deliveries": 7,
+    "on_time": 6,
+    "defects": 0,
+    "price_variance_pct": 5.32
+   },
+   {
+    "month": "2024-08",
+    "deliveries": 13,
+    "on_time": 13,
+    "defects": 0,
+    "price_variance_pct": 4.05
+   },
+   {
+    "month": "2024-09",
+    "deliveries": 13,
+    "on_time": 11,
+    "defects": 0,
+    "price_variance_pct": 4.16
+   },
+   {
+    "month": "2024-10",
+    "deliveries": 5,
+    "on_time": 5,
+    "defects": 1,
+    "price_variance_pct": 5.94
+   },
+   {
+    "month": "2024-11",
+    "deliveries": 5,
+    "on_time": 5,
+    "defects": 0,
+    "price_variance_pct": 4.95
+   },
+   {
+    "month": "2024-12",
+    "deliveries": 14,
+    "on_time": 12,
+    "defects": 0,
+    "price_variance_pct": 4.26
+   },
+   {
+    "month": "2025-01",
+    "deliveries": 11,
+    "on_time": 9,
+    "defects": 0,
+    "price_variance_pct": 4.14
+   },
+   {
+    "month": "2025-02",
+    "deliveries": 17,
+    "on_time": 15,
+    "defects": 0,
+    "price_variance_pct": 6.0
+   },
+   {
+    "month": "2025-03",
+    "deliveries": 7,
+    "on_time": 7,
+    "defects": 0,
+    "price_variance_pct": 4.88
+   },
+   {
+    "month": "2025-04",
+    "deliveries": 14,
+    "on_time": 13,
+    "defects": 0,
+    "price_variance_pct": 5.61
+   },
+   {
+    "month": "2025-05",
+    "deliveries": 19,
+    "on_time": 19,
+    "defects": 0,
+    "price_variance_pct": 4.82
+   },
+   {
+    "month": "2025-06",
+    "deliveries": 10,
+    "on_time": 10,
+    "defects": 0,
+    "price_variance_pct": 6.16
+   },
+   {
+    "month": "2025-07",
+    "deliveries": 9,
+    "on_time": 8,
+    "defects": 1,
+    "price_variance_pct": 5.26
+   },
+   {
+    "month": "2025-08",
+    "deliveries": 18,
+    "on_time": 17,
+    "defects": 0,
+    "price_variance_pct": 4.64
+   },
+   {
+    "month": "2025-09",
+    "deliveries": 15,
+    "on_time": 12,
+    "defects": 0,
+    "price_variance_pct": 4.64
+   },
+   {
+    "month": "2025-10",
+    "deliveries": 8,
+    "on_time": 7,
+    "defects": 1,
+    "price_variance_pct": 4.84
+   },
+   {
+    "month": "2025-11",
+    "deliveries": 7,
+    "on_time": 7,
+    "defects": 0,
+    "price_variance_pct": 5.04
+   },
+   {
+    "month": "2025-12",
+    "deliveries": 6,
+    "on_time": 6,
+    "defects": 0,
+    "price_variance_pct": 4.25
+   },
+   {
+    "month": "2026-01",
+    "deliveries": 10,
+    "on_time": 9,
+    "defects": 0,
+    "price_variance_pct": 5.32
+   },
+   {
+    "month": "2026-02",
+    "deliveries": 7,
+    "on_time": 6,
+    "defects": 0,
+    "price_variance_pct": 5.31
+   },
+   {
+    "month": "2026-03",
+    "deliveries": 7,
+    "on_time": 6,
+    "defects": 1,
+    "price_variance_pct": 4.71
+   },
+   {
+    "month": "2026-04",
+    "deliveries": 14,
+    "on_time": 13,
+    "defects": 0,
+    "price_variance_pct": 4.24
+   },
+   {
+    "month": "2026-05",
+    "deliveries": 19,
+    "on_time": 17,
+    "defects": 0,
+    "price_variance_pct": 5.02
+   }
+  ]
+ },
+ {
+  "supplier_id": "S-003",
+  "name": "Porto Atlantic Consulting",
+  "country": "Portugal",
+  "category": "facilities",
+  "compliance_status": "compliant",
+  "onboarded": "2024-05-01",
+  "history": [
+   {
+    "month": "2024-06",
+    "deliveries": 11,
+    "on_time": 10,
+    "defects": 0,
+    "price_variance_pct": 7.59
+   },
+   {
+    "month": "2024-07",
+    "deliveries": 14,
+    "on_time": 12,
+    "defects": 0,
+    "price_variance_pct": 5.52
+   },
+   {
+    "month": "2024-08",
+    "deliveries": 7,
+    "on_time": 5,
+    "defects": 0,
+    "price_variance_pct": 7.01
+   },
+   {
+    "month": "2024-09",
+    "deliveries": 5,
+    "on_time": 5,
+    "defects": 0,
+    "price_variance_pct": 6.18
+   },
+   {
+    "month": "2024-10",
+    "deliveries": 8,
+    "on_time": 7,
+    "defects": 0,
+    "price_variance_pct": 6.98
+   },
+   {
+    "month": "2024-11",
+    "deliveries": 20,
+    "on_time": 16,
+    "defects": 0,
+    "price_variance_pct": 6.48
+   },
+   {
+    "month": "2024-12",
+    "deliveries": 13,
+    "on_time": 11,
+    "defects": 0,
+    "price_variance_pct": 6.27
+   },
+   {
+    "month": "2025-01",
+    "deliveries": 16,
+    "on_time": 13,
+    "defects": 0,
+    "price_variance_pct": 6.61
+   },
+   {
+    "month": "2025-02",
+    "deliveries": 11,
+    "on_time": 10,
+    "defects": 0,
+    "price_variance_pct": 6.95
+   },
+   {
+    "month": "2025-03",
+    "deliveries": 7,
+    "on_time": 7,
+    "defects": 0,
+    "price_variance_pct": 6.47
+   },
+   {
+    "month": "2025-04",
+    "deliveries": 13,
+    "on_time": 11,
+    "defects": 0,
+    "price_variance_pct": 5.57
+   },
+   {
+    "month": "2025-05",
+    "deliveries": 17,
+    "on_time": 15,
+    "defects": 0,
+    "price_variance_pct": 6.83
+   },
+   {
+    "month": "2025-06",
+    "deliveries": 18,
+    "on_time": 16,
+    "defects": 0,
+    "price_variance_pct": 6.91
+   },
+   {
+    "month": "2025-07",
+    "deliveries": 15,
+    "on_time": 14,
+    "defects": 0,
+    "price_variance_pct": 7.56
+   },
+   {
+    "month": "2025-08",
+    "deliveries": 5,
+    "on_time": 3,
+    "defects": 0,
+    "price_variance_pct": 5.85
+   },
+   {
+    "month": "2025-09",
+    "deliveries": 12,
+    "on_time": 10,
+    "defects": 0,
+    "price_variance_pct": 7.67
+   },
+   {
+    "month": "2025-10",
+    "deliveries": 19,
+    "on_time": 17,
+    "defects": 0,
+    "price_variance_pct": 6.32
+   },
+   {
+    "month": "2025-11",
+    "deliveries": 18,
+    "on_time": 14,
+    "defects": 0,
+    "price_variance_pct": 5.7
+   },
+   {
+    "month": "2025-12",
+    "deliveries": 14,
+    "on_time": 11,
+    "defects": 0,
+    "price_variance_pct": 6.76
+   },
+   {
+    "month": "2026-01",
+    "deliveries": 11,
+    "on_time": 9,
+    "defects": 0,
+    "price_variance_pct": 5.87
+   },
+   {
+    "month": "2026-02",
+    "deliveries": 14,
+    "on_time": 10,
+    "defects": 0,
+    "price_variance_pct": 6.68
+   },
+   {
+    "month": "2026-03",
+    "deliveries": 16,
+    "on_time": 14,
+    "defects": 1,
+    "price_variance_pct": 6.52
+   },
+   {
+    "month": "2026-04",
+    "deliveries": 10,
+    "on_time": 9,
+    "defects": 0,
+    "price_variance_pct": 6.07
+   },
+   {
+    "month": "2026-05",
+    "deliveries": 5,
+    "on_time": 4,
+    "defects": 0,
+    "price_variance_pct": 6.5
+   }
+  ]
+ },
+ {
+  "supplier_id": "S-004",
+  "name": "Al Futtaim Industrial Supplies",
+  "country": "UAE",
+  "category": "logistics",
+  "compliance_status": "compliant",
+  "onboarded": "2024-05-01",
+  "history": [
+   {
+    "month": "2024-06",
+    "deliveries": 12,
+    "on_time": 12,
+    "defects": 1,
+    "price_variance_pct": -1.55
+   },
+   {
+    "month": "2024-07",
+    "deliveries": 11,
+    "on_time": 9,
+    "defects": 0,
+    "price_variance_pct": -1.89
+   },
+   {
+    "month": "2024-08",
+    "deliveries": 11,
+    "on_time": 7,
+    "defects": 0,
+    "price_variance_pct": -1.42
+   },
+   {
+    "month": "2024-09",
+    "deliveries": 5,
+    "on_time": 5,
+    "defects": 1,
+    "price_variance_pct": -1.11
+   },
+   {
+    "month": "2024-10",
+    "deliveries": 5,
+    "on_time": 3,
+    "defects": 0,
+    "price_variance_pct": -0.03
+   },
+   {
+    "month": "2024-11",
+    "deliveries": 16,
+    "on_time": 8,
+    "defects": 0,
+    "price_variance_pct": -2.25
+   },
+   {
+    "month": "2024-12",
+    "deliveries": 5,
+    "on_time": 4,
+    "defects": 0,
+    "price_variance_pct": -0.03
+   },
+   {
+    "month": "2025-01",
+    "deliveries": 11,
+    "on_time": 10,
+    "defects": 0,
+    "price_variance_pct": -1.65
+   },
+   {
+    "month": "2025-02",
+    "deliveries": 17,
+    "on_time": 16,
+    "defects": 0,
+    "price_variance_pct": -1.9
+   },
+   {
+    "month": "2025-03",
+    "deliveries": 10,
+    "on_time": 6,
+    "defects": 0,
+    "price_variance_pct": -0.22
+   },
+   {
+    "month": "2025-04",
+    "deliveries": 15,
+    "on_time": 13,
+    "defects": 0,
+    "price_variance_pct": -0.4
+   },
+   {
+    "month": "2025-05",
+    "deliveries": 6,
+    "on_time": 4,
+    "defects": 1,
+    "price_variance_pct": -0.93
+   },
+   {
+    "month": "2025-06",
+    "deliveries": 19,
+    "on_time": 17,
+    "defects": 0,
+    "price_variance_pct": -0.86
+   },
+   {
+    "month": "2025-07",
+    "deliveries": 14,
+    "on_time": 9,
+    "defects": 0,
+    "price_variance_pct": -1.62
+   },
+   {
+    "month": "2025-08",
+    "deliveries": 8,
+    "on_time": 7,
+    "defects": 0,
+    "price_variance_pct": -1.87
+   },
+   {
+    "month": "2025-09",
+    "deliveries": 16,
+    "on_time": 15,
+    "defects": 0,
+    "price_variance_pct": -0.25
+   },
+   {
+    "month": "2025-10",
+    "deliveries": 11,
+    "on_time": 11,
+    "defects": 0,
+    "price_variance_pct": -1.62
+   },
+   {
+    "month": "2025-11",
+    "deliveries": 14,
+    "on_time": 12,
+    "defects": 0,
+    "price_variance_pct": -0.5
+   },
+   {
+    "month": "2025-12",
+    "deliveries": 6,
+    "on_time": 4,
+    "defects": 0,
+    "price_variance_pct": -1.45
+   },
+   {
+    "month": "2026-01",
+    "deliveries": 20,
+    "on_time": 13,
+    "defects": 0,
+    "price_variance_pct": -1.59
+   },
+   {
+    "month": "2026-02",
+    "deliveries": 10,
+    "on_time": 10,
+    "defects": 0,
+    "price_variance_pct": -0.9
+   },
+   {
+    "month": "2026-03",
+    "deliveries": 9,
+    "on_time": 9,
+    "defects": 0,
+    "price_variance_pct": -0.34
+   },
+   {
+    "month": "2026-04",
+    "deliveries": 20,
+    "on_time": 17,
+    "defects": 0,
+    "price_variance_pct": -1.23
+   },
+   {
+    "month": "2026-05",
+    "deliveries": 18,
+    "on_time": 15,
+    "defects": 0,
+    "price_variance_pct": -1.57
+   }
+  ]
+ },
+ {
+  "supplier_id": "S-005",
+  "name": "Shanghai Lintong Trading",
+  "country": "China",
+  "category": "professional services",
+  "compliance_status": "compliant",
+  "onboarded": "2024-05-01",
+  "history": [
+   {
+    "month": "2024-06",
+    "deliveries": 10,
+    "on_time": 8,
+    "defects": 0,
+    "price_variance_pct": -2.06
+   },
+   {
+    "month": "2024-07",
+    "deliveries": 8,
+    "on_time": 8,
+    "defects": 0,
+    "price_variance_pct": -0.09
+   },
+   {
+    "month": "2024-08",
+    "deliveries": 14,
+    "on_time": 12,
+    "defects": 2,
+    "price_variance_pct": 0.01
+   },
+   {
+    "month": "2024-09",
+    "deliveries": 17,
+    "on_time": 16,
+    "defects": 2,
+    "price_variance_pct": -0.26
+   },
+   {
+    "month": "2024-10",
+    "deliveries": 8,
+    "on_time": 8,
+    "defects": 0,
+    "price_variance_pct": -0.22
+   },
+   {
+    "month": "2024-11",
+    "deliveries": 8,
+    "on_time": 7,
+    "defects": 0,
+    "price_variance_pct": -1.13
+   },
+   {
+    "month": "2024-12",
+    "deliveries": 20,
+    "on_time": 20,
+    "defects": 1,
+    "price_variance_pct": -2.0
+   },
+   {
+    "month": "2025-01",
+    "deliveries": 14,
+    "on_time": 14,
+    "defects": 0,
+    "price_variance_pct": -0.25
+   },
+   {
+    "month": "2025-02",
+    "deliveries": 4,
+    "on_time": 4,
+    "defects": 0,
+    "price_variance_pct": -2.24
+   },
+   {
+    "month": "2025-03",
+    "deliveries": 9,
+    "on_time": 9,
+    "defects": 0,
+    "price_variance_pct": -1.37
+   },
+   {
+    "month": "2025-04",
+    "deliveries": 14,
+    "on_time": 13,
+    "defects": 0,
+    "price_variance_pct": -1.06
+   },
+   {
+    "month": "2025-05",
+    "deliveries": 11,
+    "on_time": 10,
+    "defects": 1,
+    "price_variance_pct": -1.38
+   },
+   {
+    "month": "2025-06",
+    "deliveries": 15,
+    "on_time": 14,
+    "defects": 0,
+    "price_variance_pct": -0.33
+   },
+   {
+    "month": "2025-07",
+    "deliveries": 6,
+    "on_time": 6,
+    "defects": 0,
+    "price_variance_pct": -1.75
+   },
+   {
+    "month": "2025-08",
+    "deliveries": 9,
+    "on_time": 9,
+    "defects": 0,
+    "price_variance_pct": -0.42
+   },
+   {
+    "month": "2025-09",
+    "deliveries": 4,
+    "on_time": 3,
+    "defects": 0,
+    "price_variance_pct": -0.11
+   },
+   {
+    "month": "2025-10",
+    "deliveries": 5,
+    "on_time": 5,
+    "defects": 0,
+    "price_variance_pct": -0.25
+   },
+   {
+    "month": "2025-11",
+    "deliveries": 5,
+    "on_time": 5,
+    "defects": 0,
+    "price_variance_pct": -0.46
+   },
+   {
+    "month": "2025-12",
+    "deliveries": 11,
+    "on_time": 10,
+    "defects": 0,
+    "price_variance_pct": -2.13
+   },
+   {
+    "month": "2026-01",
+    "deliveries": 11,
+    "on_time": 9,
+    "defects": 1,
+    "price_variance_pct": -0.0
+   },
+   {
+    "month": "2026-02",
+    "deliveries": 19,
+    "on_time": 19,
+    "defects": 0,
+    "price_variance_pct": -0.78
+   },
+   {
+    "month": "2026-03",
+    "deliveries": 9,
+    "on_time": 9,
+    "defects": 0,
+    "price_variance_pct": -2.19
+   },
+   {
+    "month": "2026-04",
+    "deliveries": 15,
+    "on_time": 14,
+    "defects": 0,
+    "price_variance_pct": -1.61
+   },
+   {
+    "month": "2026-05",
+    "deliveries": 7,
+    "on_time": 7,
+    "defects": 1,
+    "price_variance_pct": -2.0
+   }
+  ]
+ },
+ {
+  "supplier_id": "S-006",
+  "name": "Apex Datacenter Supply Co",
+  "country": "USA",
+  "category": "MRO",
+  "compliance_status": "compliant",
+  "onboarded": "2024-05-01",
+  "history": [
+   {
+    "month": "2024-06",
+    "deliveries": 12,
+    "on_time": 11,
+    "defects": 0,
+    "price_variance_pct": -1.22
+   },
+   {
+    "month": "2024-07",
+    "deliveries": 16,
+    "on_time": 13,
+    "defects": 0,
+    "price_variance_pct": -0.29
+   },
+   {
+    "month": "2024-08",
+    "deliveries": 9,
+    "on_time": 7,
+    "defects": 0,
+    "price_variance_pct": -0.86
+   },
+   {
+    "month": "2024-09",
+    "deliveries": 4,
+    "on_time": 3,
+    "defects": 0,
+    "price_variance_pct": 0.14
+   },
+   {
+    "month": "2024-10",
+    "deliveries": 7,
+    "on_time": 7,
+    "defects": 0,
+    "price_variance_pct": -2.02
+   },
+   {
+    "month": "2024-11",
+    "deliveries": 14,
+    "on_time": 10,
+    "defects": 0,
+    "price_variance_pct": -1.95
+   },
+   {
+    "month": "2024-12",
+    "deliveries": 20,
+    "on_time": 17,
+    "defects": 0,
+    "price_variance_pct": -0.47
+   },
+   {
+    "month": "2025-01",
+    "deliveries": 19,
+    "on_time": 15,
+    "defects": 0,
+    "price_variance_pct": -0.18
+   },
+   {
+    "month": "2025-02",
+    "deliveries": 16,
+    "on_time": 14,
+    "defects": 0,
+    "price_variance_pct": -1.26
+   },
+   {
+    "month": "2025-03",
+    "deliveries": 13,
+    "on_time": 12,
+    "defects": 0,
+    "price_variance_pct": -1.92
+   },
+   {
+    "month": "2025-04",
+    "deliveries": 14,
+    "on_time": 11,
+    "defects": 1,
+    "price_variance_pct": -1.8
+   },
+   {
+    "month": "2025-05",
+    "deliveries": 16,
+    "on_time": 12,
+    "defects": 0,
+    "price_variance_pct": -1.85
+   },
+   {
+    "month": "2025-06",
+    "deliveries": 4,
+    "on_time": 4,
+    "defects": 0,
+    "price_variance_pct": -2.09
+   },
+   {
+    "month": "2025-07",
+    "deliveries": 17,
+    "on_time": 16,
+    "defects": 1,
+    "price_variance_pct": -1.56
+   },
+   {
+    "month": "2025-08",
+    "deliveries": 13,
+    "on_time": 8,
+    "defects": 0,
+    "price_variance_pct": -0.96
+   },
+   {
+    "month": "2025-09",
+    "deliveries": 17,
+    "on_time": 13,
+    "defects": 0,
+    "price_variance_pct": -0.43
+   },
+   {
+    "month": "2025-10",
+    "deliveries": 7,
+    "on_time": 6,
+    "defects": 1,
+    "price_variance_pct": -1.71
+   },
+   {
+    "month": "2025-11",
+    "deliveries": 19,
+    "on_time": 17,
+    "defects": 0,
+    "price_variance_pct": -0.53
+   },
+   {
+    "month": "2025-12",
+    "deliveries": 4,
+    "on_time": 2,
+    "defects": 0,
+    "price_variance_pct": -1.77
+   },
+   {
+    "month": "2026-01",
+    "deliveries": 17,
+    "on_time": 11,
+    "defects": 0,
+    "price_variance_pct": -1.19
+   },
+   {
+    "month": "2026-02",
+    "deliveries": 11,
+    "on_time": 7,
+    "defects": 0,
+    "price_variance_pct": -0.9
+   },
+   {
+    "month": "2026-03",
+    "deliveries": 14,
+    "on_time": 10,
+    "defects": 0,
+    "price_variance_pct": -0.49
+   },
+   {
+    "month": "2026-04",
+    "deliveries": 11,
+    "on_time": 6,
+    "defects": 1,
+    "price_variance_pct": -0.3
+   },
+   {
+    "month": "2026-05",
+    "deliveries": 10,
+    "on_time": 8,
+    "defects": 0,
+    "price_variance_pct": 0.13
+   }
+  ]
+ },
+ {
+  "supplier_id": "S-007",
+  "name": "Blue Ridge Freight Inc",
+  "country": "USA",
+  "category": "IT hardware",
+  "compliance_status": "compliant",
+  "onboarded": "2024-05-01",
+  "history": [
+   {
+    "month": "2024-06",
+    "deliveries": 15,
+    "on_time": 13,
+    "defects": 1,
+    "price_variance_pct": 1.47
+   },
+   {
+    "month": "2024-07",
+    "deliveries": 12,
+    "on_time": 9,
+    "defects": 1,
+    "price_variance_pct": 3.54
+   },
+   {
+    "month": "2024-08",
+    "deliveries": 17,
+    "on_time": 16,
+    "defects": 0,
+    "price_variance_pct": 2.33
+   },
+   {
+    "month": "2024-09",
+    "deliveries": 11,
+    "on_time": 9,
+    "defects": 1,
+    "price_variance_pct": 2.02
+   },
+   {
+    "month": "2024-10",
+    "deliveries": 17,
+    "on_time": 15,
+    "defects": 0,
+    "price_variance_pct": 1.6
+   },
+   {
+    "month": "2024-11",
+    "deliveries": 14,
+    "on_time": 14,
+    "defects": 2,
+    "price_variance_pct": 3.37
+   },
+   {
+    "month": "2024-12",
+    "deliveries": 12,
+    "on_time": 11,
+    "defects": 0,
+    "price_variance_pct": 2.96
+   },
+   {
+    "month": "2025-01",
+    "deliveries": 19,
+    "on_time": 16,
+    "defects": 1,
+    "price_variance_pct": 2.43
+   },
+   {
+    "month": "2025-02",
+    "deliveries": 12,
+    "on_time": 12,
+    "defects": 4,
+    "price_variance_pct": 2.63
+   },
+   {
+    "month": "2025-03",
+    "deliveries": 4,
+    "on_time": 3,
+    "defects": 0,
+    "price_variance_pct": 1.72
+   },
+   {
+    "month": "2025-04",
+    "deliveries": 17,
+    "on_time": 17,
+    "defects": 1,
+    "price_variance_pct": 1.3
+   },
+   {
+    "month": "2025-05",
+    "deliveries": 20,
+    "on_time": 17,
+    "defects": 0,
+    "price_variance_pct": 2.36
+   },
+   {
+    "month": "2025-06",
+    "deliveries": 13,
+    "on_time": 12,
+    "defects": 1,
+    "price_variance_pct": 2.93
+   },
+   {
+    "month": "2025-07",
+    "deliveries": 16,
+    "on_time": 15,
+    "defects": 2,
+    "price_variance_pct": 3.39
+   },
+   {
+    "month": "2025-08",
+    "deliveries": 15,
+    "on_time": 14,
+    "defects": 0,
+    "price_variance_pct": 3.09
+   },
+   {
+    "month": "2025-09",
+    "deliveries": 11,
+    "on_time": 10,
+    "defects": 0,
+    "price_variance_pct": 2.96
+   },
+   {
+    "month": "2025-10",
+    "deliveries": 12,
+    "on_time": 11,
+    "defects": 1,
+    "price_variance_pct": 2.58
+   },
+   {
+    "month": "2025-11",
+    "deliveries": 5,
+    "on_time": 4,
+    "defects": 0,
+    "price_variance_pct": 1.95
+   },
+   {
+    "month": "2025-12",
+    "deliveries": 4,
+    "on_time": 4,
+    "defects": 0,
+    "price_variance_pct": 2.33
+   },
+   {
+    "month": "2026-01",
+    "deliveries": 14,
+    "on_time": 14,
+    "defects": 0,
+    "price_variance_pct": 2.55
+   },
+   {
+    "month": "2026-02",
+    "deliveries": 5,
+    "on_time": 5,
+    "defects": 0,
+    "price_variance_pct": 3.43
+   },
+   {
+    "month": "2026-03",
+    "deliveries": 12,
+    "on_time": 11,
+    "defects": 0,
+    "price_variance_pct": 3.37
+   },
+   {
+    "month": "2026-04",
+    "deliveries": 6,
+    "on_time": 6,
+    "defects": 0,
+    "price_variance_pct": 2.19
+   },
+   {
+    "month": "2026-05",
+    "deliveries": 9,
+    "on_time": 9,
+    "defects": 1,
+    "price_variance_pct": 3.43
+   }
+  ]
+ },
+ {
+  "supplier_id": "S-008",
+  "name": "Guangzhou Mingda Hardware",
+  "country": "China",
+  "category": "cloud services",
+  "compliance_status": "compliant",
+  "onboarded": "2024-05-01",
+  "history": [
+   {
+    "month": "2024-06",
+    "deliveries": 8,
+    "on_time": 5,
+    "defects": 0,
+    "price_variance_pct": 5.44
+   },
+   {
+    "month": "2024-07",
+    "deliveries": 17,
+    "on_time": 15,
+    "defects": 2,
+    "price_variance_pct": 4.49
+   },
+   {
+    "month": "2024-08",
+    "deliveries": 12,
+    "on_time": 11,
+    "defects": 1,
+    "price_variance_pct": 4.66
+   },
+   {
+    "month": "2024-09",
+    "deliveries": 19,
+    "on_time": 14,
+    "defects": 0,
+    "price_variance_pct": 4.44
+   },
+   {
+    "month": "2024-10",
+    "deliveries": 7,
+    "on_time": 7,
+    "defects": 0,
+    "price_variance_pct": 5.11
+   },
+   {
+    "month": "2024-11",
+    "deliveries": 14,
+    "on_time": 11,
+    "defects": 0,
+    "price_variance_pct": 5.91
+   },
+   {
+    "month": "2024-12",
+    "deliveries": 9,
+    "on_time": 9,
+    "defects": 1,
+    "price_variance_pct": 5.11
+   },
+   {
+    "month": "2025-01",
+    "deliveries": 8,
+    "on_time": 7,
+    "defects": 0,
+    "price_variance_pct": 5.6
+   },
+   {
+    "month": "2025-02",
+    "deliveries": 12,
+    "on_time": 9,
+    "defects": 0,
+    "price_variance_pct": 4.47
+   },
+   {
+    "month": "2025-03",
+    "deliveries": 16,
+    "on_time": 15,
+    "defects": 0,
+    "price_variance_pct": 6.14
+   },
+   {
+    "month": "2025-04",
+    "deliveries": 12,
+    "on_time": 9,
+    "defects": 0,
+    "price_variance_pct": 6.05
+   },
+   {
+    "month": "2025-05",
+    "deliveries": 11,
+    "on_time": 10,
+    "defects": 0,
+    "price_variance_pct": 4.91
+   },
+   {
+    "month": "2025-06",
+    "deliveries": 7,
+    "on_time": 6,
+    "defects": 0,
+    "price_variance_pct": 5.67
+   },
+   {
+    "month": "2025-07",
+    "deliveries": 16,
+    "on_time": 15,
+    "defects": 0,
+    "price_variance_pct": 4.74
+   },
+   {
+    "month": "2025-08",
+    "deliveries": 4,
+    "on_time": 4,
+    "defects": 0,
+    "price_variance_pct": 4.47
+   },
+   {
+    "month": "2025-09",
+    "deliveries": 15,
+    "on_time": 14,
+    "defects": 0,
+    "price_variance_pct": 4.56
+   },
+   {
+    "month": "2025-10",
+    "deliveries": 18,
+    "on_time": 13,
+    "defects": 0,
+    "price_variance_pct": 6.05
+   },
+   {
+    "month": "2025-11",
+    "deliveries": 4,
+    "on_time": 2,
+    "defects": 0,
+    "price_variance_pct": 5.54
+   },
+   {
+    "month": "2025-12",
+    "deliveries": 11,
+    "on_time": 11,
+    "defects": 0,
+    "price_variance_pct": 5.19
+   },
+   {
+    "month": "2026-01",
+    "deliveries": 7,
+    "on_time": 4,
+    "defects": 0,
+    "price_variance_pct": 4.23
+   },
+   {
+    "month": "2026-02",
+    "deliveries": 4,
+    "on_time": 4,
+    "defects": 0,
+    "price_variance_pct": 5.57
+   },
+   {
+    "month": "2026-03",
+    "deliveries": 19,
+    "on_time": 14,
+    "defects": 0,
+    "price_variance_pct": 6.02
+   },
+   {
+    "month": "2026-04",
+    "deliveries": 11,
+    "on_time": 10,
+    "defects": 0,
+    "price_variance_pct": 6.16
+   },
+   {
+    "month": "2026-05",
+    "deliveries": 8,
+    "on_time": 5,
+    "defects": 0,
+    "price_variance_pct": 4.12
+   }
+  ]
+ },
+ {
+  "supplier_id": "S-009",
+  "name": "Bharat Precision Components",
+  "country": "India",
+  "category": "facilities",
+  "compliance_status": "compliant",
+  "onboarded": "2024-05-01",
+  "history": [
+   {
+    "month": "2024-06",
+    "deliveries": 9,
+    "on_time": 9,
+    "defects": 0,
+    "price_variance_pct": 8.02
+   },
+   {
+    "month": "2024-07",
+    "deliveries": 12,
+    "on_time": 12,
+    "defects": 2,
+    "price_variance_pct": 7.32
+   },
+   {
+    "month": "2024-08",
+    "deliveries": 6,
+    "on_time": 6,
+    "defects": 0,
+    "price_variance_pct": 6.75
+   },
+   {
+    "month": "2024-09",
+    "deliveries": 13,
+    "on_time": 13,
+    "defects": 1,
+    "price_variance_pct": 8.02
+   },
+   {
+    "month": "2024-10",
+    "deliveries": 8,
+    "on_time": 8,
+    "defects": 0,
+    "price_variance_pct": 6.64
+   },
+   {
+    "month": "2024-11",
+    "deliveries": 15,
+    "on_time": 15,
+    "defects": 0,
+    "price_variance_pct": 8.53
+   },
+   {
+    "month": "2024-12",
+    "deliveries": 13,
+    "on_time": 12,
+    "defects": 0,
+    "price_variance_pct": 8.52
+   },
+   {
+    "month": "2025-01",
+    "deliveries": 13,
+    "on_time": 12,
+    "defects": 1,
+    "price_variance_pct": 8.76
+   },
+   {
+    "month": "2025-02",
+    "deliveries": 6,
+    "on_time": 6,
+    "defects": 0,
+    "price_variance_pct": 8.38
+   },
+   {
+    "month": "2025-03",
+    "deliveries": 7,
+    "on_time": 6,
+    "defects": 0,
+    "price_variance_pct": 8.67
+   },
+   {
+    "month": "2025-04",
+    "deliveries": 18,
+    "on_time": 18,
+    "defects": 0,
+    "price_variance_pct": 7.32
+   },
+   {
+    "month": "2025-05",
+    "deliveries": 14,
+    "on_time": 14,
+    "defects": 0,
+    "price_variance_pct": 7.83
+   },
+   {
+    "month": "2025-06",
+    "deliveries": 11,
+    "on_time": 11,
+    "defects": 1,
+    "price_variance_pct": 8.34
+   },
+   {
+    "month": "2025-07",
+    "deliveries": 4,
+    "on_time": 4,
+    "defects": 0,
+    "price_variance_pct": 7.25
+   },
+   {
+    "month": "2025-08",
+    "deliveries": 13,
+    "on_time": 8,
+    "defects": 2,
+    "price_variance_pct": 6.94
+   },
+   {
+    "month": "2025-09",
+    "deliveries": 8,
+    "on_time": 6,
+    "defects": 1,
+    "price_variance_pct": 7.53
+   },
+   {
+    "month": "2025-10",
+    "deliveries": 18,
+    "on_time": 16,
+    "defects": 1,
+    "price_variance_pct": 8.17
+   },
+   {
+    "month": "2025-11",
+    "deliveries": 13,
+    "on_time": 12,
+    "defects": 1,
+    "price_variance_pct": 6.71
+   },
+   {
+    "month": "2025-12",
+    "deliveries": 12,
+    "on_time": 12,
+    "defects": 1,
+    "price_variance_pct": 8.11
+   },
+   {
+    "month": "2026-01",
+    "deliveries": 9,
+    "on_time": 9,
+    "defects": 1,
+    "price_variance_pct": 8.75
+   },
+   {
+    "month": "2026-02",
+    "deliveries": 18,
+    "on_time": 17,
+    "defects": 4,
+    "price_variance_pct": 7.95
+   },
+   {
+    "month": "2026-03",
+    "deliveries": 10,
+    "on_time": 8,
+    "defects": 0,
+    "price_variance_pct": 8.37
+   },
+   {
+    "month": "2026-04",
+    "deliveries": 14,
+    "on_time": 12,
+    "defects": 2,
+    "price_variance_pct": 6.53
+   },
+   {
+    "month": "2026-05",
+    "deliveries": 5,
+    "on_time": 5,
+    "defects": 0,
+    "price_variance_pct": 8.4
+   }
+  ]
+ },
+ {
+  "supplier_id": "S-010",
+  "name": "Al Noor Office Systems",
+  "country": "UAE",
+  "category": "logistics",
+  "compliance_status": "non_compliant",
+  "onboarded": "2024-05-01",
+  "history": [
+   {
+    "month": "2024-06",
+    "deliveries": 19,
+    "on_time": 16,
+    "defects": 3,
+    "price_variance_pct": -3.35
+   },
+   {
+    "month": "2024-07",
+    "deliveries": 14,
+    "on_time": 14,
+    "defects": 1,
+    "price_variance_pct": -2.97
+   },
+   {
+    "month": "2024-08",
+    "deliveries": 11,
+    "on_time": 10,
+    "defects": 1,
+    "price_variance_pct": -3.84
+   },
+   {
+    "month": "2024-09",
+    "deliveries": 16,
+    "on_time": 16,
+    "defects": 2,
+    "price_variance_pct": -2.87
+   },
+   {
+    "month": "2024-10",
+    "deliveries": 11,
+    "on_time": 11,
+    "defects": 0,
+    "price_variance_pct": -4.09
+   },
+   {
+    "month": "2024-11",
+    "deliveries": 20,
+    "on_time": 20,
+    "defects": 0,
+    "price_variance_pct": -3.76
+   },
+   {
+    "month": "2024-12",
+    "deliveries": 11,
+    "on_time": 10,
+    "defects": 3,
+    "price_variance_pct": -2.89
+   },
+   {
+    "month": "2025-01",
+    "deliveries": 19,
+    "on_time": 17,
+    "defects": 1,
+    "price_variance_pct": -2.67
+   },
+   {
+    "month": "2025-02",
+    "deliveries": 14,
+    "on_time": 13,
+    "defects": 0,
+    "price_variance_pct": -4.01
+   },
+   {
+    "month": "2025-03",
+    "deliveries": 15,
+    "on_time": 14,
+    "defects": 1,
+    "price_variance_pct": -3.03
+   },
+   {
+    "month": "2025-04",
+    "deliveries": 17,
+    "on_time": 16,
+    "defects": 1,
+    "price_variance_pct": -2.56
+   },
+   {
+    "month": "2025-05",
+    "deliveries": 8,
+    "on_time": 7,
+    "defects": 1,
+    "price_variance_pct": -1.93
+   },
+   {
+    "month": "2025-06",
+    "deliveries": 8,
+    "on_time": 6,
+    "defects": 0,
+    "price_variance_pct": -3.35
+   },
+   {
+    "month": "2025-07",
+    "deliveries": 7,
+    "on_time": 7,
+    "defects": 0,
+    "price_variance_pct": -3.5
+   },
+   {
+    "month": "2025-08",
+    "deliveries": 4,
+    "on_time": 3,
+    "defects": 0,
+    "price_variance_pct": -2.94
+   },
+   {
+    "month": "2025-09",
+    "deliveries": 5,
+    "on_time": 5,
+    "defects": 0,
+    "price_variance_pct": -3.95
+   },
+   {
+    "month": "2025-10",
+    "deliveries": 18,
+    "on_time": 17,
+    "defects": 1,
+    "price_variance_pct": -3.79
+   },
+   {
+    "month": "2025-11",
+    "deliveries": 13,
+    "on_time": 11,
+    "defects": 0,
+    "price_variance_pct": -3.4
+   },
+   {
+    "month": "2025-12",
+    "deliveries": 8,
+    "on_time": 7,
+    "defects": 0,
+    "price_variance_pct": -2.14
+   },
+   {
+    "month": "2026-01",
+    "deliveries": 13,
+    "on_time": 13,
+    "defects": 0,
+    "price_variance_pct": -3.85
+   },
+   {
+    "month": "2026-02",
+    "deliveries": 4,
+    "on_time": 4,
+    "defects": 0,
+    "price_variance_pct": -2.46
+   },
+   {
+    "month": "2026-03",
+    "deliveries": 4,
+    "on_time": 4,
+    "defects": 0,
+    "price_variance_pct": -3.14
+   },
+   {
+    "month": "2026-04",
+    "deliveries": 7,
+    "on_time": 7,
+    "defects": 0,
+    "price_variance_pct": -1.96
+   },
+   {
+    "month": "2026-05",
+    "deliveries": 10,
+    "on_time": 10,
+    "defects": 0,
+    "price_variance_pct": -2.35
+   }
+  ]
+ },
+ {
+  "supplier_id": "S-011",
+  "name": "Chennai Freight Express",
+  "country": "India",
+  "category": "professional services",
+  "compliance_status": "non_compliant",
+  "onboarded": "2024-05-01",
+  "history": [
+   {
+    "month": "2024-06",
+    "deliveries": 19,
+    "on_time": 16,
+    "defects": 0,
+    "price_variance_pct": 7.55
+   },
+   {
+    "month": "2024-07",
+    "deliveries": 6,
+    "on_time": 3,
+    "defects": 0,
+    "price_variance_pct": 6.53
+   },
+   {
+    "month": "2024-08",
+    "deliveries": 17,
+    "on_time": 14,
+    "defects": 1,
+    "price_variance_pct": 7.56
+   },
+   {
+    "month": "2024-09",
+    "deliveries": 19,
+    "on_time": 12,
+    "defects": 2,
+    "price_variance_pct": 6.27
+   },
+   {
+    "month": "2024-10",
+    "deliveries": 15,
+    "on_time": 12,
+    "defects": 1,
+    "price_variance_pct": 7.91
+   },
+   {
+    "month": "2024-11",
+    "deliveries": 7,
+    "on_time": 6,
+    "defects": 0,
+    "price_variance_pct": 6.6
+   },
+   {
+    "month": "2024-12",
+    "deliveries": 13,
+    "on_time": 8,
+    "defects": 1,
+    "price_variance_pct": 8.04
+   },
+   {
+    "month": "2025-01",
+    "deliveries": 19,
+    "on_time": 15,
+    "defects": 2,
+    "price_variance_pct": 6.29
+   },
+   {
+    "month": "2025-02",
+    "deliveries": 12,
+    "on_time": 8,
+    "defects": 0,
+    "price_variance_pct": 7.36
+   },
+   {
+    "month": "2025-03",
+    "deliveries": 20,
+    "on_time": 15,
+    "defects": 1,
+    "price_variance_pct": 8.27
+   },
+   {
+    "month": "2025-04",
+    "deliveries": 15,
+    "on_time": 8,
+    "defects": 0,
+    "price_variance_pct": 6.35
+   },
+   {
+    "month": "2025-05",
+    "deliveries": 12,
+    "on_time": 9,
+    "defects": 0,
+    "price_variance_pct": 6.73
+   },
+   {
+    "month": "2025-06",
+    "deliveries": 19,
+    "on_time": 17,
+    "defects": 2,
+    "price_variance_pct": 6.61
+   },
+   {
+    "month": "2025-07",
+    "deliveries": 19,
+    "on_time": 14,
+    "defects": 2,
+    "price_variance_pct": 6.88
+   },
+   {
+    "month": "2025-08",
+    "deliveries": 16,
+    "on_time": 14,
+    "defects": 0,
+    "price_variance_pct": 7.49
+   },
+   {
+    "month": "2025-09",
+    "deliveries": 18,
+    "on_time": 14,
+    "defects": 1,
+    "price_variance_pct": 7.6
+   },
+   {
+    "month": "2025-10",
+    "deliveries": 16,
+    "on_time": 14,
+    "defects": 0,
+    "price_variance_pct": 6.02
+   },
+   {
+    "month": "2025-11",
+    "deliveries": 10,
+    "on_time": 7,
+    "defects": 0,
+    "price_variance_pct": 7.78
+   },
+   {
+    "month": "2025-12",
+    "deliveries": 15,
+    "on_time": 14,
+    "defects": 2,
+    "price_variance_pct": 6.57
+   },
+   {
+    "month": "2026-01",
+    "deliveries": 12,
+    "on_time": 7,
+    "defects": 0,
+    "price_variance_pct": 6.01
+   },
+   {
+    "month": "2026-02",
+    "deliveries": 16,
+    "on_time": 13,
+    "defects": 3,
+    "price_variance_pct": 6.37
+   },
+   {
+    "month": "2026-03",
+    "deliveries": 8,
+    "on_time": 6,
+    "defects": 0,
+    "price_variance_pct": 7.72
+   },
+   {
+    "month": "2026-04",
+    "deliveries": 13,
+    "on_time": 9,
+    "defects": 0,
+    "price_variance_pct": 7.61
+   },
+   {
+    "month": "2026-05",
+    "deliveries": 18,
+    "on_time": 11,
+    "defects": 4,
+    "price_variance_pct": 6.78
+   }
+  ]
+ },
+ {
+  "supplier_id": "S-012",
+  "name": "Emirates TechSource LLC",
+  "country": "UAE",
+  "category": "MRO",
+  "compliance_status": "compliant",
+  "onboarded": "2024-05-01",
+  "history": [
+   {
+    "month": "2024-06",
+    "deliveries": 8,
+    "on_time": 4,
+    "defects": 0,
+    "price_variance_pct": 5.86
+   },
+   {
+    "month": "2024-07",
+    "deliveries": 7,
+    "on_time": 5,
+    "defects": 0,
+    "price_variance_pct": 7.3
+   },
+   {
+    "month": "2024-08",
+    "deliveries": 11,
+    "on_time": 10,
+    "defects": 0,
+    "price_variance_pct": 7.18
+   },
+   {
+    "month": "2024-09",
+    "deliveries": 20,
+    "on_time": 17,
+    "defects": 0,
+    "price_variance_pct": 7.2
+   },
+   {
+    "month": "2024-10",
+    "deliveries": 8,
+    "on_time": 8,
+    "defects": 0,
+    "price_variance_pct": 7.47
+   },
+   {
+    "month": "2024-11",
+    "deliveries": 12,
+    "on_time": 10,
+    "defects": 0,
+    "price_variance_pct": 6.24
+   },
+   {
+    "month": "2024-12",
+    "deliveries": 10,
+    "on_time": 7,
+    "defects": 0,
+    "price_variance_pct": 6.63
+   },
+   {
+    "month": "2025-01",
+    "deliveries": 17,
+    "on_time": 13,
+    "defects": 0,
+    "price_variance_pct": 6.29
+   },
+   {
+    "month": "2025-02",
+    "deliveries": 5,
+    "on_time": 4,
+    "defects": 0,
+    "price_variance_pct": 6.56
+   },
+   {
+    "month": "2025-03",
+    "deliveries": 18,
+    "on_time": 17,
+    "defects": 0,
+    "price_variance_pct": 7.47
+   },
+   {
+    "month": "2025-04",
+    "deliveries": 18,
+    "on_time": 16,
+    "defects": 0,
+    "price_variance_pct": 6.67
+   },
+   {
+    "month": "2025-05",
+    "deliveries": 7,
+    "on_time": 6,
+    "defects": 0,
+    "price_variance_pct": 6.82
+   },
+   {
+    "month": "2025-06",
+    "deliveries": 18,
+    "on_time": 12,
+    "defects": 0,
+    "price_variance_pct": 6.92
+   },
+   {
+    "month": "2025-07",
+    "deliveries": 14,
+    "on_time": 8,
+    "defects": 0,
+    "price_variance_pct": 6.52
+   },
+   {
+    "month": "2025-08",
+    "deliveries": 7,
+    "on_time": 6,
+    "defects": 0,
+    "price_variance_pct": 7.67
+   },
+   {
+    "month": "2025-09",
+    "deliveries": 15,
+    "on_time": 12,
+    "defects": 0,
+    "price_variance_pct": 6.11
+   },
+   {
+    "month": "2025-10",
+    "deliveries": 4,
+    "on_time": 3,
+    "defects": 0,
+    "price_variance_pct": 7.72
+   },
+   {
+    "month": "2025-11",
+    "deliveries": 5,
+    "on_time": 3,
+    "defects": 0,
+    "price_variance_pct": 5.57
+   },
+   {
+    "month": "2025-12",
+    "deliveries": 17,
+    "on_time": 13,
+    "defects": 0,
+    "price_variance_pct": 7.79
+   },
+   {
+    "month": "2026-01",
+    "deliveries": 5,
+    "on_time": 4,
+    "defects": 0,
+    "price_variance_pct": 5.59
+   },
+   {
+    "month": "2026-02",
+    "deliveries": 5,
+    "on_time": 5,
+    "defects": 0,
+    "price_variance_pct": 7.57
+   },
+   {
+    "month": "2026-03",
+    "deliveries": 7,
+    "on_time": 6,
+    "defects": 0,
+    "price_variance_pct": 6.47
+   },
+   {
+    "month": "2026-04",
+    "deliveries": 18,
+    "on_time": 17,
+    "defects": 0,
+    "price_variance_pct": 6.24
+   },
+   {
+    "month": "2026-05",
+    "deliveries": 7,
+    "on_time": 7,
+    "defects": 0,
+    "price_variance_pct": 5.9
+   }
+  ]
+ },
+ {
+  "supplier_id": "S-013",
+  "name": "Shenzhen Huaxing Electronics",
+  "country": "China",
+  "category": "IT hardware",
+  "compliance_status": "compliant",
+  "onboarded": "2024-05-01",
+  "history": [
+   {
+    "month": "2024-06",
+    "deliveries": 7,
+    "on_time": 7,
+    "defects": 0,
+    "price_variance_pct": -2.97
+   },
+   {
+    "month": "2024-07",
+    "deliveries": 12,
+    "on_time": 12,
+    "defects": 0,
+    "price_variance_pct": -1.04
+   },
+   {
+    "month": "2024-08",
+    "deliveries": 11,
+    "on_time": 11,
+    "defects": 0,
+    "price_variance_pct": -2.14
+   },
+   {
+    "month": "2024-09",
+    "deliveries": 9,
+    "on_time": 9,
+    "defects": 0,
+    "price_variance_pct": -2.49
+   },
+   {
+    "month": "2024-10",
+    "deliveries": 6,
+    "on_time": 6,
+    "defects": 0,
+    "price_variance_pct": -2.47
+   },
+   {
+    "month": "2024-11",
+    "deliveries": 9,
+    "on_time": 9,
+    "defects": 0,
+    "price_variance_pct": -1.36
+   },
+   {
+    "month": "2024-12",
+    "deliveries": 10,
+    "on_time": 8,
+    "defects": 0,
+    "price_variance_pct": -1.59
+   },
+   {
+    "month": "2025-01",
+    "deliveries": 19,
+    "on_time": 19,
+    "defects": 1,
+    "price_variance_pct": -2.47
+   },
+   {
+    "month": "2025-02",
+    "deliveries": 16,
+    "on_time": 16,
+    "defects": 1,
+    "price_variance_pct": -1.3
+   },
+   {
+    "month": "2025-03",
+    "deliveries": 13,
+    "on_time": 13,
+    "defects": 0,
+    "price_variance_pct": -1.92
+   },
+   {
+    "month": "2025-04",
+    "deliveries": 9,
+    "on_time": 9,
+    "defects": 0,
+    "price_variance_pct": -1.21
+   },
+   {
+    "month": "2025-05",
+    "deliveries": 17,
+    "on_time": 15,
+    "defects": 2,
+    "price_variance_pct": -2.68
+   },
+   {
+    "month": "2025-06",
+    "deliveries": 16,
+    "on_time": 16,
+    "defects": 3,
+    "price_variance_pct": -3.16
+   },
+   {
+    "month": "2025-07",
+    "deliveries": 9,
+    "on_time": 9,
+    "defects": 2,
+    "price_variance_pct": -1.81
+   },
+   {
+    "month": "2025-08",
+    "deliveries": 12,
+    "on_time": 12,
+    "defects": 0,
+    "price_variance_pct": -2.23
+   },
+   {
+    "month": "2025-09",
+    "deliveries": 14,
+    "on_time": 14,
+    "defects": 0,
+    "price_variance_pct": -3.29
+   },
+   {
+    "month": "2025-10",
+    "deliveries": 17,
+    "on_time": 17,
+    "defects": 0,
+    "price_variance_pct": -2.79
+   },
+   {
+    "month": "2025-11",
+    "deliveries": 13,
+    "on_time": 13,
+    "defects": 0,
+    "price_variance_pct": -2.04
+   },
+   {
+    "month": "2025-12",
+    "deliveries": 19,
+    "on_time": 19,
+    "defects": 0,
+    "price_variance_pct": -1.72
+   },
+   {
+    "month": "2026-01",
+    "deliveries": 8,
+    "on_time": 8,
+    "defects": 0,
+    "price_variance_pct": -2.37
+   },
+   {
+    "month": "2026-02",
+    "deliveries": 17,
+    "on_time": 17,
+    "defects": 1,
+    "price_variance_pct": -2.94
+   },
+   {
+    "month": "2026-03",
+    "deliveries": 5,
+    "on_time": 5,
+    "defects": 0,
+    "price_variance_pct": -3.18
+   },
+   {
+    "month": "2026-04",
+    "deliveries": 7,
+    "on_time": 7,
+    "defects": 2,
+    "price_variance_pct": -1.94
+   },
+   {
+    "month": "2026-05",
+    "deliveries": 12,
+    "on_time": 11,
+    "defects": 0,
+    "price_variance_pct": -1.43
+   }
+  ]
+ },
+ {
+  "supplier_id": "S-014",
+  "name": "Beijing CloudBridge",
+  "country": "China",
+  "category": "cloud services",
+  "compliance_status": "compliant",
+  "onboarded": "2024-05-01",
+  "history": [
+   {
+    "month": "2024-06",
+    "deliveries": 17,
+    "on_time": 12,
+    "defects": 1,
+    "price_variance_pct": 4.17
+   },
+   {
+    "month": "2024-07",
+    "deliveries": 18,
+    "on_time": 13,
+    "defects": 0,
+    "price_variance_pct": 3.61
+   },
+   {
+    "month": "2024-08",
+    "deliveries": 12,
+    "on_time": 9,
+    "defects": 0,
+    "price_variance_pct": 4.34
+   },
+   {
+    "month": "2024-09",
+    "deliveries": 18,
+    "on_time": 15,
+    "defects": 0,
+    "price_variance_pct": 3.43
+   },
+   {
+    "month": "2024-10",
+    "deliveries": 4,
+    "on_time": 3,
+    "defects": 0,
+    "price_variance_pct": 4.72
+   },
+   {
+    "month": "2024-11",
+    "deliveries": 10,
+    "on_time": 8,
+    "defects": 0,
+    "price_variance_pct": 3.29
+   },
+   {
+    "month": "2024-12",
+    "deliveries": 8,
+    "on_time": 6,
+    "defects": 0,
+    "price_variance_pct": 4.0
+   },
+   {
+    "month": "2025-01",
+    "deliveries": 13,
+    "on_time": 11,
+    "defects": 1,
+    "price_variance_pct": 4.59
+   },
+   {
+    "month": "2025-02",
+    "deliveries": 17,
+    "on_time": 15,
+    "defects": 2,
+    "price_variance_pct": 3.76
+   },
+   {
+    "month": "2025-03",
+    "deliveries": 9,
+    "on_time": 7,
+    "defects": 0,
+    "price_variance_pct": 3.62
+   },
+   {
+    "month": "2025-04",
+    "deliveries": 10,
+    "on_time": 9,
+    "defects": 0,
+    "price_variance_pct": 3.69
+   },
+   {
+    "month": "2025-05",
+    "deliveries": 10,
+    "on_time": 8,
+    "defects": 0,
+    "price_variance_pct": 4.96
+   },
+   {
+    "month": "2025-06",
+    "deliveries": 12,
+    "on_time": 9,
+    "defects": 0,
+    "price_variance_pct": 4.47
+   },
+   {
+    "month": "2025-07",
+    "deliveries": 16,
+    "on_time": 15,
+    "defects": 0,
+    "price_variance_pct": 5.32
+   },
+   {
+    "month": "2025-08",
+    "deliveries": 9,
+    "on_time": 6,
+    "defects": 1,
+    "price_variance_pct": 3.07
+   },
+   {
+    "month": "2025-09",
+    "deliveries": 17,
+    "on_time": 11,
+    "defects": 0,
+    "price_variance_pct": 3.78
+   },
+   {
+    "month": "2025-10",
+    "deliveries": 20,
+    "on_time": 18,
+    "defects": 1,
+    "price_variance_pct": 4.83
+   },
+   {
+    "month": "2025-11",
+    "deliveries": 5,
+    "on_time": 5,
+    "defects": 0,
+    "price_variance_pct": 4.88
+   },
+   {
+    "month": "2025-12",
+    "deliveries": 16,
+    "on_time": 13,
+    "defects": 0,
+    "price_variance_pct": 4.25
+   },
+   {
+    "month": "2026-01",
+    "deliveries": 9,
+    "on_time": 8,
+    "defects": 1,
+    "price_variance_pct": 3.19
+   },
+   {
+    "month": "2026-02",
+    "deliveries": 17,
+    "on_time": 15,
+    "defects": 1,
+    "price_variance_pct": 4.83
+   },
+   {
+    "month": "2026-03",
+    "deliveries": 7,
+    "on_time": 5,
+    "defects": 0,
+    "price_variance_pct": 3.35
+   },
+   {
+    "month": "2026-04",
+    "deliveries": 17,
+    "on_time": 10,
+    "defects": 1,
+    "price_variance_pct": 3.43
+   },
+   {
+    "month": "2026-05",
+    "deliveries": 10,
+    "on_time": 8,
+    "defects": 1,
+    "price_variance_pct": 5.4
+   }
+  ]
+ },
+ {
+  "supplier_id": "S-015",
+  "name": "Delhi DataWorks",
+  "country": "India",
+  "category": "facilities",
+  "compliance_status": "compliant",
+  "onboarded": "2024-05-01",
+  "history": [
+   {
+    "month": "2024-06",
+    "deliveries": 15,
+    "on_time": 15,
+    "defects": 0,
+    "price_variance_pct": -0.86
+   },
+   {
+    "month": "2024-07",
+    "deliveries": 16,
+    "on_time": 16,
+    "defects": 0,
+    "price_variance_pct": -1.38
+   },
+   {
+    "month": "2024-08",
+    "deliveries": 5,
+    "on_time": 5,
+    "defects": 1,
+    "price_variance_pct": -0.88
+   },
+   {
+    "month": "2024-09",
+    "deliveries": 6,
+    "on_time": 6,
+    "defects": 0,
+    "price_variance_pct": -2.68
+   },
+   {
+    "month": "2024-10",
+    "deliveries": 13,
+    "on_time": 13,
+    "defects": 0,
+    "price_variance_pct": -1.89
+   },
+   {
+    "month": "2024-11",
+    "deliveries": 14,
+    "on_time": 14,
+    "defects": 1,
+    "price_variance_pct": -0.53
+   },
+   {
+    "month": "2024-12",
+    "deliveries": 9,
+    "on_time": 9,
+    "defects": 0,
+    "price_variance_pct": -1.66
+   },
+   {
+    "month": "2025-01",
+    "deliveries": 11,
+    "on_time": 10,
+    "defects": 0,
+    "price_variance_pct": -0.61
+   },
+   {
+    "month": "2025-02",
+    "deliveries": 8,
+    "on_time": 8,
+    "defects": 0,
+    "price_variance_pct": -2.48
+   },
+   {
+    "month": "2025-03",
+    "deliveries": 8,
+    "on_time": 8,
+    "defects": 1,
+    "price_variance_pct": -0.82
+   },
+   {
+    "month": "2025-04",
+    "deliveries": 12,
+    "on_time": 12,
+    "defects": 0,
+    "price_variance_pct": -2.45
+   },
+   {
+    "month": "2025-05",
+    "deliveries": 7,
+    "on_time": 7,
+    "defects": 1,
+    "price_variance_pct": -2.72
+   },
+   {
+    "month": "2025-06",
+    "deliveries": 5,
+    "on_time": 5,
+    "defects": 1,
+    "price_variance_pct": -1.12
+   },
+   {
+    "month": "2025-07",
+    "deliveries": 15,
+    "on_time": 15,
+    "defects": 0,
+    "price_variance_pct": -2.11
+   },
+   {
+    "month": "2025-08",
+    "deliveries": 15,
+    "on_time": 13,
+    "defects": 0,
+    "price_variance_pct": -1.09
+   },
+   {
+    "month": "2025-09",
+    "deliveries": 18,
+    "on_time": 18,
+    "defects": 1,
+    "price_variance_pct": -1.81
+   },
+   {
+    "month": "2025-10",
+    "deliveries": 6,
+    "on_time": 6,
+    "defects": 0,
+    "price_variance_pct": -1.83
+   },
+   {
+    "month": "2025-11",
+    "deliveries": 8,
+    "on_time": 8,
+    "defects": 0,
+    "price_variance_pct": -2.5
+   },
+   {
+    "month": "2025-12",
+    "deliveries": 8,
+    "on_time": 8,
+    "defects": 0,
+    "price_variance_pct": -1.78
+   },
+   {
+    "month": "2026-01",
+    "deliveries": 9,
+    "on_time": 9,
+    "defects": 1,
+    "price_variance_pct": -0.68
+   },
+   {
+    "month": "2026-02",
+    "deliveries": 19,
+    "on_time": 19,
+    "defects": 2,
+    "price_variance_pct": -1.89
+   },
+   {
+    "month": "2026-03",
+    "deliveries": 9,
+    "on_time": 9,
+    "defects": 1,
+    "price_variance_pct": -1.42
+   },
+   {
+    "month": "2026-04",
+    "deliveries": 7,
+    "on_time": 7,
+    "defects": 0,
+    "price_variance_pct": -0.74
+   },
+   {
+    "month": "2026-05",
+    "deliveries": 16,
+    "on_time": 16,
+    "defects": 0,
+    "price_variance_pct": -0.75
+   }
+  ]
+ },
+ {
+  "supplier_id": "S-016",
+  "name": "Masdar Cloud Partners",
+  "country": "UAE",
+  "category": "logistics",
+  "compliance_status": "pending_renewal",
+  "onboarded": "2024-05-01",
+  "history": [
+   {
+    "month": "2024-06",
+    "deliveries": 20,
+    "on_time": 17,
+    "defects": 1,
+    "price_variance_pct": -2.76
+   },
+   {
+    "month": "2024-07",
+    "deliveries": 12,
+    "on_time": 10,
+    "defects": 2,
+    "price_variance_pct": -1.94
+   },
+   {
+    "month": "2024-08",
+    "deliveries": 4,
+    "on_time": 3,
+    "defects": 2,
+    "price_variance_pct": -1.02
+   },
+   {
+    "month": "2024-09",
+    "deliveries": 7,
+    "on_time": 6,
+    "defects": 0,
+    "price_variance_pct": -0.83
+   },
+   {
+    "month": "2024-10",
+    "deliveries": 10,
+    "on_time": 9,
+    "defects": 0,
+    "price_variance_pct": -0.95
+   },
+   {
+    "month": "2024-11",
+    "deliveries": 6,
+    "on_time": 4,
+    "defects": 0,
+    "price_variance_pct": -2.07
+   },
+   {
+    "month": "2024-12",
+    "deliveries": 9,
+    "on_time": 9,
+    "defects": 0,
+    "price_variance_pct": -1.65
+   },
+   {
+    "month": "2025-01",
+    "deliveries": 6,
+    "on_time": 6,
+    "defects": 0,
+    "price_variance_pct": -1.66
+   },
+   {
+    "month": "2025-02",
+    "deliveries": 16,
+    "on_time": 15,
+    "defects": 0,
+    "price_variance_pct": -2.57
+   },
+   {
+    "month": "2025-03",
+    "deliveries": 4,
+    "on_time": 3,
+    "defects": 0,
+    "price_variance_pct": -1.15
+   },
+   {
+    "month": "2025-04",
+    "deliveries": 4,
+    "on_time": 2,
+    "defects": 0,
+    "price_variance_pct": -1.63
+   },
+   {
+    "month": "2025-05",
+    "deliveries": 16,
+    "on_time": 13,
+    "defects": 1,
+    "price_variance_pct": -1.14
+   },
+   {
+    "month": "2025-06",
+    "deliveries": 10,
+    "on_time": 9,
+    "defects": 0,
+    "price_variance_pct": -1.46
+   },
+   {
+    "month": "2025-07",
+    "deliveries": 7,
+    "on_time": 5,
+    "defects": 0,
+    "price_variance_pct": -1.9
+   },
+   {
+    "month": "2025-08",
+    "deliveries": 20,
+    "on_time": 18,
+    "defects": 1,
+    "price_variance_pct": -1.06
+   },
+   {
+    "month": "2025-09",
+    "deliveries": 11,
+    "on_time": 8,
+    "defects": 3,
+    "price_variance_pct": -2.41
+   },
+   {
+    "month": "2025-10",
+    "deliveries": 11,
+    "on_time": 10,
+    "defects": 1,
+    "price_variance_pct": -1.36
+   },
+   {
+    "month": "2025-11",
+    "deliveries": 4,
+    "on_time": 3,
+    "defects": 1,
+    "price_variance_pct": -2.07
+   },
+   {
+    "month": "2025-12",
+    "deliveries": 10,
+    "on_time": 5,
+    "defects": 0,
+    "price_variance_pct": -2.28
+   },
+   {
+    "month": "2026-01",
+    "deliveries": 7,
+    "on_time": 5,
+    "defects": 0,
+    "price_variance_pct": -2.41
+   },
+   {
+    "month": "2026-02",
+    "deliveries": 13,
+    "on_time": 13,
+    "defects": 0,
+    "price_variance_pct": -1.58
+   },
+   {
+    "month": "2026-03",
+    "deliveries": 17,
+    "on_time": 12,
+    "defects": 1,
+    "price_variance_pct": -2.89
+   },
+   {
+    "month": "2026-04",
+    "deliveries": 8,
+    "on_time": 8,
+    "defects": 1,
+    "price_variance_pct": -2.97
+   },
+   {
+    "month": "2026-05",
+    "deliveries": 7,
+    "on_time": 7,
+    "defects": 0,
+    "price_variance_pct": -2.57
+   }
+  ]
+ },
+ {
+  "supplier_id": "S-017",
+  "name": "Etihad MRO Services",
+  "country": "UAE",
+  "category": "professional services",
+  "compliance_status": "compliant",
+  "onboarded": "2024-05-01",
+  "history": [
+   {
+    "month": "2024-06",
+    "deliveries": 4,
+    "on_time": 4,
+    "defects": 0,
+    "price_variance_pct": -0.64
+   },
+   {
+    "month": "2024-07",
+    "deliveries": 4,
+    "on_time": 4,
+    "defects": 0,
+    "price_variance_pct": 0.42
+   },
+   {
+    "month": "2024-08",
+    "deliveries": 18,
+    "on_time": 17,
+    "defects": 3,
+    "price_variance_pct": -0.03
+   },
+   {
+    "month": "2024-09",
+    "deliveries": 20,
+    "on_time": 18,
+    "defects": 2,
+    "price_variance_pct": 1.02
+   },
+   {
+    "month": "2024-10",
+    "deliveries": 7,
+    "on_time": 7,
+    "defects": 1,
+    "price_variance_pct": -0.12
+   },
+   {
+    "month": "2024-11",
+    "deliveries": 18,
+    "on_time": 17,
+    "defects": 2,
+    "price_variance_pct": 0.01
+   },
+   {
+    "month": "2024-12",
+    "deliveries": 6,
+    "on_time": 6,
+    "defects": 1,
+    "price_variance_pct": -0.03
+   },
+   {
+    "month": "2025-01",
+    "deliveries": 9,
+    "on_time": 7,
+    "defects": 1,
+    "price_variance_pct": -0.56
+   },
+   {
+    "month": "2025-02",
+    "deliveries": 14,
+    "on_time": 10,
+    "defects": 4,
+    "price_variance_pct": 0.97
+   },
+   {
+    "month": "2025-03",
+    "deliveries": 10,
+    "on_time": 10,
+    "defects": 1,
+    "price_variance_pct": -0.35
+   },
+   {
+    "month": "2025-04",
+    "deliveries": 5,
+    "on_time": 4,
+    "defects": 1,
+    "price_variance_pct": -0.3
+   },
+   {
+    "month": "2025-05",
+    "deliveries": 13,
+    "on_time": 12,
+    "defects": 0,
+    "price_variance_pct": 1.3
+   },
+   {
+    "month": "2025-06",
+    "deliveries": 20,
+    "on_time": 19,
+    "defects": 3,
+    "price_variance_pct": 0.15
+   },
+   {
+    "month": "2025-07",
+    "deliveries": 17,
+    "on_time": 11,
+    "defects": 2,
+    "price_variance_pct": 0.7
+   },
+   {
+    "month": "2025-08",
+    "deliveries": 12,
+    "on_time": 12,
+    "defects": 0,
+    "price_variance_pct": 0.68
+   },
+   {
+    "month": "2025-09",
+    "deliveries": 9,
+    "on_time": 9,
+    "defects": 0,
+    "price_variance_pct": -0.32
+   },
+   {
+    "month": "2025-10",
+    "deliveries": 14,
+    "on_time": 12,
+    "defects": 1,
+    "price_variance_pct": 0.51
+   },
+   {
+    "month": "2025-11",
+    "deliveries": 8,
+    "on_time": 6,
+    "defects": 1,
+    "price_variance_pct": 0.17
+   },
+   {
+    "month": "2025-12",
+    "deliveries": 12,
+    "on_time": 8,
+    "defects": 1,
+    "price_variance_pct": -0.3
+   },
+   {
+    "month": "2026-01",
+    "deliveries": 17,
+    "on_time": 17,
+    "defects": 2,
+    "price_variance_pct": 1.09
+   },
+   {
+    "month": "2026-02",
+    "deliveries": 14,
+    "on_time": 13,
+    "defects": 0,
+    "price_variance_pct": -0.18
+   },
+   {
+    "month": "2026-03",
+    "deliveries": 14,
+    "on_time": 11,
+    "defects": 0,
+    "price_variance_pct": -0.22
+   },
+   {
+    "month": "2026-04",
+    "deliveries": 7,
+    "on_time": 6,
+    "defects": 2,
+    "price_variance_pct": 0.87
+   },
+   {
+    "month": "2026-05",
+    "deliveries": 20,
+    "on_time": 17,
+    "defects": 2,
+    "price_variance_pct": 0.24
+   }
+  ]
+ },
+ {
+  "supplier_id": "S-018",
+  "name": "Rheinmetall Buro GmbH",
+  "country": "Germany",
+  "category": "MRO",
+  "compliance_status": "compliant",
+  "onboarded": "2024-05-01",
+  "history": [
+   {
+    "month": "2024-06",
+    "deliveries": 6,
+    "on_time": 4,
+    "defects": 0,
+    "price_variance_pct": 2.79
+   },
+   {
+    "month": "2024-07",
+    "deliveries": 19,
+    "on_time": 14,
+    "defects": 0,
+    "price_variance_pct": 2.25
+   },
+   {
+    "month": "2024-08",
+    "deliveries": 18,
+    "on_time": 15,
+    "defects": 0,
+    "price_variance_pct": 2.59
+   },
+   {
+    "month": "2024-09",
+    "deliveries": 11,
+    "on_time": 9,
+    "defects": 0,
+    "price_variance_pct": 3.09
+   },
+   {
+    "month": "2024-10",
+    "deliveries": 17,
+    "on_time": 14,
+    "defects": 0,
+    "price_variance_pct": 3.11
+   },
+   {
+    "month": "2024-11",
+    "deliveries": 18,
+    "on_time": 16,
+    "defects": 1,
+    "price_variance_pct": 3.65
+   },
+   {
+    "month": "2024-12",
+    "deliveries": 6,
+    "on_time": 5,
+    "defects": 0,
+    "price_variance_pct": 2.77
+   },
+   {
+    "month": "2025-01",
+    "deliveries": 20,
+    "on_time": 19,
+    "defects": 1,
+    "price_variance_pct": 1.64
+   },
+   {
+    "month": "2025-02",
+    "deliveries": 15,
+    "on_time": 12,
+    "defects": 0,
+    "price_variance_pct": 3.45
+   },
+   {
+    "month": "2025-03",
+    "deliveries": 10,
+    "on_time": 7,
+    "defects": 0,
+    "price_variance_pct": 2.4
+   },
+   {
+    "month": "2025-04",
+    "deliveries": 13,
+    "on_time": 13,
+    "defects": 0,
+    "price_variance_pct": 2.16
+   },
+   {
+    "month": "2025-05",
+    "deliveries": 4,
+    "on_time": 4,
+    "defects": 0,
+    "price_variance_pct": 1.3
+   },
+   {
+    "month": "2025-06",
+    "deliveries": 12,
+    "on_time": 8,
+    "defects": 0,
+    "price_variance_pct": 1.58
+   },
+   {
+    "month": "2025-07",
+    "deliveries": 17,
+    "on_time": 13,
+    "defects": 1,
+    "price_variance_pct": 3.52
+   },
+   {
+    "month": "2025-08",
+    "deliveries": 13,
+    "on_time": 12,
+    "defects": 0,
+    "price_variance_pct": 1.39
+   },
+   {
+    "month": "2025-09",
+    "deliveries": 13,
+    "on_time": 12,
+    "defects": 0,
+    "price_variance_pct": 1.76
+   },
+   {
+    "month": "2025-10",
+    "deliveries": 20,
+    "on_time": 17,
+    "defects": 0,
+    "price_variance_pct": 1.36
+   },
+   {
+    "month": "2025-11",
+    "deliveries": 11,
+    "on_time": 7,
+    "defects": 0,
+    "price_variance_pct": 3.19
+   },
+   {
+    "month": "2025-12",
+    "deliveries": 18,
+    "on_time": 17,
+    "defects": 0,
+    "price_variance_pct": 3.59
+   },
+   {
+    "month": "2026-01",
+    "deliveries": 4,
+    "on_time": 4,
+    "defects": 0,
+    "price_variance_pct": 3.46
+   },
+   {
+    "month": "2026-02",
+    "deliveries": 11,
+    "on_time": 11,
+    "defects": 0,
+    "price_variance_pct": 1.29
+   },
+   {
+    "month": "2026-03",
+    "deliveries": 14,
+    "on_time": 13,
+    "defects": 1,
+    "price_variance_pct": 2.5
+   },
+   {
+    "month": "2026-04",
+    "deliveries": 18,
+    "on_time": 17,
+    "defects": 0,
+    "price_variance_pct": 1.36
+   },
+   {
+    "month": "2026-05",
+    "deliveries": 14,
+    "on_time": 9,
+    "defects": 0,
+    "price_variance_pct": 3.09
+   }
+  ]
+ },
+ {
+  "supplier_id": "S-019",
+  "name": "Sterling Office Interiors",
+  "country": "USA",
+  "category": "IT hardware",
+  "compliance_status": "compliant",
+  "onboarded": "2024-05-01",
+  "history": [
+   {
+    "month": "2024-06",
+    "deliveries": 5,
+    "on_time": 4,
+    "defects": 1,
+    "price_variance_pct": 6.7
+   },
+   {
+    "month": "2024-07",
+    "deliveries": 14,
+    "on_time": 14,
+    "defects": 0,
+    "price_variance_pct": 4.56
+   },
+   {
+    "month": "2024-08",
+    "deliveries": 20,
+    "on_time": 16,
+    "defects": 0,
+    "price_variance_pct": 5.3
+   },
+   {
+    "month": "2024-09",
+    "deliveries": 16,
+    "on_time": 13,
+    "defects": 0,
+    "price_variance_pct": 5.93
+   },
+   {
+    "month": "2024-10",
+    "deliveries": 20,
+    "on_time": 12,
+    "defects": 2,
+    "price_variance_pct": 4.42
+   },
+   {
+    "month": "2024-11",
+    "deliveries": 19,
+    "on_time": 17,
+    "defects": 1,
+    "price_variance_pct": 4.42
+   },
+   {
+    "month": "2024-12",
+    "deliveries": 15,
+    "on_time": 14,
+    "defects": 1,
+    "price_variance_pct": 5.27
+   },
+   {
+    "month": "2025-01",
+    "deliveries": 19,
+    "on_time": 18,
+    "defects": 1,
+    "price_variance_pct": 4.8
+   },
+   {
+    "month": "2025-02",
+    "deliveries": 11,
+    "on_time": 8,
+    "defects": 1,
+    "price_variance_pct": 5.42
+   },
+   {
+    "month": "2025-03",
+    "deliveries": 19,
+    "on_time": 17,
+    "defects": 1,
+    "price_variance_pct": 5.09
+   },
+   {
+    "month": "2025-04",
+    "deliveries": 18,
+    "on_time": 17,
+    "defects": 0,
+    "price_variance_pct": 5.71
+   },
+   {
+    "month": "2025-05",
+    "deliveries": 17,
+    "on_time": 16,
+    "defects": 0,
+    "price_variance_pct": 6.73
+   },
+   {
+    "month": "2025-06",
+    "deliveries": 16,
+    "on_time": 13,
+    "defects": 0,
+    "price_variance_pct": 4.88
+   },
+   {
+    "month": "2025-07",
+    "deliveries": 14,
+    "on_time": 14,
+    "defects": 2,
+    "price_variance_pct": 6.23
+   },
+   {
+    "month": "2025-08",
+    "deliveries": 9,
+    "on_time": 6,
+    "defects": 0,
+    "price_variance_pct": 6.02
+   },
+   {
+    "month": "2025-09",
+    "deliveries": 17,
+    "on_time": 13,
+    "defects": 1,
+    "price_variance_pct": 6.74
+   },
+   {
+    "month": "2025-10",
+    "deliveries": 11,
+    "on_time": 9,
+    "defects": 0,
+    "price_variance_pct": 6.18
+   },
+   {
+    "month": "2025-11",
+    "deliveries": 7,
+    "on_time": 5,
+    "defects": 1,
+    "price_variance_pct": 6.67
+   },
+   {
+    "month": "2025-12",
+    "deliveries": 7,
+    "on_time": 4,
+    "defects": 0,
+    "price_variance_pct": 5.14
+   },
+   {
+    "month": "2026-01",
+    "deliveries": 8,
+    "on_time": 7,
+    "defects": 0,
+    "price_variance_pct": 4.72
+   },
+   {
+    "month": "2026-02",
+    "deliveries": 9,
+    "on_time": 7,
+    "defects": 3,
+    "price_variance_pct": 6.1
+   },
+   {
+    "month": "2026-03",
+    "deliveries": 9,
+    "on_time": 5,
+    "defects": 0,
+    "price_variance_pct": 5.24
+   },
+   {
+    "month": "2026-04",
+    "deliveries": 7,
+    "on_time": 5,
+    "defects": 0,
+    "price_variance_pct": 4.8
+   },
+   {
+    "month": "2026-05",
+    "deliveries": 13,
+    "on_time": 10,
+    "defects": 2,
+    "price_variance_pct": 5.87
+   }
+  ]
+ },
+ {
+  "supplier_id": "S-020",
+  "name": "Tata Infotech Solutions",
+  "country": "India",
+  "category": "cloud services",
+  "compliance_status": "compliant",
+  "onboarded": "2024-05-01",
+  "history": [
+   {
+    "month": "2024-06",
+    "deliveries": 12,
+    "on_time": 12,
+    "defects": 0,
+    "price_variance_pct": 1.48
+   },
+   {
+    "month": "2024-07",
+    "deliveries": 15,
+    "on_time": 13,
+    "defects": 0,
+    "price_variance_pct": 2.58
+   },
+   {
+    "month": "2024-08",
+    "deliveries": 8,
+    "on_time": 6,
+    "defects": 0,
+    "price_variance_pct": 2.38
+   },
+   {
+    "month": "2024-09",
+    "deliveries": 10,
+    "on_time": 8,
+    "defects": 0,
+    "price_variance_pct": 1.07
+   },
+   {
+    "month": "2024-10",
+    "deliveries": 8,
+    "on_time": 8,
+    "defects": 0,
+    "price_variance_pct": 2.58
+   },
+   {
+    "month": "2024-11",
+    "deliveries": 14,
+    "on_time": 13,
+    "defects": 0,
+    "price_variance_pct": 2.31
+   },
+   {
+    "month": "2024-12",
+    "deliveries": 14,
+    "on_time": 13,
+    "defects": 0,
+    "price_variance_pct": 2.94
+   },
+   {
+    "month": "2025-01",
+    "deliveries": 17,
+    "on_time": 17,
+    "defects": 1,
+    "price_variance_pct": 2.85
+   },
+   {
+    "month": "2025-02",
+    "deliveries": 14,
+    "on_time": 13,
+    "defects": 1,
+    "price_variance_pct": 1.52
+   },
+   {
+    "month": "2025-03",
+    "deliveries": 20,
+    "on_time": 19,
+    "defects": 3,
+    "price_variance_pct": 2.78
+   },
+   {
+    "month": "2025-04",
+    "deliveries": 17,
+    "on_time": 16,
+    "defects": 0,
+    "price_variance_pct": 2.46
+   },
+   {
+    "month": "2025-05",
+    "deliveries": 11,
+    "on_time": 10,
+    "defects": 0,
+    "price_variance_pct": 2.46
+   },
+   {
+    "month": "2025-06",
+    "deliveries": 8,
+    "on_time": 7,
+    "defects": 1,
+    "price_variance_pct": 1.63
+   },
+   {
+    "month": "2025-07",
+    "deliveries": 7,
+    "on_time": 6,
+    "defects": 1,
+    "price_variance_pct": 1.0
+   },
+   {
+    "month": "2025-08",
+    "deliveries": 16,
+    "on_time": 14,
+    "defects": 3,
+    "price_variance_pct": 2.13
+   },
+   {
+    "month": "2025-09",
+    "deliveries": 6,
+    "on_time": 5,
+    "defects": 0,
+    "price_variance_pct": 2.88
+   },
+   {
+    "month": "2025-10",
+    "deliveries": 9,
+    "on_time": 9,
+    "defects": 0,
+    "price_variance_pct": 1.58
+   },
+   {
+    "month": "2025-11",
+    "deliveries": 18,
+    "on_time": 18,
+    "defects": 0,
+    "price_variance_pct": 0.83
+   },
+   {
+    "month": "2025-12",
+    "deliveries": 7,
+    "on_time": 7,
+    "defects": 0,
+    "price_variance_pct": 1.19
+   },
+   {
+    "month": "2026-01",
+    "deliveries": 14,
+    "on_time": 13,
+    "defects": 1,
+    "price_variance_pct": 0.78
+   },
+   {
+    "month": "2026-02",
+    "deliveries": 11,
+    "on_time": 11,
+    "defects": 1,
+    "price_variance_pct": 2.75
+   },
+   {
+    "month": "2026-03",
+    "deliveries": 16,
+    "on_time": 16,
+    "defects": 0,
+    "price_variance_pct": 1.08
+   },
+   {
+    "month": "2026-04",
+    "deliveries": 5,
+    "on_time": 5,
+    "defects": 0,
+    "price_variance_pct": 1.12
+   },
+   {
+    "month": "2026-05",
+    "deliveries": 5,
+    "on_time": 4,
+    "defects": 2,
+    "price_variance_pct": 1.19
+   }
+  ]
+ },
+ {
+  "supplier_id": "S-021",
+  "name": "Mahindra Supply Networks",
+  "country": "India",
+  "category": "facilities",
+  "compliance_status": "compliant",
+  "onboarded": "2024-05-01",
+  "history": [
+   {
+    "month": "2024-06",
+    "deliveries": 13,
+    "on_time": 13,
+    "defects": 6,
+    "price_variance_pct": -2.65
+   },
+   {
+    "month": "2024-07",
+    "deliveries": 7,
+    "on_time": 6,
+    "defects": 0,
+    "price_variance_pct": -2.98
+   },
+   {
+    "month": "2024-08",
+    "deliveries": 18,
+    "on_time": 13,
+    "defects": 0,
+    "price_variance_pct": -1.83
+   },
+   {
+    "month": "2024-09",
+    "deliveries": 15,
+    "on_time": 14,
+    "defects": 0,
+    "price_variance_pct": -3.1
+   },
+   {
+    "month": "2024-10",
+    "deliveries": 17,
+    "on_time": 15,
+    "defects": 1,
+    "price_variance_pct": -3.3
+   },
+   {
+    "month": "2024-11",
+    "deliveries": 17,
+    "on_time": 14,
+    "defects": 1,
+    "price_variance_pct": -1.68
+   },
+   {
+    "month": "2024-12",
+    "deliveries": 10,
+    "on_time": 7,
+    "defects": 1,
+    "price_variance_pct": -2.84
+   },
+   {
+    "month": "2025-01",
+    "deliveries": 18,
+    "on_time": 14,
+    "defects": 0,
+    "price_variance_pct": -3.52
+   },
+   {
+    "month": "2025-02",
+    "deliveries": 8,
+    "on_time": 7,
+    "defects": 2,
+    "price_variance_pct": -2.47
+   },
+   {
+    "month": "2025-03",
+    "deliveries": 14,
+    "on_time": 13,
+    "defects": 2,
+    "price_variance_pct": -3.1
+   },
+   {
+    "month": "2025-04",
+    "deliveries": 8,
+    "on_time": 6,
+    "defects": 0,
+    "price_variance_pct": -2.75
+   },
+   {
+    "month": "2025-05",
+    "deliveries": 11,
+    "on_time": 10,
+    "defects": 2,
+    "price_variance_pct": -3.42
+   },
+   {
+    "month": "2025-06",
+    "deliveries": 12,
+    "on_time": 12,
+    "defects": 0,
+    "price_variance_pct": -1.48
+   },
+   {
+    "month": "2025-07",
+    "deliveries": 14,
+    "on_time": 11,
+    "defects": 0,
+    "price_variance_pct": -1.29
+   },
+   {
+    "month": "2025-08",
+    "deliveries": 19,
+    "on_time": 18,
+    "defects": 1,
+    "price_variance_pct": -1.39
+   },
+   {
+    "month": "2025-09",
+    "deliveries": 11,
+    "on_time": 9,
+    "defects": 1,
+    "price_variance_pct": -3.04
+   },
+   {
+    "month": "2025-10",
+    "deliveries": 4,
+    "on_time": 4,
+    "defects": 0,
+    "price_variance_pct": -2.29
+   },
+   {
+    "month": "2025-11",
+    "deliveries": 10,
+    "on_time": 9,
+    "defects": 3,
+    "price_variance_pct": -3.23
+   },
+   {
+    "month": "2025-12",
+    "deliveries": 16,
+    "on_time": 14,
+    "defects": 3,
+    "price_variance_pct": -3.42
+   },
+   {
+    "month": "2026-01",
+    "deliveries": 8,
+    "on_time": 8,
+    "defects": 2,
+    "price_variance_pct": -3.08
+   },
+   {
+    "month": "2026-02",
+    "deliveries": 9,
+    "on_time": 8,
+    "defects": 1,
+    "price_variance_pct": -3.53
+   },
+   {
+    "month": "2026-03",
+    "deliveries": 13,
+    "on_time": 12,
+    "defects": 0,
+    "price_variance_pct": -2.95
+   },
+   {
+    "month": "2026-04",
+    "deliveries": 7,
+    "on_time": 6,
+    "defects": 0,
+    "price_variance_pct": -2.86
+   },
+   {
+    "month": "2026-05",
+    "deliveries": 10,
+    "on_time": 8,
+    "defects": 0,
+    "price_variance_pct": -2.43
+   }
+  ]
+ },
+ {
+  "supplier_id": "S-022",
+  "name": "Hamburg Logistik Partner",
+  "country": "Germany",
+  "category": "logistics",
+  "compliance_status": "non_compliant",
+  "onboarded": "2024-05-01",
+  "history": [
+   {
+    "month": "2024-06",
+    "deliveries": 6,
+    "on_time": 4,
+    "defects": 1,
+    "price_variance_pct": 3.65
+   },
+   {
+    "month": "2024-07",
+    "deliveries": 10,
+    "on_time": 9,
+    "defects": 0,
+    "price_variance_pct": 3.41
+   },
+   {
+    "month": "2024-08",
+    "deliveries": 11,
+    "on_time": 10,
+    "defects": 2,
+    "price_variance_pct": 3.62
+   },
+   {
+    "month": "2024-09",
+    "deliveries": 12,
+    "on_time": 11,
+    "defects": 1,
+    "price_variance_pct": 4.9
+   },
+   {
+    "month": "2024-10",
+    "deliveries": 15,
+    "on_time": 11,
+    "defects": 0,
+    "price_variance_pct": 5.04
+   },
+   {
+    "month": "2024-11",
+    "deliveries": 16,
+    "on_time": 15,
+    "defects": 0,
+    "price_variance_pct": 5.06
+   },
+   {
+    "month": "2024-12",
+    "deliveries": 19,
+    "on_time": 17,
+    "defects": 3,
+    "price_variance_pct": 4.79
+   },
+   {
+    "month": "2025-01",
+    "deliveries": 15,
+    "on_time": 12,
+    "defects": 2,
+    "price_variance_pct": 3.8
+   },
+   {
+    "month": "2025-02",
+    "deliveries": 16,
+    "on_time": 15,
+    "defects": 0,
+    "price_variance_pct": 3.45
+   },
+   {
+    "month": "2025-03",
+    "deliveries": 4,
+    "on_time": 4,
+    "defects": 0,
+    "price_variance_pct": 4.27
+   },
+   {
+    "month": "2025-04",
+    "deliveries": 12,
+    "on_time": 11,
+    "defects": 1,
+    "price_variance_pct": 3.62
+   },
+   {
+    "month": "2025-05",
+    "deliveries": 13,
+    "on_time": 12,
+    "defects": 0,
+    "price_variance_pct": 3.3
+   },
+   {
+    "month": "2025-06",
+    "deliveries": 20,
+    "on_time": 17,
+    "defects": 1,
+    "price_variance_pct": 5.51
+   },
+   {
+    "month": "2025-07",
+    "deliveries": 14,
+    "on_time": 12,
+    "defects": 0,
+    "price_variance_pct": 4.5
+   },
+   {
+    "month": "2025-08",
+    "deliveries": 15,
+    "on_time": 14,
+    "defects": 0,
+    "price_variance_pct": 4.86
+   },
+   {
+    "month": "2025-09",
+    "deliveries": 18,
+    "on_time": 13,
+    "defects": 1,
+    "price_variance_pct": 5.28
+   },
+   {
+    "month": "2025-10",
+    "deliveries": 5,
+    "on_time": 5,
+    "defects": 0,
+    "price_variance_pct": 5.16
+   },
+   {
+    "month": "2025-11",
+    "deliveries": 8,
+    "on_time": 7,
+    "defects": 0,
+    "price_variance_pct": 3.72
+   },
+   {
+    "month": "2025-12",
+    "deliveries": 9,
+    "on_time": 7,
+    "defects": 1,
+    "price_variance_pct": 4.97
+   },
+   {
+    "month": "2026-01",
+    "deliveries": 10,
+    "on_time": 10,
+    "defects": 0,
+    "price_variance_pct": 3.69
+   },
+   {
+    "month": "2026-02",
+    "deliveries": 19,
+    "on_time": 17,
+    "defects": 2,
+    "price_variance_pct": 5.23
+   },
+   {
+    "month": "2026-03",
+    "deliveries": 9,
+    "on_time": 8,
+    "defects": 0,
+    "price_variance_pct": 3.3
+   },
+   {
+    "month": "2026-04",
+    "deliveries": 7,
+    "on_time": 7,
+    "defects": 0,
+    "price_variance_pct": 4.34
+   },
+   {
+    "month": "2026-05",
+    "deliveries": 5,
+    "on_time": 5,
+    "defects": 0,
+    "price_variance_pct": 4.84
+   }
+  ]
+ },
+ {
+  "supplier_id": "S-023",
+  "name": "Beacon Hill Advisory LLC",
+  "country": "USA",
+  "category": "professional services",
+  "compliance_status": "compliant",
+  "onboarded": "2024-05-01",
+  "history": [
+   {
+    "month": "2024-06",
+    "deliveries": 16,
+    "on_time": 16,
+    "defects": 0,
+    "price_variance_pct": 4.33
+   },
+   {
+    "month": "2024-07",
+    "deliveries": 8,
+    "on_time": 8,
+    "defects": 0,
+    "price_variance_pct": 3.05
+   },
+   {
+    "month": "2024-08",
+    "deliveries": 8,
+    "on_time": 7,
+    "defects": 0,
+    "price_variance_pct": 2.93
+   },
+   {
+    "month": "2024-09",
+    "deliveries": 20,
+    "on_time": 19,
+    "defects": 0,
+    "price_variance_pct": 2.93
+   },
+   {
+    "month": "2024-10",
+    "deliveries": 10,
+    "on_time": 10,
+    "defects": 0,
+    "price_variance_pct": 4.82
+   },
+   {
+    "month": "2024-11",
+    "deliveries": 19,
+    "on_time": 17,
+    "defects": 0,
+    "price_variance_pct": 3.26
+   },
+   {
+    "month": "2024-12",
+    "deliveries": 6,
+    "on_time": 4,
+    "defects": 0,
+    "price_variance_pct": 3.36
+   },
+   {
+    "month": "2025-01",
+    "deliveries": 13,
+    "on_time": 12,
+    "defects": 2,
+    "price_variance_pct": 2.79
+   },
+   {
+    "month": "2025-02",
+    "deliveries": 15,
+    "on_time": 12,
+    "defects": 0,
+    "price_variance_pct": 3.15
+   },
+   {
+    "month": "2025-03",
+    "deliveries": 16,
+    "on_time": 15,
+    "defects": 0,
+    "price_variance_pct": 3.79
+   },
+   {
+    "month": "2025-04",
+    "deliveries": 13,
+    "on_time": 12,
+    "defects": 1,
+    "price_variance_pct": 4.76
+   },
+   {
+    "month": "2025-05",
+    "deliveries": 17,
+    "on_time": 17,
+    "defects": 0,
+    "price_variance_pct": 3.88
+   },
+   {
+    "month": "2025-06",
+    "deliveries": 13,
+    "on_time": 12,
+    "defects": 0,
+    "price_variance_pct": 3.54
+   },
+   {
+    "month": "2025-07",
+    "deliveries": 16,
+    "on_time": 15,
+    "defects": 1,
+    "price_variance_pct": 4.22
+   },
+   {
+    "month": "2025-08",
+    "deliveries": 9,
+    "on_time": 8,
+    "defects": 1,
+    "price_variance_pct": 4.37
+   },
+   {
+    "month": "2025-09",
+    "deliveries": 12,
+    "on_time": 11,
+    "defects": 0,
+    "price_variance_pct": 3.72
+   },
+   {
+    "month": "2025-10",
+    "deliveries": 10,
+    "on_time": 9,
+    "defects": 0,
+    "price_variance_pct": 3.8
+   },
+   {
+    "month": "2025-11",
+    "deliveries": 18,
+    "on_time": 15,
+    "defects": 0,
+    "price_variance_pct": 3.09
+   },
+   {
+    "month": "2025-12",
+    "deliveries": 16,
+    "on_time": 13,
+    "defects": 0,
+    "price_variance_pct": 4.71
+   },
+   {
+    "month": "2026-01",
+    "deliveries": 13,
+    "on_time": 11,
+    "defects": 1,
+    "price_variance_pct": 4.15
+   },
+   {
+    "month": "2026-02",
+    "deliveries": 7,
+    "on_time": 6,
+    "defects": 1,
+    "price_variance_pct": 2.92
+   },
+   {
+    "month": "2026-03",
+    "deliveries": 11,
+    "on_time": 11,
+    "defects": 0,
+    "price_variance_pct": 4.0
+   },
+   {
+    "month": "2026-04",
+    "deliveries": 7,
+    "on_time": 6,
+    "defects": 1,
+    "price_variance_pct": 4.14
+   },
+   {
+    "month": "2026-05",
+    "deliveries": 17,
+    "on_time": 17,
+    "defects": 0,
+    "price_variance_pct": 3.6
+   }
+  ]
+ },
+ {
+  "supplier_id": "S-024",
+  "name": "Ningbo Orient Freight",
+  "country": "China",
+  "category": "MRO",
+  "compliance_status": "compliant",
+  "onboarded": "2024-05-01",
+  "history": [
+   {
+    "month": "2024-06",
+    "deliveries": 11,
+    "on_time": 11,
+    "defects": 0,
+    "price_variance_pct": 2.59
+   },
+   {
+    "month": "2024-07",
+    "deliveries": 4,
+    "on_time": 3,
+    "defects": 0,
+    "price_variance_pct": 2.85
+   },
+   {
+    "month": "2024-08",
+    "deliveries": 20,
+    "on_time": 17,
+    "defects": 0,
+    "price_variance_pct": 3.19
+   },
+   {
+    "month": "2024-09",
+    "deliveries": 6,
+    "on_time": 5,
+    "defects": 0,
+    "price_variance_pct": 2.21
+   },
+   {
+    "month": "2024-10",
+    "deliveries": 18,
+    "on_time": 16,
+    "defects": 1,
+    "price_variance_pct": 1.36
+   },
+   {
+    "month": "2024-11",
+    "deliveries": 5,
+    "on_time": 5,
+    "defects": 0,
+    "price_variance_pct": 1.29
+   },
+   {
+    "month": "2024-12",
+    "deliveries": 13,
+    "on_time": 13,
+    "defects": 0,
+    "price_variance_pct": 1.59
+   },
+   {
+    "month": "2025-01",
+    "deliveries": 18,
+    "on_time": 16,
+    "defects": 0,
+    "price_variance_pct": 2.02
+   },
+   {
+    "month": "2025-02",
+    "deliveries": 6,
+    "on_time": 6,
+    "defects": 0,
+    "price_variance_pct": 1.33
+   },
+   {
+    "month": "2025-03",
+    "deliveries": 6,
+    "on_time": 6,
+    "defects": 0,
+    "price_variance_pct": 2.67
+   },
+   {
+    "month": "2025-04",
+    "deliveries": 4,
+    "on_time": 4,
+    "defects": 0,
+    "price_variance_pct": 1.95
+   },
+   {
+    "month": "2025-05",
+    "deliveries": 7,
+    "on_time": 6,
+    "defects": 0,
+    "price_variance_pct": 1.42
+   },
+   {
+    "month": "2025-06",
+    "deliveries": 6,
+    "on_time": 6,
+    "defects": 0,
+    "price_variance_pct": 1.71
+   },
+   {
+    "month": "2025-07",
+    "deliveries": 5,
+    "on_time": 5,
+    "defects": 0,
+    "price_variance_pct": 1.46
+   },
+   {
+    "month": "2025-08",
+    "deliveries": 8,
+    "on_time": 8,
+    "defects": 0,
+    "price_variance_pct": 1.3
+   },
+   {
+    "month": "2025-09",
+    "deliveries": 17,
+    "on_time": 15,
+    "defects": 0,
+    "price_variance_pct": 2.41
+   },
+   {
+    "month": "2025-10",
+    "deliveries": 8,
+    "on_time": 8,
+    "defects": 0,
+    "price_variance_pct": 1.54
+   },
+   {
+    "month": "2025-11",
+    "deliveries": 12,
+    "on_time": 11,
+    "defects": 0,
+    "price_variance_pct": 1.5
+   },
+   {
+    "month": "2025-12",
+    "deliveries": 20,
+    "on_time": 18,
+    "defects": 0,
+    "price_variance_pct": 2.22
+   },
+   {
+    "month": "2026-01",
+    "deliveries": 10,
+    "on_time": 9,
+    "defects": 0,
+    "price_variance_pct": 0.82
+   },
+   {
+    "month": "2026-02",
+    "deliveries": 9,
+    "on_time": 9,
+    "defects": 0,
+    "price_variance_pct": 2.98
+   },
+   {
+    "month": "2026-03",
+    "deliveries": 4,
+    "on_time": 4,
+    "defects": 0,
+    "price_variance_pct": 2.74
+   },
+   {
+    "month": "2026-04",
+    "deliveries": 20,
+    "on_time": 19,
+    "defects": 0,
+    "price_variance_pct": 2.83
+   },
+   {
+    "month": "2026-05",
+    "deliveries": 5,
+    "on_time": 4,
+    "defects": 0,
+    "price_variance_pct": 2.44
+   }
+  ]
+ },
+ {
+  "supplier_id": "S-025",
+  "name": "Lagos Crestline Services",
+  "country": "Nigeria",
+  "category": "IT hardware",
+  "compliance_status": "non_compliant",
+  "onboarded": "2024-05-01",
+  "history": [
+   {
+    "month": "2024-06",
+    "deliveries": 10,
+    "on_time": 9,
+    "defects": 2,
+    "price_variance_pct": -0.59
+   },
+   {
+    "month": "2024-07",
+    "deliveries": 18,
+    "on_time": 14,
+    "defects": 1,
+    "price_variance_pct": -0.28
+   },
+   {
+    "month": "2024-08",
+    "deliveries": 18,
+    "on_time": 11,
+    "defects": 2,
+    "price_variance_pct": -1.44
+   },
+   {
+    "month": "2024-09",
+    "deliveries": 10,
+    "on_time": 8,
+    "defects": 0,
+    "price_variance_pct": -1.52
+   },
+   {
+    "month": "2024-10",
+    "deliveries": 17,
+    "on_time": 14,
+    "defects": 0,
+    "price_variance_pct": -0.36
+   },
+   {
+    "month": "2024-11",
+    "deliveries": 5,
+    "on_time": 2,
+    "defects": 0,
+    "price_variance_pct": 0.54
+   },
+   {
+    "month": "2024-12",
+    "deliveries": 7,
+    "on_time": 4,
+    "defects": 2,
+    "price_variance_pct": -1.16
+   },
+   {
+    "month": "2025-01",
+    "deliveries": 6,
+    "on_time": 3,
+    "defects": 1,
+    "price_variance_pct": -0.33
+   },
+   {
+    "month": "2025-02",
+    "deliveries": 12,
+    "on_time": 11,
+    "defects": 1,
+    "price_variance_pct": 0.01
+   },
+   {
+    "month": "2025-03",
+    "deliveries": 4,
+    "on_time": 4,
+    "defects": 0,
+    "price_variance_pct": 0.43
+   },
+   {
+    "month": "2025-04",
+    "deliveries": 14,
+    "on_time": 9,
+    "defects": 0,
+    "price_variance_pct": -1.12
+   },
+   {
+    "month": "2025-05",
+    "deliveries": 5,
+    "on_time": 4,
+    "defects": 1,
+    "price_variance_pct": -1.73
+   },
+   {
+    "month": "2025-06",
+    "deliveries": 18,
+    "on_time": 16,
+    "defects": 0,
+    "price_variance_pct": 0.53
+   },
+   {
+    "month": "2025-07",
+    "deliveries": 17,
+    "on_time": 12,
+    "defects": 3,
+    "price_variance_pct": 0.51
+   },
+   {
+    "month": "2025-08",
+    "deliveries": 7,
+    "on_time": 6,
+    "defects": 1,
+    "price_variance_pct": -0.0
+   },
+   {
+    "month": "2025-09",
+    "deliveries": 12,
+    "on_time": 5,
+    "defects": 0,
+    "price_variance_pct": -0.53
+   },
+   {
+    "month": "2025-10",
+    "deliveries": 6,
+    "on_time": 5,
+    "defects": 0,
+    "price_variance_pct": -0.89
+   },
+   {
+    "month": "2025-11",
+    "deliveries": 16,
+    "on_time": 13,
+    "defects": 1,
+    "price_variance_pct": -1.29
+   },
+   {
+    "month": "2025-12",
+    "deliveries": 5,
+    "on_time": 2,
+    "defects": 1,
+    "price_variance_pct": -0.24
+   },
+   {
+    "month": "2026-01",
+    "deliveries": 9,
+    "on_time": 7,
+    "defects": 0,
+    "price_variance_pct": -1.21
+   },
+   {
+    "month": "2026-02",
+    "deliveries": 16,
+    "on_time": 10,
+    "defects": 0,
+    "price_variance_pct": -1.8
+   },
+   {
+    "month": "2026-03",
+    "deliveries": 19,
+    "on_time": 15,
+    "defects": 2,
+    "price_variance_pct": -0.72
+   },
+   {
+    "month": "2026-04",
+    "deliveries": 20,
+    "on_time": 13,
+    "defects": 1,
+    "price_variance_pct": -0.86
+   },
+   {
+    "month": "2026-05",
+    "deliveries": 18,
+    "on_time": 12,
+    "defects": 5,
+    "price_variance_pct": 0.12
+   }
+  ]
+ },
+ {
+  "supplier_id": "S-026",
+  "name": "Warsaw Vistula Systems",
+  "country": "Poland",
+  "category": "cloud services",
+  "compliance_status": "compliant",
+  "onboarded": "2024-05-01",
+  "history": [
+   {
+    "month": "2024-06",
+    "deliveries": 10,
+    "on_time": 10,
+    "defects": 0,
+    "price_variance_pct": 0.92
+   },
+   {
+    "month": "2024-07",
+    "deliveries": 18,
+    "on_time": 18,
+    "defects": 0,
+    "price_variance_pct": 0.36
+   },
+   {
+    "month": "2024-08",
+    "deliveries": 6,
+    "on_time": 6,
+    "defects": 0,
+    "price_variance_pct": -0.54
+   },
+   {
+    "month": "2024-09",
+    "deliveries": 8,
+    "on_time": 8,
+    "defects": 0,
+    "price_variance_pct": -0.14
+   },
+   {
+    "month": "2024-10",
+    "deliveries": 10,
+    "on_time": 10,
+    "defects": 0,
+    "price_variance_pct": -0.05
+   },
+   {
+    "month": "2024-11",
+    "deliveries": 9,
+    "on_time": 9,
+    "defects": 0,
+    "price_variance_pct": 0.18
+   },
+   {
+    "month": "2024-12",
+    "deliveries": 12,
+    "on_time": 12,
+    "defects": 0,
+    "price_variance_pct": 1.66
+   },
+   {
+    "month": "2025-01",
+    "deliveries": 20,
+    "on_time": 20,
+    "defects": 0,
+    "price_variance_pct": 1.44
+   },
+   {
+    "month": "2025-02",
+    "deliveries": 14,
+    "on_time": 14,
+    "defects": 1,
+    "price_variance_pct": -0.39
+   },
+   {
+    "month": "2025-03",
+    "deliveries": 7,
+    "on_time": 7,
+    "defects": 0,
+    "price_variance_pct": -0.4
+   },
+   {
+    "month": "2025-04",
+    "deliveries": 7,
+    "on_time": 7,
+    "defects": 0,
+    "price_variance_pct": -0.1
+   },
+   {
+    "month": "2025-05",
+    "deliveries": 13,
+    "on_time": 13,
+    "defects": 1,
+    "price_variance_pct": 0.81
+   },
+   {
+    "month": "2025-06",
+    "deliveries": 15,
+    "on_time": 14,
+    "defects": 0,
+    "price_variance_pct": -0.28
+   },
+   {
+    "month": "2025-07",
+    "deliveries": 19,
+    "on_time": 19,
+    "defects": 0,
+    "price_variance_pct": 0.13
+   },
+   {
+    "month": "2025-08",
+    "deliveries": 6,
+    "on_time": 6,
+    "defects": 0,
+    "price_variance_pct": -0.61
+   },
+   {
+    "month": "2025-09",
+    "deliveries": 5,
+    "on_time": 5,
+    "defects": 0,
+    "price_variance_pct": 0.34
+   },
+   {
+    "month": "2025-10",
+    "deliveries": 6,
+    "on_time": 6,
+    "defects": 0,
+    "price_variance_pct": -0.47
+   },
+   {
+    "month": "2025-11",
+    "deliveries": 6,
+    "on_time": 6,
+    "defects": 0,
+    "price_variance_pct": 0.11
+   },
+   {
+    "month": "2025-12",
+    "deliveries": 16,
+    "on_time": 16,
+    "defects": 0,
+    "price_variance_pct": -0.54
+   },
+   {
+    "month": "2026-01",
+    "deliveries": 12,
+    "on_time": 12,
+    "defects": 1,
+    "price_variance_pct": -0.02
+   },
+   {
+    "month": "2026-02",
+    "deliveries": 6,
+    "on_time": 6,
+    "defects": 0,
+    "price_variance_pct": 0.57
+   },
+   {
+    "month": "2026-03",
+    "deliveries": 11,
+    "on_time": 11,
+    "defects": 0,
+    "price_variance_pct": 0.99
+   },
+   {
+    "month": "2026-04",
+    "deliveries": 13,
+    "on_time": 12,
+    "defects": 0,
+    "price_variance_pct": 1.63
+   },
+   {
+    "month": "2026-05",
+    "deliveries": 6,
+    "on_time": 6,
+    "defects": 0,
+    "price_variance_pct": 1.14
+   }
+  ]
+ },
+ {
+  "supplier_id": "S-027",
+  "name": "Nile Valley Logistics",
+  "country": "Egypt",
+  "category": "facilities",
+  "compliance_status": "non_compliant",
+  "onboarded": "2024-05-01",
+  "history": [
+   {
+    "month": "2024-06",
+    "deliveries": 20,
+    "on_time": 15,
+    "defects": 1,
+    "price_variance_pct": 7.75
+   },
+   {
+    "month": "2024-07",
+    "deliveries": 20,
+    "on_time": 18,
+    "defects": 0,
+    "price_variance_pct": 7.01
+   },
+   {
+    "month": "2024-08",
+    "deliveries": 12,
+    "on_time": 10,
+    "defects": 1,
+    "price_variance_pct": 6.51
+   },
+   {
+    "month": "2024-09",
+    "deliveries": 17,
+    "on_time": 16,
+    "defects": 1,
+    "price_variance_pct": 8.4
+   },
+   {
+    "month": "2024-10",
+    "deliveries": 4,
+    "on_time": 2,
+    "defects": 0,
+    "price_variance_pct": 7.97
+   },
+   {
+    "month": "2024-11",
+    "deliveries": 10,
+    "on_time": 8,
+    "defects": 2,
+    "price_variance_pct": 8.41
+   },
+   {
+    "month": "2024-12",
+    "deliveries": 8,
+    "on_time": 7,
+    "defects": 0,
+    "price_variance_pct": 8.75
+   },
+   {
+    "month": "2025-01",
+    "deliveries": 16,
+    "on_time": 15,
+    "defects": 1,
+    "price_variance_pct": 7.42
+   },
+   {
+    "month": "2025-02",
+    "deliveries": 11,
+    "on_time": 11,
+    "defects": 0,
+    "price_variance_pct": 7.75
+   },
+   {
+    "month": "2025-03",
+    "deliveries": 17,
+    "on_time": 14,
+    "defects": 0,
+    "price_variance_pct": 7.24
+   },
+   {
+    "month": "2025-04",
+    "deliveries": 5,
+    "on_time": 4,
+    "defects": 0,
+    "price_variance_pct": 7.56
+   },
+   {
+    "month": "2025-05",
+    "deliveries": 19,
+    "on_time": 15,
+    "defects": 0,
+    "price_variance_pct": 7.94
+   },
+   {
+    "month": "2025-06",
+    "deliveries": 17,
+    "on_time": 15,
+    "defects": 1,
+    "price_variance_pct": 7.98
+   },
+   {
+    "month": "2025-07",
+    "deliveries": 14,
+    "on_time": 10,
+    "defects": 0,
+    "price_variance_pct": 8.05
+   },
+   {
+    "month": "2025-08",
+    "deliveries": 6,
+    "on_time": 5,
+    "defects": 0,
+    "price_variance_pct": 7.34
+   },
+   {
+    "month": "2025-09",
+    "deliveries": 11,
+    "on_time": 9,
+    "defects": 0,
+    "price_variance_pct": 7.02
+   },
+   {
+    "month": "2025-10",
+    "deliveries": 15,
+    "on_time": 15,
+    "defects": 0,
+    "price_variance_pct": 8.54
+   },
+   {
+    "month": "2025-11",
+    "deliveries": 5,
+    "on_time": 4,
+    "defects": 0,
+    "price_variance_pct": 8.35
+   },
+   {
+    "month": "2025-12",
+    "deliveries": 16,
+    "on_time": 15,
+    "defects": 2,
+    "price_variance_pct": 7.66
+   },
+   {
+    "month": "2026-01",
+    "deliveries": 18,
+    "on_time": 16,
+    "defects": 1,
+    "price_variance_pct": 6.49
+   },
+   {
+    "month": "2026-02",
+    "deliveries": 10,
+    "on_time": 8,
+    "defects": 1,
+    "price_variance_pct": 8.58
+   },
+   {
+    "month": "2026-03",
+    "deliveries": 16,
+    "on_time": 13,
+    "defects": 1,
+    "price_variance_pct": 7.75
+   },
+   {
+    "month": "2026-04",
+    "deliveries": 20,
+    "on_time": 18,
+    "defects": 0,
+    "price_variance_pct": 6.69
+   },
+   {
+    "month": "2026-05",
+    "deliveries": 19,
+    "on_time": 17,
+    "defects": 0,
+    "price_variance_pct": 6.75
+   }
+  ]
+ },
+ {
+  "supplier_id": "S-028",
+  "name": "Bayerische IT Systeme AG",
+  "country": "Germany",
+  "category": "logistics",
+  "compliance_status": "compliant",
+  "onboarded": "2024-05-01",
+  "history": [
+   {
+    "month": "2024-06",
+    "deliveries": 4,
+    "on_time": 4,
+    "defects": 0,
+    "price_variance_pct": 5.35
+   },
+   {
+    "month": "2024-07",
+    "deliveries": 8,
+    "on_time": 7,
+    "defects": 0,
+    "price_variance_pct": 6.02
+   },
+   {
+    "month": "2024-08",
+    "deliveries": 6,
+    "on_time": 6,
+    "defects": 0,
+    "price_variance_pct": 7.21
+   },
+   {
+    "month": "2024-09",
+    "deliveries": 6,
+    "on_time": 6,
+    "defects": 0,
+    "price_variance_pct": 5.81
+   },
+   {
+    "month": "2024-10",
+    "deliveries": 18,
+    "on_time": 16,
+    "defects": 0,
+    "price_variance_pct": 6.07
+   },
+   {
+    "month": "2024-11",
+    "deliveries": 13,
+    "on_time": 13,
+    "defects": 0,
+    "price_variance_pct": 6.25
+   },
+   {
+    "month": "2024-12",
+    "deliveries": 5,
+    "on_time": 5,
+    "defects": 0,
+    "price_variance_pct": 5.36
+   },
+   {
+    "month": "2025-01",
+    "deliveries": 11,
+    "on_time": 9,
+    "defects": 1,
+    "price_variance_pct": 7.18
+   },
+   {
+    "month": "2025-02",
+    "deliveries": 14,
+    "on_time": 13,
+    "defects": 2,
+    "price_variance_pct": 6.61
+   },
+   {
+    "month": "2025-03",
+    "deliveries": 6,
+    "on_time": 5,
+    "defects": 1,
+    "price_variance_pct": 6.76
+   },
+   {
+    "month": "2025-04",
+    "deliveries": 5,
+    "on_time": 5,
+    "defects": 0,
+    "price_variance_pct": 6.46
+   },
+   {
+    "month": "2025-05",
+    "deliveries": 14,
+    "on_time": 13,
+    "defects": 3,
+    "price_variance_pct": 7.19
+   },
+   {
+    "month": "2025-06",
+    "deliveries": 10,
+    "on_time": 8,
+    "defects": 0,
+    "price_variance_pct": 5.8
+   },
+   {
+    "month": "2025-07",
+    "deliveries": 6,
+    "on_time": 6,
+    "defects": 0,
+    "price_variance_pct": 5.99
+   },
+   {
+    "month": "2025-08",
+    "deliveries": 12,
+    "on_time": 11,
+    "defects": 1,
+    "price_variance_pct": 5.11
+   },
+   {
+    "month": "2025-09",
+    "deliveries": 10,
+    "on_time": 9,
+    "defects": 1,
+    "price_variance_pct": 7.08
+   },
+   {
+    "month": "2025-10",
+    "deliveries": 5,
+    "on_time": 5,
+    "defects": 0,
+    "price_variance_pct": 5.88
+   },
+   {
+    "month": "2025-11",
+    "deliveries": 11,
+    "on_time": 10,
+    "defects": 0,
+    "price_variance_pct": 5.94
+   },
+   {
+    "month": "2025-12",
+    "deliveries": 9,
+    "on_time": 9,
+    "defects": 1,
+    "price_variance_pct": 5.97
+   },
+   {
+    "month": "2026-01",
+    "deliveries": 9,
+    "on_time": 9,
+    "defects": 0,
+    "price_variance_pct": 5.13
+   },
+   {
+    "month": "2026-02",
+    "deliveries": 14,
+    "on_time": 13,
+    "defects": 0,
+    "price_variance_pct": 5.27
+   },
+   {
+    "month": "2026-03",
+    "deliveries": 19,
+    "on_time": 19,
+    "defects": 2,
+    "price_variance_pct": 5.24
+   },
+   {
+    "month": "2026-04",
+    "deliveries": 7,
+    "on_time": 7,
+    "defects": 0,
+    "price_variance_pct": 5.49
+   },
+   {
+    "month": "2026-05",
+    "deliveries": 18,
+    "on_time": 18,
+    "defects": 0,
+    "price_variance_pct": 5.82
+   }
+  ]
+ },
+ {
+  "supplier_id": "S-029",
+  "name": "Krakow Dataline Sp. z o.o.",
+  "country": "Poland",
+  "category": "professional services",
+  "compliance_status": "pending_renewal",
+  "onboarded": "2024-05-01",
+  "history": [
+   {
+    "month": "2024-06",
+    "deliveries": 16,
+    "on_time": 14,
+    "defects": 1,
+    "price_variance_pct": 5.76
+   },
+   {
+    "month": "2024-07",
+    "deliveries": 8,
+    "on_time": 6,
+    "defects": 0,
+    "price_variance_pct": 6.48
+   },
+   {
+    "month": "2024-08",
+    "deliveries": 7,
+    "on_time": 6,
+    "defects": 0,
+    "price_variance_pct": 7.37
+   },
+   {
+    "month": "2024-09",
+    "deliveries": 13,
+    "on_time": 11,
+    "defects": 0,
+    "price_variance_pct": 6.14
+   },
+   {
+    "month": "2024-10",
+    "deliveries": 12,
+    "on_time": 8,
+    "defects": 2,
+    "price_variance_pct": 7.07
+   },
+   {
+    "month": "2024-11",
+    "deliveries": 13,
+    "on_time": 12,
+    "defects": 0,
+    "price_variance_pct": 5.52
+   },
+   {
+    "month": "2024-12",
+    "deliveries": 9,
+    "on_time": 8,
+    "defects": 1,
+    "price_variance_pct": 7.03
+   },
+   {
+    "month": "2025-01",
+    "deliveries": 9,
+    "on_time": 8,
+    "defects": 0,
+    "price_variance_pct": 6.68
+   },
+   {
+    "month": "2025-02",
+    "deliveries": 5,
+    "on_time": 3,
+    "defects": 0,
+    "price_variance_pct": 5.41
+   },
+   {
+    "month": "2025-03",
+    "deliveries": 18,
+    "on_time": 16,
+    "defects": 0,
+    "price_variance_pct": 6.9
+   },
+   {
+    "month": "2025-04",
+    "deliveries": 10,
+    "on_time": 8,
+    "defects": 0,
+    "price_variance_pct": 6.78
+   },
+   {
+    "month": "2025-05",
+    "deliveries": 15,
+    "on_time": 13,
+    "defects": 0,
+    "price_variance_pct": 5.99
+   },
+   {
+    "month": "2025-06",
+    "deliveries": 19,
+    "on_time": 16,
+    "defects": 0,
+    "price_variance_pct": 6.27
+   },
+   {
+    "month": "2025-07",
+    "deliveries": 7,
+    "on_time": 5,
+    "defects": 0,
+    "price_variance_pct": 5.96
+   },
+   {
+    "month": "2025-08",
+    "deliveries": 14,
+    "on_time": 12,
+    "defects": 1,
+    "price_variance_pct": 5.19
+   },
+   {
+    "month": "2025-09",
+    "deliveries": 13,
+    "on_time": 12,
+    "defects": 1,
+    "price_variance_pct": 6.48
+   },
+   {
+    "month": "2025-10",
+    "deliveries": 10,
+    "on_time": 9,
+    "defects": 0,
+    "price_variance_pct": 6.77
+   },
+   {
+    "month": "2025-11",
+    "deliveries": 16,
+    "on_time": 13,
+    "defects": 0,
+    "price_variance_pct": 6.57
+   },
+   {
+    "month": "2025-12",
+    "deliveries": 16,
+    "on_time": 14,
+    "defects": 1,
+    "price_variance_pct": 7.18
+   },
+   {
+    "month": "2026-01",
+    "deliveries": 6,
+    "on_time": 4,
+    "defects": 1,
+    "price_variance_pct": 6.47
+   },
+   {
+    "month": "2026-02",
+    "deliveries": 16,
+    "on_time": 14,
+    "defects": 0,
+    "price_variance_pct": 6.05
+   },
+   {
+    "month": "2026-03",
+    "deliveries": 17,
+    "on_time": 14,
+    "defects": 1,
+    "price_variance_pct": 6.79
+   },
+   {
+    "month": "2026-04",
+    "deliveries": 10,
+    "on_time": 9,
+    "defects": 0,
+    "price_variance_pct": 5.52
+   },
+   {
+    "month": "2026-05",
+    "deliveries": 17,
+    "on_time": 16,
+    "defects": 0,
+    "price_variance_pct": 7.27
+   }
+  ]
+ },
+ {
+  "supplier_id": "S-030",
+  "name": "Frankfurt Consulting Gruppe",
+  "country": "Germany",
+  "category": "MRO",
+  "compliance_status": "compliant",
+  "onboarded": "2024-05-01",
+  "history": [
+   {
+    "month": "2024-06",
+    "deliveries": 13,
+    "on_time": 10,
+    "defects": 1,
+    "price_variance_pct": 0.29
+   },
+   {
+    "month": "2024-07",
+    "deliveries": 16,
+    "on_time": 14,
+    "defects": 2,
+    "price_variance_pct": -0.31
+   },
+   {
+    "month": "2024-08",
+    "deliveries": 14,
+    "on_time": 12,
+    "defects": 2,
+    "price_variance_pct": -0.99
+   },
+   {
+    "month": "2024-09",
+    "deliveries": 19,
+    "on_time": 16,
+    "defects": 2,
+    "price_variance_pct": 0.67
+   },
+   {
+    "month": "2024-10",
+    "deliveries": 18,
+    "on_time": 16,
+    "defects": 1,
+    "price_variance_pct": -0.73
+   },
+   {
+    "month": "2024-11",
+    "deliveries": 10,
+    "on_time": 9,
+    "defects": 2,
+    "price_variance_pct": 0.74
+   },
+   {
+    "month": "2024-12",
+    "deliveries": 19,
+    "on_time": 18,
+    "defects": 0,
+    "price_variance_pct": -0.63
+   },
+   {
+    "month": "2025-01",
+    "deliveries": 13,
+    "on_time": 12,
+    "defects": 0,
+    "price_variance_pct": 0.95
+   },
+   {
+    "month": "2025-02",
+    "deliveries": 14,
+    "on_time": 13,
+    "defects": 2,
+    "price_variance_pct": 0.07
+   },
+   {
+    "month": "2025-03",
+    "deliveries": 11,
+    "on_time": 10,
+    "defects": 1,
+    "price_variance_pct": -0.67
+   },
+   {
+    "month": "2025-04",
+    "deliveries": 11,
+    "on_time": 11,
+    "defects": 1,
+    "price_variance_pct": -0.54
+   },
+   {
+    "month": "2025-05",
+    "deliveries": 5,
+    "on_time": 4,
+    "defects": 1,
+    "price_variance_pct": -0.27
+   },
+   {
+    "month": "2025-06",
+    "deliveries": 20,
+    "on_time": 19,
+    "defects": 1,
+    "price_variance_pct": 1.02
+   },
+   {
+    "month": "2025-07",
+    "deliveries": 12,
+    "on_time": 12,
+    "defects": 2,
+    "price_variance_pct": -0.68
+   },
+   {
+    "month": "2025-08",
+    "deliveries": 20,
+    "on_time": 18,
+    "defects": 1,
+    "price_variance_pct": -0.29
+   },
+   {
+    "month": "2025-09",
+    "deliveries": 13,
+    "on_time": 10,
+    "defects": 2,
+    "price_variance_pct": 0.23
+   },
+   {
+    "month": "2025-10",
+    "deliveries": 17,
+    "on_time": 14,
+    "defects": 1,
+    "price_variance_pct": 0.5
+   },
+   {
+    "month": "2025-11",
+    "deliveries": 15,
+    "on_time": 14,
+    "defects": 2,
+    "price_variance_pct": 0.1
+   },
+   {
+    "month": "2025-12",
+    "deliveries": 13,
+    "on_time": 12,
+    "defects": 1,
+    "price_variance_pct": -1.3
+   },
+   {
+    "month": "2026-01",
+    "deliveries": 9,
+    "on_time": 7,
+    "defects": 2,
+    "price_variance_pct": -0.47
+   },
+   {
+    "month": "2026-02",
+    "deliveries": 7,
+    "on_time": 7,
+    "defects": 0,
+    "price_variance_pct": 0.46
+   },
+   {
+    "month": "2026-03",
+    "deliveries": 7,
+    "on_time": 6,
+    "defects": 3,
+    "price_variance_pct": 0.8
+   },
+   {
+    "month": "2026-04",
+    "deliveries": 15,
+    "on_time": 13,
+    "defects": 2,
+    "price_variance_pct": -0.6
+   },
+   {
+    "month": "2026-05",
+    "deliveries": 12,
+    "on_time": 10,
+    "defects": 0,
+    "price_variance_pct": 0.13
+   }
+  ]
+ },
+ {
+  "supplier_id": "S-031",
+  "name": "Stuttgart Praezision GmbH",
+  "country": "Germany",
+  "category": "IT hardware",
+  "compliance_status": "compliant",
+  "onboarded": "2024-05-01",
+  "history": [
+   {
+    "month": "2024-06",
+    "deliveries": 18,
+    "on_time": 15,
+    "defects": 1,
+    "price_variance_pct": 3.97
+   },
+   {
+    "month": "2024-07",
+    "deliveries": 17,
+    "on_time": 16,
+    "defects": 0,
+    "price_variance_pct": 3.84
+   },
+   {
+    "month": "2024-08",
+    "deliveries": 20,
+    "on_time": 15,
+    "defects": 0,
+    "price_variance_pct": 4.43
+   },
+   {
+    "month": "2024-09",
+    "deliveries": 14,
+    "on_time": 13,
+    "defects": 0,
+    "price_variance_pct": 4.2
+   },
+   {
+    "month": "2024-10",
+    "deliveries": 12,
+    "on_time": 10,
+    "defects": 0,
+    "price_variance_pct": 3.2
+   },
+   {
+    "month": "2024-11",
+    "deliveries": 13,
+    "on_time": 10,
+    "defects": 0,
+    "price_variance_pct": 4.08
+   },
+   {
+    "month": "2024-12",
+    "deliveries": 6,
+    "on_time": 4,
+    "defects": 1,
+    "price_variance_pct": 5.01
+   },
+   {
+    "month": "2025-01",
+    "deliveries": 7,
+    "on_time": 6,
+    "defects": 0,
+    "price_variance_pct": 4.82
+   },
+   {
+    "month": "2025-02",
+    "deliveries": 7,
+    "on_time": 4,
+    "defects": 1,
+    "price_variance_pct": 4.52
+   },
+   {
+    "month": "2025-03",
+    "deliveries": 9,
+    "on_time": 6,
+    "defects": 0,
+    "price_variance_pct": 4.63
+   },
+   {
+    "month": "2025-04",
+    "deliveries": 14,
+    "on_time": 11,
+    "defects": 0,
+    "price_variance_pct": 4.5
+   },
+   {
+    "month": "2025-05",
+    "deliveries": 10,
+    "on_time": 8,
+    "defects": 1,
+    "price_variance_pct": 4.88
+   },
+   {
+    "month": "2025-06",
+    "deliveries": 17,
+    "on_time": 16,
+    "defects": 0,
+    "price_variance_pct": 4.75
+   },
+   {
+    "month": "2025-07",
+    "deliveries": 17,
+    "on_time": 12,
+    "defects": 1,
+    "price_variance_pct": 2.84
+   },
+   {
+    "month": "2025-08",
+    "deliveries": 17,
+    "on_time": 15,
+    "defects": 0,
+    "price_variance_pct": 4.68
+   },
+   {
+    "month": "2025-09",
+    "deliveries": 16,
+    "on_time": 13,
+    "defects": 0,
+    "price_variance_pct": 3.09
+   },
+   {
+    "month": "2025-10",
+    "deliveries": 8,
+    "on_time": 4,
+    "defects": 0,
+    "price_variance_pct": 4.48
+   },
+   {
+    "month": "2025-11",
+    "deliveries": 19,
+    "on_time": 17,
+    "defects": 0,
+    "price_variance_pct": 4.78
+   },
+   {
+    "month": "2025-12",
+    "deliveries": 5,
+    "on_time": 5,
+    "defects": 1,
+    "price_variance_pct": 2.92
+   },
+   {
+    "month": "2026-01",
+    "deliveries": 8,
+    "on_time": 8,
+    "defects": 0,
+    "price_variance_pct": 3.98
+   },
+   {
+    "month": "2026-02",
+    "deliveries": 8,
+    "on_time": 7,
+    "defects": 0,
+    "price_variance_pct": 4.91
+   },
+   {
+    "month": "2026-03",
+    "deliveries": 16,
+    "on_time": 12,
+    "defects": 1,
+    "price_variance_pct": 4.6
+   },
+   {
+    "month": "2026-04",
+    "deliveries": 8,
+    "on_time": 5,
+    "defects": 0,
+    "price_variance_pct": 3.1
+   },
+   {
+    "month": "2026-05",
+    "deliveries": 17,
+    "on_time": 12,
+    "defects": 0,
+    "price_variance_pct": 3.9
+   }
+  ]
+ },
+ {
+  "supplier_id": "S-032",
+  "name": "Busan Marine Freight",
+  "country": "South Korea",
+  "category": "cloud services",
+  "compliance_status": "compliant",
+  "onboarded": "2024-05-01",
+  "history": [
+   {
+    "month": "2024-06",
+    "deliveries": 18,
+    "on_time": 18,
+    "defects": 0,
+    "price_variance_pct": 2.34
+   },
+   {
+    "month": "2024-07",
+    "deliveries": 8,
+    "on_time": 8,
+    "defects": 4,
+    "price_variance_pct": 1.9
+   },
+   {
+    "month": "2024-08",
+    "deliveries": 13,
+    "on_time": 13,
+    "defects": 0,
+    "price_variance_pct": 2.69
+   },
+   {
+    "month": "2024-09",
+    "deliveries": 18,
+    "on_time": 18,
+    "defects": 0,
+    "price_variance_pct": 2.04
+   },
+   {
+    "month": "2024-10",
+    "deliveries": 4,
+    "on_time": 4,
+    "defects": 0,
+    "price_variance_pct": 1.37
+   },
+   {
+    "month": "2024-11",
+    "deliveries": 14,
+    "on_time": 14,
+    "defects": 2,
+    "price_variance_pct": 2.13
+   },
+   {
+    "month": "2024-12",
+    "deliveries": 6,
+    "on_time": 6,
+    "defects": 0,
+    "price_variance_pct": 1.32
+   },
+   {
+    "month": "2025-01",
+    "deliveries": 6,
+    "on_time": 6,
+    "defects": 0,
+    "price_variance_pct": 2.13
+   },
+   {
+    "month": "2025-02",
+    "deliveries": 4,
+    "on_time": 4,
+    "defects": 1,
+    "price_variance_pct": 2.28
+   },
+   {
+    "month": "2025-03",
+    "deliveries": 5,
+    "on_time": 5,
+    "defects": 0,
+    "price_variance_pct": 3.07
+   },
+   {
+    "month": "2025-04",
+    "deliveries": 17,
+    "on_time": 17,
+    "defects": 0,
+    "price_variance_pct": 2.04
+   },
+   {
+    "month": "2025-05",
+    "deliveries": 8,
+    "on_time": 7,
+    "defects": 1,
+    "price_variance_pct": 2.31
+   },
+   {
+    "month": "2025-06",
+    "deliveries": 16,
+    "on_time": 16,
+    "defects": 3,
+    "price_variance_pct": 1.8
+   },
+   {
+    "month": "2025-07",
+    "deliveries": 5,
+    "on_time": 5,
+    "defects": 0,
+    "price_variance_pct": 3.07
+   },
+   {
+    "month": "2025-08",
+    "deliveries": 15,
+    "on_time": 15,
+    "defects": 1,
+    "price_variance_pct": 1.36
+   },
+   {
+    "month": "2025-09",
+    "deliveries": 16,
+    "on_time": 16,
+    "defects": 2,
+    "price_variance_pct": 2.37
+   },
+   {
+    "month": "2025-10",
+    "deliveries": 5,
+    "on_time": 5,
+    "defects": 0,
+    "price_variance_pct": 1.54
+   },
+   {
+    "month": "2025-11",
+    "deliveries": 18,
+    "on_time": 18,
+    "defects": 1,
+    "price_variance_pct": 3.17
+   },
+   {
+    "month": "2025-12",
+    "deliveries": 5,
+    "on_time": 5,
+    "defects": 0,
+    "price_variance_pct": 3.45
+   },
+   {
+    "month": "2026-01",
+    "deliveries": 16,
+    "on_time": 16,
+    "defects": 2,
+    "price_variance_pct": 2.75
+   },
+   {
+    "month": "2026-02",
+    "deliveries": 16,
+    "on_time": 16,
+    "defects": 1,
+    "price_variance_pct": 1.68
+   },
+   {
+    "month": "2026-03",
+    "deliveries": 10,
+    "on_time": 10,
+    "defects": 1,
+    "price_variance_pct": 2.45
+   },
+   {
+    "month": "2026-04",
+    "deliveries": 15,
+    "on_time": 15,
+    "defects": 0,
+    "price_variance_pct": 1.63
+   },
+   {
+    "month": "2026-05",
+    "deliveries": 6,
+    "on_time": 6,
+    "defects": 0,
+    "price_variance_pct": 1.41
+   }
+  ]
+ },
+ {
+  "supplier_id": "S-033",
+  "name": "Infosys BPM Services",
+  "country": "India",
+  "category": "facilities",
+  "compliance_status": "compliant",
+  "onboarded": "2024-05-01",
+  "history": [
+   {
+    "month": "2024-06",
+    "deliveries": 4,
+    "on_time": 4,
+    "defects": 0,
+    "price_variance_pct": -2.09
+   },
+   {
+    "month": "2024-07",
+    "deliveries": 15,
+    "on_time": 15,
+    "defects": 0,
+    "price_variance_pct": -0.63
+   },
+   {
+    "month": "2024-08",
+    "deliveries": 20,
+    "on_time": 16,
+    "defects": 1,
+    "price_variance_pct": -1.87
+   },
+   {
+    "month": "2024-09",
+    "deliveries": 4,
+    "on_time": 4,
+    "defects": 0,
+    "price_variance_pct": -0.13
+   },
+   {
+    "month": "2024-10",
+    "deliveries": 14,
+    "on_time": 13,
+    "defects": 0,
+    "price_variance_pct": -0.74
+   },
+   {
+    "month": "2024-11",
+    "deliveries": 9,
+    "on_time": 8,
+    "defects": 0,
+    "price_variance_pct": -1.46
+   },
+   {
+    "month": "2024-12",
+    "deliveries": 11,
+    "on_time": 11,
+    "defects": 0,
+    "price_variance_pct": -0.35
+   },
+   {
+    "month": "2025-01",
+    "deliveries": 18,
+    "on_time": 17,
+    "defects": 1,
+    "price_variance_pct": -0.47
+   },
+   {
+    "month": "2025-02",
+    "deliveries": 14,
+    "on_time": 14,
+    "defects": 0,
+    "price_variance_pct": -1.26
+   },
+   {
+    "month": "2025-03",
+    "deliveries": 15,
+    "on_time": 14,
+    "defects": 2,
+    "price_variance_pct": -0.27
+   },
+   {
+    "month": "2025-04",
+    "deliveries": 15,
+    "on_time": 12,
+    "defects": 1,
+    "price_variance_pct": -1.84
+   },
+   {
+    "month": "2025-05",
+    "deliveries": 9,
+    "on_time": 8,
+    "defects": 0,
+    "price_variance_pct": -0.33
+   },
+   {
+    "month": "2025-06",
+    "deliveries": 8,
+    "on_time": 7,
+    "defects": 0,
+    "price_variance_pct": -1.61
+   },
+   {
+    "month": "2025-07",
+    "deliveries": 7,
+    "on_time": 7,
+    "defects": 0,
+    "price_variance_pct": -1.47
+   },
+   {
+    "month": "2025-08",
+    "deliveries": 16,
+    "on_time": 15,
+    "defects": 0,
+    "price_variance_pct": -1.33
+   },
+   {
+    "month": "2025-09",
+    "deliveries": 8,
+    "on_time": 7,
+    "defects": 0,
+    "price_variance_pct": -0.21
+   },
+   {
+    "month": "2025-10",
+    "deliveries": 4,
+    "on_time": 4,
+    "defects": 0,
+    "price_variance_pct": -1.87
+   },
+   {
+    "month": "2025-11",
+    "deliveries": 9,
+    "on_time": 7,
+    "defects": 0,
+    "price_variance_pct": -0.66
+   },
+   {
+    "month": "2025-12",
+    "deliveries": 9,
+    "on_time": 8,
+    "defects": 0,
+    "price_variance_pct": -1.03
+   },
+   {
+    "month": "2026-01",
+    "deliveries": 9,
+    "on_time": 9,
+    "defects": 1,
+    "price_variance_pct": -0.39
+   },
+   {
+    "month": "2026-02",
+    "deliveries": 9,
+    "on_time": 9,
+    "defects": 0,
+    "price_variance_pct": -0.12
+   },
+   {
+    "month": "2026-03",
+    "deliveries": 15,
+    "on_time": 15,
+    "defects": 1,
+    "price_variance_pct": -1.43
+   },
+   {
+    "month": "2026-04",
+    "deliveries": 5,
+    "on_time": 5,
+    "defects": 1,
+    "price_variance_pct": -1.95
+   },
+   {
+    "month": "2026-05",
+    "deliveries": 17,
+    "on_time": 16,
+    "defects": 1,
+    "price_variance_pct": -1.73
+   }
+  ]
+ },
+ {
+  "supplier_id": "S-034",
+  "name": "Nairobi Summit Supplies",
+  "country": "Kenya",
+  "category": "logistics",
+  "compliance_status": "compliant",
+  "onboarded": "2024-05-01",
+  "history": [
+   {
+    "month": "2024-06",
+    "deliveries": 6,
+    "on_time": 6,
+    "defects": 0,
+    "price_variance_pct": -0.74
+   },
+   {
+    "month": "2024-07",
+    "deliveries": 11,
+    "on_time": 11,
+    "defects": 0,
+    "price_variance_pct": -0.47
+   },
+   {
+    "month": "2024-08",
+    "deliveries": 18,
+    "on_time": 16,
+    "defects": 0,
+    "price_variance_pct": -0.25
+   },
+   {
+    "month": "2024-09",
+    "deliveries": 18,
+    "on_time": 14,
+    "defects": 0,
+    "price_variance_pct": -0.12
+   },
+   {
+    "month": "2024-10",
+    "deliveries": 14,
+    "on_time": 13,
+    "defects": 0,
+    "price_variance_pct": -0.62
+   },
+   {
+    "month": "2024-11",
+    "deliveries": 14,
+    "on_time": 14,
+    "defects": 0,
+    "price_variance_pct": 0.69
+   },
+   {
+    "month": "2024-12",
+    "deliveries": 16,
+    "on_time": 14,
+    "defects": 0,
+    "price_variance_pct": -0.13
+   },
+   {
+    "month": "2025-01",
+    "deliveries": 13,
+    "on_time": 12,
+    "defects": 0,
+    "price_variance_pct": -0.69
+   },
+   {
+    "month": "2025-02",
+    "deliveries": 15,
+    "on_time": 13,
+    "defects": 0,
+    "price_variance_pct": -0.9
+   },
+   {
+    "month": "2025-03",
+    "deliveries": 12,
+    "on_time": 11,
+    "defects": 0,
+    "price_variance_pct": -0.18
+   },
+   {
+    "month": "2025-04",
+    "deliveries": 20,
+    "on_time": 18,
+    "defects": 0,
+    "price_variance_pct": 0.47
+   },
+   {
+    "month": "2025-05",
+    "deliveries": 12,
+    "on_time": 12,
+    "defects": 0,
+    "price_variance_pct": -0.05
+   },
+   {
+    "month": "2025-06",
+    "deliveries": 11,
+    "on_time": 10,
+    "defects": 0,
+    "price_variance_pct": 0.53
+   },
+   {
+    "month": "2025-07",
+    "deliveries": 18,
+    "on_time": 15,
+    "defects": 0,
+    "price_variance_pct": 0.65
+   },
+   {
+    "month": "2025-08",
+    "deliveries": 12,
+    "on_time": 9,
+    "defects": 0,
+    "price_variance_pct": -0.38
+   },
+   {
+    "month": "2025-09",
+    "deliveries": 19,
+    "on_time": 16,
+    "defects": 0,
+    "price_variance_pct": 0.9
+   },
+   {
+    "month": "2025-10",
+    "deliveries": 13,
+    "on_time": 13,
+    "defects": 0,
+    "price_variance_pct": -0.34
+   },
+   {
+    "month": "2025-11",
+    "deliveries": 11,
+    "on_time": 6,
+    "defects": 0,
+    "price_variance_pct": -0.27
+   },
+   {
+    "month": "2025-12",
+    "deliveries": 4,
+    "on_time": 4,
+    "defects": 0,
+    "price_variance_pct": 1.05
+   },
+   {
+    "month": "2026-01",
+    "deliveries": 13,
+    "on_time": 12,
+    "defects": 0,
+    "price_variance_pct": -0.35
+   },
+   {
+    "month": "2026-02",
+    "deliveries": 6,
+    "on_time": 6,
+    "defects": 0,
+    "price_variance_pct": 0.72
+   },
+   {
+    "month": "2026-03",
+    "deliveries": 19,
+    "on_time": 15,
+    "defects": 1,
+    "price_variance_pct": -0.38
+   },
+   {
+    "month": "2026-04",
+    "deliveries": 18,
+    "on_time": 16,
+    "defects": 0,
+    "price_variance_pct": -0.19
+   },
+   {
+    "month": "2026-05",
+    "deliveries": 12,
+    "on_time": 11,
+    "defects": 0,
+    "price_variance_pct": 0.07
+   }
+  ]
+ },
+ {
+  "supplier_id": "S-035",
+  "name": "Alexandria Tech Imports",
+  "country": "Egypt",
+  "category": "IT hardware",
+  "compliance_status": "compliant",
+  "onboarded": "2024-05-01",
+  "history": [
+   {
+    "month": "2024-06",
+    "deliveries": 7,
+    "on_time": 7,
+    "defects": 0,
+    "price_variance_pct": -1.16
+   },
+   {
+    "month": "2024-07",
+    "deliveries": 9,
+    "on_time": 8,
+    "defects": 0,
+    "price_variance_pct": 0.21
+   },
+   {
+    "month": "2024-08",
+    "deliveries": 6,
+    "on_time": 6,
+    "defects": 0,
+    "price_variance_pct": 1.07
+   },
+   {
+    "month": "2024-09",
+    "deliveries": 6,
+    "on_time": 5,
+    "defects": 0,
+    "price_variance_pct": -1.1
+   },
+   {
+    "month": "2024-10",
+    "deliveries": 14,
+    "on_time": 13,
+    "defects": 0,
+    "price_variance_pct": -0.05
+   },
+   {
+    "month": "2024-11",
+    "deliveries": 12,
+    "on_time": 10,
+    "defects": 0,
+    "price_variance_pct": 0.69
+   },
+   {
+    "month": "2024-12",
+    "deliveries": 20,
+    "on_time": 16,
+    "defects": 0,
+    "price_variance_pct": -1.1
+   },
+   {
+    "month": "2025-01",
+    "deliveries": 14,
+    "on_time": 13,
+    "defects": 0,
+    "price_variance_pct": 1.04
+   },
+   {
+    "month": "2025-02",
+    "deliveries": 18,
+    "on_time": 16,
+    "defects": 0,
+    "price_variance_pct": 0.87
+   },
+   {
+    "month": "2025-03",
+    "deliveries": 6,
+    "on_time": 6,
+    "defects": 0,
+    "price_variance_pct": -0.68
+   },
+   {
+    "month": "2025-04",
+    "deliveries": 14,
+    "on_time": 11,
+    "defects": 0,
+    "price_variance_pct": -0.85
+   },
+   {
+    "month": "2025-05",
+    "deliveries": 7,
+    "on_time": 7,
+    "defects": 0,
+    "price_variance_pct": -1.07
+   },
+   {
+    "month": "2025-06",
+    "deliveries": 14,
+    "on_time": 13,
+    "defects": 0,
+    "price_variance_pct": 1.06
+   },
+   {
+    "month": "2025-07",
+    "deliveries": 9,
+    "on_time": 7,
+    "defects": 0,
+    "price_variance_pct": -0.44
+   },
+   {
+    "month": "2025-08",
+    "deliveries": 11,
+    "on_time": 11,
+    "defects": 0,
+    "price_variance_pct": -0.9
+   },
+   {
+    "month": "2025-09",
+    "deliveries": 10,
+    "on_time": 9,
+    "defects": 0,
+    "price_variance_pct": -0.87
+   },
+   {
+    "month": "2025-10",
+    "deliveries": 17,
+    "on_time": 16,
+    "defects": 0,
+    "price_variance_pct": 0.21
+   },
+   {
+    "month": "2025-11",
+    "deliveries": 16,
+    "on_time": 15,
+    "defects": 0,
+    "price_variance_pct": 0.66
+   },
+   {
+    "month": "2025-12",
+    "deliveries": 20,
+    "on_time": 19,
+    "defects": 0,
+    "price_variance_pct": 0.84
+   },
+   {
+    "month": "2026-01",
+    "deliveries": 8,
+    "on_time": 6,
+    "defects": 0,
+    "price_variance_pct": -0.16
+   },
+   {
+    "month": "2026-02",
+    "deliveries": 6,
+    "on_time": 5,
+    "defects": 0,
+    "price_variance_pct": -0.6
+   },
+   {
+    "month": "2026-03",
+    "deliveries": 19,
+    "on_time": 17,
+    "defects": 0,
+    "price_variance_pct": 0.81
+   },
+   {
+    "month": "2026-04",
+    "deliveries": 8,
+    "on_time": 7,
+    "defects": 0,
+    "price_variance_pct": 0.29
+   },
+   {
+    "month": "2026-05",
+    "deliveries": 16,
+    "on_time": 16,
+    "defects": 0,
+    "price_variance_pct": -0.62
+   }
+  ]
+ },
+ {
+  "supplier_id": "S-036",
+  "name": "Seoul Hanjin Components",
+  "country": "South Korea",
+  "category": "cloud services",
+  "compliance_status": "non_compliant",
+  "onboarded": "2024-05-01",
+  "history": [
+   {
+    "month": "2024-06",
+    "deliveries": 9,
+    "on_time": 8,
+    "defects": 0,
+    "price_variance_pct": 5.78
+   },
+   {
+    "month": "2024-07",
+    "deliveries": 7,
+    "on_time": 6,
+    "defects": 0,
+    "price_variance_pct": 5.32
+   },
+   {
+    "month": "2024-08",
+    "deliveries": 13,
+    "on_time": 13,
+    "defects": 0,
+    "price_variance_pct": 4.05
+   },
+   {
+    "month": "2024-09",
+    "deliveries": 13,
+    "on_time": 11,
+    "defects": 0,
+    "price_variance_pct": 4.16
+   },
+   {
+    "month": "2024-10",
+    "deliveries": 5,
+    "on_time": 5,
+    "defects": 1,
+    "price_variance_pct": 5.94
+   },
+   {
+    "month": "2024-11",
+    "deliveries": 5,
+    "on_time": 5,
+    "defects": 0,
+    "price_variance_pct": 4.95
+   },
+   {
+    "month": "2024-12",
+    "deliveries": 14,
+    "on_time": 12,
+    "defects": 0,
+    "price_variance_pct": 4.26
+   },
+   {
+    "month": "2025-01",
+    "deliveries": 11,
+    "on_time": 9,
+    "defects": 0,
+    "price_variance_pct": 4.14
+   },
+   {
+    "month": "2025-02",
+    "deliveries": 17,
+    "on_time": 15,
+    "defects": 0,
+    "price_variance_pct": 6.0
+   },
+   {
+    "month": "2025-03",
+    "deliveries": 7,
+    "on_time": 7,
+    "defects": 0,
+    "price_variance_pct": 4.88
+   },
+   {
+    "month": "2025-04",
+    "deliveries": 14,
+    "on_time": 13,
+    "defects": 0,
+    "price_variance_pct": 5.61
+   },
+   {
+    "month": "2025-05",
+    "deliveries": 19,
+    "on_time": 19,
+    "defects": 0,
+    "price_variance_pct": 4.82
+   },
+   {
+    "month": "2025-06",
+    "deliveries": 10,
+    "on_time": 10,
+    "defects": 0,
+    "price_variance_pct": 6.16
+   },
+   {
+    "month": "2025-07",
+    "deliveries": 9,
+    "on_time": 8,
+    "defects": 1,
+    "price_variance_pct": 5.26
+   },
+   {
+    "month": "2025-08",
+    "deliveries": 18,
+    "on_time": 17,
+    "defects": 0,
+    "price_variance_pct": 4.64
+   },
+   {
+    "month": "2025-09",
+    "deliveries": 15,
+    "on_time": 12,
+    "defects": 0,
+    "price_variance_pct": 4.64
+   },
+   {
+    "month": "2025-10",
+    "deliveries": 8,
+    "on_time": 7,
+    "defects": 1,
+    "price_variance_pct": 4.84
+   },
+   {
+    "month": "2025-11",
+    "deliveries": 7,
+    "on_time": 7,
+    "defects": 0,
+    "price_variance_pct": 5.04
+   },
+   {
+    "month": "2025-12",
+    "deliveries": 6,
+    "on_time": 6,
+    "defects": 0,
+    "price_variance_pct": 4.25
+   },
+   {
+    "month": "2026-01",
+    "deliveries": 10,
+    "on_time": 9,
+    "defects": 0,
+    "price_variance_pct": 5.32
+   },
+   {
+    "month": "2026-02",
+    "deliveries": 7,
+    "on_time": 6,
+    "defects": 0,
+    "price_variance_pct": 5.31
+   },
+   {
+    "month": "2026-03",
+    "deliveries": 7,
+    "on_time": 6,
+    "defects": 1,
+    "price_variance_pct": 4.71
+   },
+   {
+    "month": "2026-04",
+    "deliveries": 14,
+    "on_time": 13,
+    "defects": 0,
+    "price_variance_pct": 4.24
+   },
+   {
+    "month": "2026-05",
+    "deliveries": 19,
+    "on_time": 17,
+    "defects": 0,
+    "price_variance_pct": 5.02
+   }
+  ]
+ },
+ {
+  "supplier_id": "S-037",
+  "name": "Gulf Horizon Logistics",
+  "country": "UAE",
+  "category": "facilities",
+  "compliance_status": "compliant",
+  "onboarded": "2024-05-01",
+  "history": [
+   {
+    "month": "2024-06",
+    "deliveries": 11,
+    "on_time": 10,
+    "defects": 0,
+    "price_variance_pct": 7.59
+   },
+   {
+    "month": "2024-07",
+    "deliveries": 14,
+    "on_time": 12,
+    "defects": 0,
+    "price_variance_pct": 5.52
+   },
+   {
+    "month": "2024-08",
+    "deliveries": 7,
+    "on_time": 5,
+    "defects": 0,
+    "price_variance_pct": 7.01
+   },
+   {
+    "month": "2024-09",
+    "deliveries": 5,
+    "on_time": 5,
+    "defects": 0,
+    "price_variance_pct": 6.18
+   },
+   {
+    "month": "2024-10",
+    "deliveries": 8,
+    "on_time": 7,
+    "defects": 0,
+    "price_variance_pct": 6.98
+   },
+   {
+    "month": "2024-11",
+    "deliveries": 20,
+    "on_time": 16,
+    "defects": 0,
+    "price_variance_pct": 6.48
+   },
+   {
+    "month": "2024-12",
+    "deliveries": 13,
+    "on_time": 11,
+    "defects": 0,
+    "price_variance_pct": 6.27
+   },
+   {
+    "month": "2025-01",
+    "deliveries": 16,
+    "on_time": 13,
+    "defects": 0,
+    "price_variance_pct": 6.61
+   },
+   {
+    "month": "2025-02",
+    "deliveries": 11,
+    "on_time": 10,
+    "defects": 0,
+    "price_variance_pct": 6.95
+   },
+   {
+    "month": "2025-03",
+    "deliveries": 7,
+    "on_time": 7,
+    "defects": 0,
+    "price_variance_pct": 6.47
+   },
+   {
+    "month": "2025-04",
+    "deliveries": 13,
+    "on_time": 11,
+    "defects": 0,
+    "price_variance_pct": 5.57
+   },
+   {
+    "month": "2025-05",
+    "deliveries": 17,
+    "on_time": 15,
+    "defects": 0,
+    "price_variance_pct": 6.83
+   },
+   {
+    "month": "2025-06",
+    "deliveries": 18,
+    "on_time": 16,
+    "defects": 0,
+    "price_variance_pct": 6.91
+   },
+   {
+    "month": "2025-07",
+    "deliveries": 15,
+    "on_time": 14,
+    "defects": 0,
+    "price_variance_pct": 7.56
+   },
+   {
+    "month": "2025-08",
+    "deliveries": 5,
+    "on_time": 3,
+    "defects": 0,
+    "price_variance_pct": 5.85
+   },
+   {
+    "month": "2025-09",
+    "deliveries": 12,
+    "on_time": 10,
+    "defects": 0,
+    "price_variance_pct": 7.67
+   },
+   {
+    "month": "2025-10",
+    "deliveries": 19,
+    "on_time": 17,
+    "defects": 0,
+    "price_variance_pct": 6.32
+   },
+   {
+    "month": "2025-11",
+    "deliveries": 18,
+    "on_time": 14,
+    "defects": 0,
+    "price_variance_pct": 5.7
+   },
+   {
+    "month": "2025-12",
+    "deliveries": 14,
+    "on_time": 11,
+    "defects": 0,
+    "price_variance_pct": 6.76
+   },
+   {
+    "month": "2026-01",
+    "deliveries": 11,
+    "on_time": 9,
+    "defects": 0,
+    "price_variance_pct": 5.87
+   },
+   {
+    "month": "2026-02",
+    "deliveries": 14,
+    "on_time": 10,
+    "defects": 0,
+    "price_variance_pct": 6.68
+   },
+   {
+    "month": "2026-03",
+    "deliveries": 16,
+    "on_time": 14,
+    "defects": 1,
+    "price_variance_pct": 6.52
+   },
+   {
+    "month": "2026-04",
+    "deliveries": 10,
+    "on_time": 9,
+    "defects": 0,
+    "price_variance_pct": 6.07
+   },
+   {
+    "month": "2026-05",
+    "deliveries": 5,
+    "on_time": 4,
+    "defects": 0,
+    "price_variance_pct": 6.5
+   }
+  ]
+ },
+ {
+  "supplier_id": "S-038",
+  "name": "Giza Facility Services",
+  "country": "Egypt",
+  "category": "logistics",
+  "compliance_status": "compliant",
+  "onboarded": "2024-05-01",
+  "history": [
+   {
+    "month": "2024-06",
+    "deliveries": 12,
+    "on_time": 12,
+    "defects": 1,
+    "price_variance_pct": -1.55
+   },
+   {
+    "month": "2024-07",
+    "deliveries": 11,
+    "on_time": 9,
+    "defects": 0,
+    "price_variance_pct": -1.89
+   },
+   {
+    "month": "2024-08",
+    "deliveries": 11,
+    "on_time": 7,
+    "defects": 0,
+    "price_variance_pct": -1.42
+   },
+   {
+    "month": "2024-09",
+    "deliveries": 5,
+    "on_time": 5,
+    "defects": 1,
+    "price_variance_pct": -1.11
+   },
+   {
+    "month": "2024-10",
+    "deliveries": 5,
+    "on_time": 3,
+    "defects": 0,
+    "price_variance_pct": -0.03
+   },
+   {
+    "month": "2024-11",
+    "deliveries": 16,
+    "on_time": 8,
+    "defects": 0,
+    "price_variance_pct": -2.25
+   },
+   {
+    "month": "2024-12",
+    "deliveries": 5,
+    "on_time": 4,
+    "defects": 0,
+    "price_variance_pct": -0.03
+   },
+   {
+    "month": "2025-01",
+    "deliveries": 11,
+    "on_time": 10,
+    "defects": 0,
+    "price_variance_pct": -1.65
+   },
+   {
+    "month": "2025-02",
+    "deliveries": 17,
+    "on_time": 16,
+    "defects": 0,
+    "price_variance_pct": -1.9
+   },
+   {
+    "month": "2025-03",
+    "deliveries": 10,
+    "on_time": 6,
+    "defects": 0,
+    "price_variance_pct": -0.22
+   },
+   {
+    "month": "2025-04",
+    "deliveries": 15,
+    "on_time": 13,
+    "defects": 0,
+    "price_variance_pct": -0.4
+   },
+   {
+    "month": "2025-05",
+    "deliveries": 6,
+    "on_time": 4,
+    "defects": 1,
+    "price_variance_pct": -0.93
+   },
+   {
+    "month": "2025-06",
+    "deliveries": 19,
+    "on_time": 17,
+    "defects": 0,
+    "price_variance_pct": -0.86
+   },
+   {
+    "month": "2025-07",
+    "deliveries": 14,
+    "on_time": 9,
+    "defects": 0,
+    "price_variance_pct": -1.62
+   },
+   {
+    "month": "2025-08",
+    "deliveries": 8,
+    "on_time": 7,
+    "defects": 0,
+    "price_variance_pct": -1.87
+   },
+   {
+    "month": "2025-09",
+    "deliveries": 16,
+    "on_time": 15,
+    "defects": 0,
+    "price_variance_pct": -0.25
+   },
+   {
+    "month": "2025-10",
+    "deliveries": 11,
+    "on_time": 11,
+    "defects": 0,
+    "price_variance_pct": -1.62
+   },
+   {
+    "month": "2025-11",
+    "deliveries": 14,
+    "on_time": 12,
+    "defects": 0,
+    "price_variance_pct": -0.5
+   },
+   {
+    "month": "2025-12",
+    "deliveries": 6,
+    "on_time": 4,
+    "defects": 0,
+    "price_variance_pct": -1.45
+   },
+   {
+    "month": "2026-01",
+    "deliveries": 20,
+    "on_time": 13,
+    "defects": 0,
+    "price_variance_pct": -1.59
+   },
+   {
+    "month": "2026-02",
+    "deliveries": 10,
+    "on_time": 10,
+    "defects": 0,
+    "price_variance_pct": -0.9
+   },
+   {
+    "month": "2026-03",
+    "deliveries": 9,
+    "on_time": 9,
+    "defects": 0,
+    "price_variance_pct": -0.34
+   },
+   {
+    "month": "2026-04",
+    "deliveries": 20,
+    "on_time": 17,
+    "defects": 0,
+    "price_variance_pct": -1.23
+   },
+   {
+    "month": "2026-05",
+    "deliveries": 18,
+    "on_time": 15,
+    "defects": 0,
+    "price_variance_pct": -1.57
+   }
+  ]
+ },
+ {
+  "supplier_id": "S-039",
+  "name": "Pacific MRO Holdings",
+  "country": "USA",
+  "category": "professional services",
+  "compliance_status": "compliant",
+  "onboarded": "2024-05-01",
+  "history": [
+   {
+    "month": "2024-06",
+    "deliveries": 10,
+    "on_time": 8,
+    "defects": 0,
+    "price_variance_pct": -2.06
+   },
+   {
+    "month": "2024-07",
+    "deliveries": 8,
+    "on_time": 8,
+    "defects": 0,
+    "price_variance_pct": -0.09
+   },
+   {
+    "month": "2024-08",
+    "deliveries": 14,
+    "on_time": 12,
+    "defects": 2,
+    "price_variance_pct": 0.01
+   },
+   {
+    "month": "2024-09",
+    "deliveries": 17,
+    "on_time": 16,
+    "defects": 2,
+    "price_variance_pct": -0.26
+   },
+   {
+    "month": "2024-10",
+    "deliveries": 8,
+    "on_time": 8,
+    "defects": 0,
+    "price_variance_pct": -0.22
+   },
+   {
+    "month": "2024-11",
+    "deliveries": 8,
+    "on_time": 7,
+    "defects": 0,
+    "price_variance_pct": -1.13
+   },
+   {
+    "month": "2024-12",
+    "deliveries": 20,
+    "on_time": 20,
+    "defects": 1,
+    "price_variance_pct": -2.0
+   },
+   {
+    "month": "2025-01",
+    "deliveries": 14,
+    "on_time": 14,
+    "defects": 0,
+    "price_variance_pct": -0.25
+   },
+   {
+    "month": "2025-02",
+    "deliveries": 4,
+    "on_time": 4,
+    "defects": 0,
+    "price_variance_pct": -2.24
+   },
+   {
+    "month": "2025-03",
+    "deliveries": 9,
+    "on_time": 9,
+    "defects": 0,
+    "price_variance_pct": -1.37
+   },
+   {
+    "month": "2025-04",
+    "deliveries": 14,
+    "on_time": 13,
+    "defects": 0,
+    "price_variance_pct": -1.06
+   },
+   {
+    "month": "2025-05",
+    "deliveries": 11,
+    "on_time": 10,
+    "defects": 1,
+    "price_variance_pct": -1.38
+   },
+   {
+    "month": "2025-06",
+    "deliveries": 15,
+    "on_time": 14,
+    "defects": 0,
+    "price_variance_pct": -0.33
+   },
+   {
+    "month": "2025-07",
+    "deliveries": 6,
+    "on_time": 6,
+    "defects": 0,
+    "price_variance_pct": -1.75
+   },
+   {
+    "month": "2025-08",
+    "deliveries": 9,
+    "on_time": 9,
+    "defects": 0,
+    "price_variance_pct": -0.42
+   },
+   {
+    "month": "2025-09",
+    "deliveries": 4,
+    "on_time": 3,
+    "defects": 0,
+    "price_variance_pct": -0.11
+   },
+   {
+    "month": "2025-10",
+    "deliveries": 5,
+    "on_time": 5,
+    "defects": 0,
+    "price_variance_pct": -0.25
+   },
+   {
+    "month": "2025-11",
+    "deliveries": 5,
+    "on_time": 5,
+    "defects": 0,
+    "price_variance_pct": -0.46
+   },
+   {
+    "month": "2025-12",
+    "deliveries": 11,
+    "on_time": 10,
+    "defects": 0,
+    "price_variance_pct": -2.13
+   },
+   {
+    "month": "2026-01",
+    "deliveries": 11,
+    "on_time": 9,
+    "defects": 1,
+    "price_variance_pct": -0.0
+   },
+   {
+    "month": "2026-02",
+    "deliveries": 19,
+    "on_time": 19,
+    "defects": 0,
+    "price_variance_pct": -0.78
+   },
+   {
+    "month": "2026-03",
+    "deliveries": 9,
+    "on_time": 9,
+    "defects": 0,
+    "price_variance_pct": -2.19
+   },
+   {
+    "month": "2026-04",
+    "deliveries": 15,
+    "on_time": 14,
+    "defects": 0,
+    "price_variance_pct": -1.61
+   },
+   {
+    "month": "2026-05",
+    "deliveries": 7,
+    "on_time": 7,
+    "defects": 1,
+    "price_variance_pct": -2.0
+   }
+  ]
+ },
+ {
+  "supplier_id": "S-040",
+  "name": "Dana Facilities Management",
+  "country": "UAE",
+  "category": "MRO",
+  "compliance_status": "compliant",
+  "onboarded": "2024-05-01",
+  "history": [
+   {
+    "month": "2024-06",
+    "deliveries": 12,
+    "on_time": 11,
+    "defects": 0,
+    "price_variance_pct": -1.22
+   },
+   {
+    "month": "2024-07",
+    "deliveries": 16,
+    "on_time": 13,
+    "defects": 0,
+    "price_variance_pct": -0.29
+   },
+   {
+    "month": "2024-08",
+    "deliveries": 9,
+    "on_time": 7,
+    "defects": 0,
+    "price_variance_pct": -0.86
+   },
+   {
+    "month": "2024-09",
+    "deliveries": 4,
+    "on_time": 3,
+    "defects": 0,
+    "price_variance_pct": 0.14
+   },
+   {
+    "month": "2024-10",
+    "deliveries": 7,
+    "on_time": 7,
+    "defects": 0,
+    "price_variance_pct": -2.02
+   },
+   {
+    "month": "2024-11",
+    "deliveries": 14,
+    "on_time": 10,
+    "defects": 0,
+    "price_variance_pct": -1.95
+   },
+   {
+    "month": "2024-12",
+    "deliveries": 20,
+    "on_time": 17,
+    "defects": 0,
+    "price_variance_pct": -0.47
+   },
+   {
+    "month": "2025-01",
+    "deliveries": 19,
+    "on_time": 15,
+    "defects": 0,
+    "price_variance_pct": -0.18
+   },
+   {
+    "month": "2025-02",
+    "deliveries": 16,
+    "on_time": 14,
+    "defects": 0,
+    "price_variance_pct": -1.26
+   },
+   {
+    "month": "2025-03",
+    "deliveries": 13,
+    "on_time": 12,
+    "defects": 0,
+    "price_variance_pct": -1.92
+   },
+   {
+    "month": "2025-04",
+    "deliveries": 14,
+    "on_time": 11,
+    "defects": 1,
+    "price_variance_pct": -1.8
+   },
+   {
+    "month": "2025-05",
+    "deliveries": 16,
+    "on_time": 12,
+    "defects": 0,
+    "price_variance_pct": -1.85
+   },
+   {
+    "month": "2025-06",
+    "deliveries": 4,
+    "on_time": 4,
+    "defects": 0,
+    "price_variance_pct": -2.09
+   },
+   {
+    "month": "2025-07",
+    "deliveries": 17,
+    "on_time": 16,
+    "defects": 1,
+    "price_variance_pct": -1.56
+   },
+   {
+    "month": "2025-08",
+    "deliveries": 13,
+    "on_time": 8,
+    "defects": 0,
+    "price_variance_pct": -0.96
+   },
+   {
+    "month": "2025-09",
+    "deliveries": 17,
+    "on_time": 13,
+    "defects": 0,
+    "price_variance_pct": -0.43
+   },
+   {
+    "month": "2025-10",
+    "deliveries": 7,
+    "on_time": 6,
+    "defects": 1,
+    "price_variance_pct": -1.71
+   },
+   {
+    "month": "2025-11",
+    "deliveries": 19,
+    "on_time": 17,
+    "defects": 0,
+    "price_variance_pct": -0.53
+   },
+   {
+    "month": "2025-12",
+    "deliveries": 4,
+    "on_time": 2,
+    "defects": 0,
+    "price_variance_pct": -1.77
+   },
+   {
+    "month": "2026-01",
+    "deliveries": 17,
+    "on_time": 11,
+    "defects": 0,
+    "price_variance_pct": -1.19
+   },
+   {
+    "month": "2026-02",
+    "deliveries": 11,
+    "on_time": 7,
+    "defects": 0,
+    "price_variance_pct": -0.9
+   },
+   {
+    "month": "2026-03",
+    "deliveries": 14,
+    "on_time": 10,
+    "defects": 0,
+    "price_variance_pct": -0.49
+   },
+   {
+    "month": "2026-04",
+    "deliveries": 11,
+    "on_time": 6,
+    "defects": 1,
+    "price_variance_pct": -0.3
+   },
+   {
+    "month": "2026-05",
+    "deliveries": 10,
+    "on_time": 8,
+    "defects": 0,
+    "price_variance_pct": 0.13
+   }
+  ]
+ }
+]

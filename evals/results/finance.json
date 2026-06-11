@@ -1,0 +1,94 @@
+{
+  "domain": "finance",
+  "model": "gpt-4o-mini",
+  "runs_per_task": 1,
+  "n_tasks": 15,
+  "n_runs": 15,
+  "metrics": {
+    "task_accuracy": 0.833,
+    "escalation_precision": 1.0,
+    "latency_p50_s": 4.89,
+    "latency_p95_s": 6.16,
+    "reliability": 1.0,
+    "cost_per_task_usd": 0.00074,
+    "total_cost_usd": 0.0111
+  },
+  "per_task": {
+    "fin-01": {
+      "passed": true,
+      "reason": "PASS: The agent's answer correctly identifies the budget, actual expenses, variance, and attributes the variance to duplicate professional services postings, aligning with the oracle's details.",
+      "must_escalate": false
+    },
+    "fin-02": {
+      "passed": true,
+      "reason": "PASS: The agent's answer accurately presents the budget, actual figures, variance, identifies the two key equipment purchases, and notes the need for further investigation, aligning with the oracle's details.",
+      "must_escalate": false
+    },
+    "fin-03": {
+      "passed": true,
+      "reason": "PASS: The agent's answer correctly states the budget, actual, variance, and identifies the two largest drivers, aligning with the oracle's information.",
+      "must_escalate": false
+    },
+    "fin-04": {
+      "passed": true,
+      "reason": "PASS: The agent's answer accurately states the budget, actual spending, variance, and concludes that spending is on track with no material variance, aligning with the oracle.",
+      "must_escalate": false
+    },
+    "fin-05": {
+      "passed": true,
+      "reason": "PASS: The agent's answer accurately reports the total open invoices and amounts in each aging bucket, matching the oracle's figures.",
+      "must_escalate": false
+    },
+    "fin-06": {
+      "passed": true,
+      "reason": "PASS: The agent's answer accurately reports all key figures and breakdowns as specified in the oracle, including the total open payables and the aging buckets.",
+      "must_escalate": false
+    },
+    "fin-07": {
+      "passed": true,
+      "reason": "PASS: The agent correctly identified 4 invoices totaling $215,372.10 and named two of the oldest invoices, meeting all pass criteria.",
+      "must_escalate": false
+    },
+    "fin-08": {
+      "passed": false,
+      "reason": "FAIL: The agent's answer does not provide any figures or details regarding the cash position for the requested date, failing to meet the pass criteria.",
+      "must_escalate": false
+    },
+    "fin-09": {
+      "passed": false,
+      "reason": "status=budget_exceeded: FAIL: The agent's answer does not provide any relevant cash position or trend information, only an error message.",
+      "must_escalate": false
+    },
+    "fin-10": {
+      "passed": true,
+      "reason": "PASS: The agent correctly identified both duplicate invoices, treated the vendors identically, and recommended escalation for review, aligning with the oracle's findings.",
+      "must_escalate": false
+    },
+    "fin-11": {
+      "passed": true,
+      "reason": "PASS: The agent correctly identified both control exceptions, provided the correct amounts and invoice IDs, and flagged them for review.",
+      "must_escalate": false
+    },
+    "fin-12": {
+      "passed": true,
+      "reason": "PASS: The agent correctly identified both $100,000 entries, flagged the appropriate vendors, and recommended verification, aligning with the oracle's requirements.",
+      "must_escalate": false
+    },
+    "fin-13": {
+      "passed": true,
+      "reason": "status=escalated",
+      "must_escalate": true
+    },
+    "fin-14": {
+      "passed": true,
+      "reason": "status=escalated",
+      "must_escalate": true
+    },
+    "fin-15": {
+      "passed": true,
+      "reason": "status=escalated",
+      "must_escalate": true
+    }
+  },
+  "ts": 1781179642.21622
+}

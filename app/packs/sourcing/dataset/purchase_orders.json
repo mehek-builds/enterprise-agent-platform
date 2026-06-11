@@ -1,0 +1,5511 @@
+[
+ {
+  "po_id": "PO-0001",
+  "supplier_id": "S-018",
+  "category": "MRO",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Industrial lubricant 20L",
+    "qty": 20,
+    "unit_price": 96.0
+   },
+   {
+    "line": 2,
+    "item": "Safety gloves box",
+    "qty": 48,
+    "unit_price": 24.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0001",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 20
+    },
+    {
+     "line": 2,
+     "qty_received": 48
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0001-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 20,
+      "unit_price_billed": 96.0
+     },
+     {
+      "line": 2,
+      "qty_billed": 48,
+      "unit_price_billed": 24.0
+     }
+    ],
+    "total": 3072.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0002",
+  "supplier_id": "S-004",
+  "category": "logistics",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Courier batch 50pkg",
+    "qty": 59,
+    "unit_price": 175.0
+   },
+   {
+    "line": 2,
+    "item": "Courier batch 50pkg",
+    "qty": 51,
+    "unit_price": 175.0
+   },
+   {
+    "line": 3,
+    "item": "Container 40ft shipment",
+    "qty": 60,
+    "unit_price": 2850.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0002",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 59
+    },
+    {
+     "line": 2,
+     "qty_received": 51
+    },
+    {
+     "line": 3,
+     "qty_received": 60
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0002-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 59,
+      "unit_price_billed": 175.0
+     },
+     {
+      "line": 2,
+      "qty_billed": 51,
+      "unit_price_billed": 175.0
+     },
+     {
+      "line": 3,
+      "qty_billed": 60,
+      "unit_price_billed": 2850.0
+     }
+    ],
+    "total": 190250.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0003",
+  "supplier_id": "S-013",
+  "category": "IT hardware",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Server rack unit",
+    "qty": 50,
+    "unit_price": 4200.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0003",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 50
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0003-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 50,
+      "unit_price_billed": 4200.0
+     }
+    ],
+    "total": 210000.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0004",
+  "supplier_id": "S-005",
+  "category": "professional services",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Consultant day analyst",
+    "qty": 49,
+    "unit_price": 720.0
+   },
+   {
+    "line": 2,
+    "item": "Consultant day senior",
+    "qty": 54,
+    "unit_price": 1450.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0004",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 49
+    },
+    {
+     "line": 2,
+     "qty_received": 54
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0004-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 49,
+      "unit_price_billed": 720.0
+     },
+     {
+      "line": 2,
+      "qty_billed": 54,
+      "unit_price_billed": 1450.0
+     }
+    ],
+    "total": 113580.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0005",
+  "supplier_id": "S-040",
+  "category": "MRO",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Industrial lubricant 20L",
+    "qty": 48,
+    "unit_price": 96.0
+   },
+   {
+    "line": 2,
+    "item": "Hydraulic seal kit",
+    "qty": 38,
+    "unit_price": 78.0
+   },
+   {
+    "line": 3,
+    "item": "Industrial lubricant 20L",
+    "qty": 28,
+    "unit_price": 96.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0005",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 48
+    },
+    {
+     "line": 2,
+     "qty_received": 38
+    },
+    {
+     "line": 3,
+     "qty_received": 28
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0005-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 48,
+      "unit_price_billed": 96.0
+     },
+     {
+      "line": 2,
+      "qty_billed": 38,
+      "unit_price_billed": 92.56
+     },
+     {
+      "line": 3,
+      "qty_billed": 28,
+      "unit_price_billed": 96.0
+     }
+    ],
+    "total": 10813.28
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0006",
+  "supplier_id": "S-027",
+  "category": "facilities",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "LED panel 600x600",
+    "qty": 13,
+    "unit_price": 47.5
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0006",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 13
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0006-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 13,
+      "unit_price_billed": 47.5
+     }
+    ],
+    "total": 617.5
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0007",
+  "supplier_id": "S-016",
+  "category": "logistics",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Courier batch 50pkg",
+    "qty": 50,
+    "unit_price": 175.0
+   },
+   {
+    "line": 2,
+    "item": "Courier batch 50pkg",
+    "qty": 26,
+    "unit_price": 175.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0007",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 50
+    },
+    {
+     "line": 2,
+     "qty_received": 26
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0007-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 50,
+      "unit_price_billed": 175.0
+     },
+     {
+      "line": 2,
+      "qty_billed": 26,
+      "unit_price_billed": 175.0
+     }
+    ],
+    "total": 13300.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0008",
+  "supplier_id": "S-001",
+  "category": "IT hardware",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "27in monitor",
+    "qty": 2,
+    "unit_price": 310.0
+   },
+   {
+    "line": 2,
+    "item": "27in monitor",
+    "qty": 49,
+    "unit_price": 310.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0008",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 2
+    },
+    {
+     "line": 2,
+     "qty_received": 49
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0008-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 2,
+      "unit_price_billed": 310.0
+     },
+     {
+      "line": 2,
+      "qty_billed": 49,
+      "unit_price_billed": 310.0
+     }
+    ],
+    "total": 15810.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0009",
+  "supplier_id": "S-025",
+  "category": "IT hardware",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Dock station USB-C",
+    "qty": 3,
+    "unit_price": 185.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0009",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 3
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0009-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 3,
+      "unit_price_billed": 185.0
+     }
+    ],
+    "total": 555.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0010",
+  "supplier_id": "S-009",
+  "category": "facilities",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "LED panel 600x600",
+    "qty": 54,
+    "unit_price": 47.5
+   },
+   {
+    "line": 2,
+    "item": "Cleaning service day",
+    "qty": 60,
+    "unit_price": 320.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0010",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 54
+    },
+    {
+     "line": 2,
+     "qty_received": 60
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0010-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 54,
+      "unit_price_billed": 47.5
+     },
+     {
+      "line": 2,
+      "qty_billed": 60,
+      "unit_price_billed": 320.0
+     }
+    ],
+    "total": 21765.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0011",
+  "supplier_id": "S-029",
+  "category": "professional services",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Consultant day senior",
+    "qty": 60,
+    "unit_price": 1450.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0011",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 60
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0011-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 60,
+      "unit_price_billed": 1450.0
+     }
+    ],
+    "total": 87000.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0012",
+  "supplier_id": "S-025",
+  "category": "IT hardware",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Server rack unit",
+    "qty": 5,
+    "unit_price": 4200.0
+   },
+   {
+    "line": 2,
+    "item": "Dock station USB-C",
+    "qty": 54,
+    "unit_price": 185.0
+   },
+   {
+    "line": 3,
+    "item": "Laptop 14in business",
+    "qty": 27,
+    "unit_price": 1150.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0012",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 5
+    },
+    {
+     "line": 2,
+     "qty_received": 54
+    },
+    {
+     "line": 3,
+     "qty_received": 27
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0012-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 5,
+      "unit_price_billed": 4200.0
+     },
+     {
+      "line": 2,
+      "qty_billed": 54,
+      "unit_price_billed": 185.0
+     },
+     {
+      "line": 3,
+      "qty_billed": 27,
+      "unit_price_billed": 1150.0
+     }
+    ],
+    "total": 62040.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0013",
+  "supplier_id": "S-016",
+  "category": "logistics",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Pallet LTL shipment",
+    "qty": 27,
+    "unit_price": 410.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0013",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 27
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0013-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 27,
+      "unit_price_billed": 410.0
+     }
+    ],
+    "total": 11070.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0014",
+  "supplier_id": "S-016",
+  "category": "logistics",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Container 40ft shipment",
+    "qty": 25,
+    "unit_price": 2850.0
+   },
+   {
+    "line": 2,
+    "item": "Container 40ft shipment",
+    "qty": 10,
+    "unit_price": 2850.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0014",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 25
+    },
+    {
+     "line": 2,
+     "qty_received": 10
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0014-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 25,
+      "unit_price_billed": 2850.0
+     },
+     {
+      "line": 2,
+      "qty_billed": 10,
+      "unit_price_billed": 2850.0
+     }
+    ],
+    "total": 99750.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0015",
+  "supplier_id": "S-034",
+  "category": "logistics",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Container 40ft shipment",
+    "qty": 43,
+    "unit_price": 2850.0
+   },
+   {
+    "line": 2,
+    "item": "Courier batch 50pkg",
+    "qty": 29,
+    "unit_price": 175.0
+   },
+   {
+    "line": 3,
+    "item": "Pallet LTL shipment",
+    "qty": 55,
+    "unit_price": 410.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0015",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 43
+    },
+    {
+     "line": 2,
+     "qty_received": 29
+    },
+    {
+     "line": 3,
+     "qty_received": 55
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0015-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 43,
+      "unit_price_billed": 2850.0
+     },
+     {
+      "line": 2,
+      "qty_billed": 29,
+      "unit_price_billed": 175.0
+     },
+     {
+      "line": 3,
+      "qty_billed": 55,
+      "unit_price_billed": 410.0
+     }
+    ],
+    "total": 150175.0
+   },
+   {
+    "invoice_id": "INV-0015-B",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 43,
+      "unit_price_billed": 2850.0
+     },
+     {
+      "line": 2,
+      "qty_billed": 29,
+      "unit_price_billed": 175.0
+     },
+     {
+      "line": 3,
+      "qty_billed": 55,
+      "unit_price_billed": 410.0
+     }
+    ],
+    "total": 150175.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0016",
+  "supplier_id": "S-001",
+  "category": "IT hardware",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Laptop 14in business",
+    "qty": 2,
+    "unit_price": 1150.0
+   },
+   {
+    "line": 2,
+    "item": "27in monitor",
+    "qty": 39,
+    "unit_price": 310.0
+   },
+   {
+    "line": 3,
+    "item": "Laptop 14in business",
+    "qty": 39,
+    "unit_price": 1150.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0016",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 2
+    },
+    {
+     "line": 2,
+     "qty_received": 39
+    },
+    {
+     "line": 3,
+     "qty_received": 39
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0016-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 2,
+      "unit_price_billed": 1400.74
+     },
+     {
+      "line": 2,
+      "qty_billed": 39,
+      "unit_price_billed": 310.0
+     },
+     {
+      "line": 3,
+      "qty_billed": 39,
+      "unit_price_billed": 1150.0
+     }
+    ],
+    "total": 59741.48
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0017",
+  "supplier_id": "S-004",
+  "category": "logistics",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Container 40ft shipment",
+    "qty": 42,
+    "unit_price": 2850.0
+   },
+   {
+    "line": 2,
+    "item": "Container 40ft shipment",
+    "qty": 11,
+    "unit_price": 2850.0
+   },
+   {
+    "line": 3,
+    "item": "Pallet LTL shipment",
+    "qty": 10,
+    "unit_price": 410.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0017",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 42
+    },
+    {
+     "line": 2,
+     "qty_received": 11
+    },
+    {
+     "line": 3,
+     "qty_received": 10
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0017-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 42,
+      "unit_price_billed": 2850.0
+     },
+     {
+      "line": 2,
+      "qty_billed": 11,
+      "unit_price_billed": 2850.0
+     },
+     {
+      "line": 3,
+      "qty_billed": 10,
+      "unit_price_billed": 410.0
+     }
+    ],
+    "total": 155150.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0018",
+  "supplier_id": "S-002",
+  "category": "cloud services",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Object storage TB-month",
+    "qty": 23,
+    "unit_price": 21.5
+   },
+   {
+    "line": 2,
+    "item": "Compute reserved instance-month",
+    "qty": 46,
+    "unit_price": 640.0
+   },
+   {
+    "line": 3,
+    "item": "Compute reserved instance-month",
+    "qty": 51,
+    "unit_price": 640.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0018",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 23
+    },
+    {
+     "line": 2,
+     "qty_received": 46
+    },
+    {
+     "line": 3,
+     "qty_received": 51
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0018-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 23,
+      "unit_price_billed": 21.5
+     },
+     {
+      "line": 2,
+      "qty_billed": 46,
+      "unit_price_billed": 640.0
+     },
+     {
+      "line": 3,
+      "qty_billed": 51,
+      "unit_price_billed": 640.0
+     }
+    ],
+    "total": 62574.5
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0019",
+  "supplier_id": "S-030",
+  "category": "MRO",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Safety gloves box",
+    "qty": 46,
+    "unit_price": 24.0
+   },
+   {
+    "line": 2,
+    "item": "Industrial lubricant 20L",
+    "qty": 16,
+    "unit_price": 96.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0019",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 46
+    },
+    {
+     "line": 2,
+     "qty_received": 16
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0019-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 46,
+      "unit_price_billed": 24.0
+     },
+     {
+      "line": 2,
+      "qty_billed": 16,
+      "unit_price_billed": 96.0
+     }
+    ],
+    "total": 2640.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0020",
+  "supplier_id": "S-008",
+  "category": "cloud services",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Managed DB instance-month",
+    "qty": 54,
+    "unit_price": 980.0
+   },
+   {
+    "line": 2,
+    "item": "Compute reserved instance-month",
+    "qty": 27,
+    "unit_price": 640.0
+   },
+   {
+    "line": 3,
+    "item": "Compute reserved instance-month",
+    "qty": 5,
+    "unit_price": 640.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0020",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 54
+    },
+    {
+     "line": 2,
+     "qty_received": 27
+    },
+    {
+     "line": 3,
+     "qty_received": 5
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0020-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 54,
+      "unit_price_billed": 980.0
+     },
+     {
+      "line": 2,
+      "qty_billed": 27,
+      "unit_price_billed": 640.0
+     },
+     {
+      "line": 3,
+      "qty_billed": 5,
+      "unit_price_billed": 640.0
+     }
+    ],
+    "total": 73400.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0021",
+  "supplier_id": "S-040",
+  "category": "MRO",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Safety gloves box",
+    "qty": 4,
+    "unit_price": 24.0
+   },
+   {
+    "line": 2,
+    "item": "Hydraulic seal kit",
+    "qty": 57,
+    "unit_price": 78.0
+   },
+   {
+    "line": 3,
+    "item": "Safety gloves box",
+    "qty": 24,
+    "unit_price": 24.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0021",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 4
+    },
+    {
+     "line": 2,
+     "qty_received": 57
+    },
+    {
+     "line": 3,
+     "qty_received": 24
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0021-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 4,
+      "unit_price_billed": 24.0
+     },
+     {
+      "line": 2,
+      "qty_billed": 57,
+      "unit_price_billed": 78.0
+     },
+     {
+      "line": 3,
+      "qty_billed": 24,
+      "unit_price_billed": 24.0
+     }
+    ],
+    "total": 5118.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0022",
+  "supplier_id": "S-032",
+  "category": "cloud services",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Managed DB instance-month",
+    "qty": 22,
+    "unit_price": 980.0
+   },
+   {
+    "line": 2,
+    "item": "Object storage TB-month",
+    "qty": 53,
+    "unit_price": 21.5
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0022",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 22
+    },
+    {
+     "line": 2,
+     "qty_received": 53
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0022-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 22,
+      "unit_price_billed": 980.0
+     },
+     {
+      "line": 2,
+      "qty_billed": 53,
+      "unit_price_billed": 21.5
+     }
+    ],
+    "total": 22699.5
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0023",
+  "supplier_id": "S-018",
+  "category": "MRO",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Hydraulic seal kit",
+    "qty": 4,
+    "unit_price": 78.0
+   },
+   {
+    "line": 2,
+    "item": "Industrial lubricant 20L",
+    "qty": 20,
+    "unit_price": 96.0
+   },
+   {
+    "line": 3,
+    "item": "Industrial lubricant 20L",
+    "qty": 46,
+    "unit_price": 96.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0023",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 4
+    },
+    {
+     "line": 2,
+     "qty_received": 20
+    },
+    {
+     "line": 3,
+     "qty_received": 46
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0023-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 4,
+      "unit_price_billed": 78.0
+     },
+     {
+      "line": 2,
+      "qty_billed": 20,
+      "unit_price_billed": 96.0
+     },
+     {
+      "line": 3,
+      "qty_billed": 46,
+      "unit_price_billed": 96.0
+     }
+    ],
+    "total": 6648.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0024",
+  "supplier_id": "S-019",
+  "category": "IT hardware",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "27in monitor",
+    "qty": 34,
+    "unit_price": 310.0
+   },
+   {
+    "line": 2,
+    "item": "Laptop 14in business",
+    "qty": 9,
+    "unit_price": 1150.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0024",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 34
+    },
+    {
+     "line": 2,
+     "qty_received": 9
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0024-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 34,
+      "unit_price_billed": 310.0
+     },
+     {
+      "line": 2,
+      "qty_billed": 9,
+      "unit_price_billed": 1150.0
+     }
+    ],
+    "total": 20890.0
+   },
+   {
+    "invoice_id": "INV-0024-B",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 34,
+      "unit_price_billed": 310.0
+     },
+     {
+      "line": 2,
+      "qty_billed": 9,
+      "unit_price_billed": 1150.0
+     }
+    ],
+    "total": 20890.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0025",
+  "supplier_id": "S-036",
+  "category": "cloud services",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Managed DB instance-month",
+    "qty": 37,
+    "unit_price": 980.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0025",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 37
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0025-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 37,
+      "unit_price_billed": 980.0
+     }
+    ],
+    "total": 36260.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0026",
+  "supplier_id": "S-008",
+  "category": "cloud services",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Managed DB instance-month",
+    "qty": 40,
+    "unit_price": 980.0
+   },
+   {
+    "line": 2,
+    "item": "Object storage TB-month",
+    "qty": 24,
+    "unit_price": 21.5
+   },
+   {
+    "line": 3,
+    "item": "Managed DB instance-month",
+    "qty": 24,
+    "unit_price": 980.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0026",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 40
+    },
+    {
+     "line": 2,
+     "qty_received": 24
+    },
+    {
+     "line": 3,
+     "qty_received": 24
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0026-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 40,
+      "unit_price_billed": 980.0
+     },
+     {
+      "line": 2,
+      "qty_billed": 24,
+      "unit_price_billed": 21.5
+     },
+     {
+      "line": 3,
+      "qty_billed": 24,
+      "unit_price_billed": 980.0
+     }
+    ],
+    "total": 63236.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0027",
+  "supplier_id": "S-034",
+  "category": "logistics",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Pallet LTL shipment",
+    "qty": 58,
+    "unit_price": 410.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0027",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 58
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0027-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 58,
+      "unit_price_billed": 410.0
+     }
+    ],
+    "total": 23780.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0028",
+  "supplier_id": "S-019",
+  "category": "IT hardware",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Server rack unit",
+    "qty": 27,
+    "unit_price": 4200.0
+   },
+   {
+    "line": 2,
+    "item": "27in monitor",
+    "qty": 57,
+    "unit_price": 310.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0028",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 27
+    },
+    {
+     "line": 2,
+     "qty_received": 57
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0028-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 27,
+      "unit_price_billed": 4200.0
+     },
+     {
+      "line": 2,
+      "qty_billed": 57,
+      "unit_price_billed": 310.0
+     }
+    ],
+    "total": 131070.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0029",
+  "supplier_id": "S-011",
+  "category": "professional services",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Training workshop day",
+    "qty": 25,
+    "unit_price": 2100.0
+   },
+   {
+    "line": 2,
+    "item": "Consultant day senior",
+    "qty": 9,
+    "unit_price": 1450.0
+   },
+   {
+    "line": 3,
+    "item": "Consultant day analyst",
+    "qty": 41,
+    "unit_price": 720.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0029",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 25
+    },
+    {
+     "line": 2,
+     "qty_received": 9
+    },
+    {
+     "line": 3,
+     "qty_received": 41
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0029-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 25,
+      "unit_price_billed": 2100.0
+     },
+     {
+      "line": 2,
+      "qty_billed": 9,
+      "unit_price_billed": 1450.0
+     },
+     {
+      "line": 3,
+      "qty_billed": 41,
+      "unit_price_billed": 720.0
+     }
+    ],
+    "total": 95070.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0030",
+  "supplier_id": "S-032",
+  "category": "cloud services",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Object storage TB-month",
+    "qty": 46,
+    "unit_price": 21.5
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0030",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 46
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0030-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 46,
+      "unit_price_billed": 21.5
+     }
+    ],
+    "total": 989.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0031",
+  "supplier_id": "S-027",
+  "category": "facilities",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "HVAC filter set",
+    "qty": 17,
+    "unit_price": 86.0
+   },
+   {
+    "line": 2,
+    "item": "LED panel 600x600",
+    "qty": 8,
+    "unit_price": 47.5
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0031",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 17
+    },
+    {
+     "line": 2,
+     "qty_received": 7
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0031-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 17,
+      "unit_price_billed": 86.0
+     },
+     {
+      "line": 2,
+      "qty_billed": 8,
+      "unit_price_billed": 47.5
+     }
+    ],
+    "total": 1842.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0032",
+  "supplier_id": "S-020",
+  "category": "cloud services",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Object storage TB-month",
+    "qty": 3,
+    "unit_price": 21.5
+   },
+   {
+    "line": 2,
+    "item": "Object storage TB-month",
+    "qty": 2,
+    "unit_price": 21.5
+   },
+   {
+    "line": 3,
+    "item": "Object storage TB-month",
+    "qty": 30,
+    "unit_price": 21.5
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0032",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 3
+    },
+    {
+     "line": 2,
+     "qty_received": 2
+    },
+    {
+     "line": 3,
+     "qty_received": 30
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0032-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 3,
+      "unit_price_billed": 21.5
+     },
+     {
+      "line": 2,
+      "qty_billed": 2,
+      "unit_price_billed": 21.5
+     },
+     {
+      "line": 3,
+      "qty_billed": 30,
+      "unit_price_billed": 21.5
+     }
+    ],
+    "total": 752.5
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0033",
+  "supplier_id": "S-010",
+  "category": "logistics",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Pallet LTL shipment",
+    "qty": 3,
+    "unit_price": 410.0
+   },
+   {
+    "line": 2,
+    "item": "Container 40ft shipment",
+    "qty": 14,
+    "unit_price": 2850.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0033",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 3
+    },
+    {
+     "line": 2,
+     "qty_received": 14
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0033-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 3,
+      "unit_price_billed": 410.0
+     },
+     {
+      "line": 2,
+      "qty_billed": 14,
+      "unit_price_billed": 2850.0
+     }
+    ],
+    "total": 41130.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0034",
+  "supplier_id": "S-023",
+  "category": "professional services",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Consultant day analyst",
+    "qty": 34,
+    "unit_price": 720.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0034",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 34
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0034-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 34,
+      "unit_price_billed": 720.0
+     }
+    ],
+    "total": 24480.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0035",
+  "supplier_id": "S-024",
+  "category": "MRO",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Bearing assembly",
+    "qty": 25,
+    "unit_price": 132.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0035",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 25
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0035-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 25,
+      "unit_price_billed": 132.0
+     }
+    ],
+    "total": 3300.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0036",
+  "supplier_id": "S-013",
+  "category": "IT hardware",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Laptop 14in business",
+    "qty": 6,
+    "unit_price": 1150.0
+   },
+   {
+    "line": 2,
+    "item": "Server rack unit",
+    "qty": 16,
+    "unit_price": 4200.0
+   },
+   {
+    "line": 3,
+    "item": "Laptop 14in business",
+    "qty": 29,
+    "unit_price": 1150.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0036",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 6
+    },
+    {
+     "line": 2,
+     "qty_received": 16
+    },
+    {
+     "line": 3,
+     "qty_received": 29
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0036-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 6,
+      "unit_price_billed": 1150.0
+     },
+     {
+      "line": 2,
+      "qty_billed": 16,
+      "unit_price_billed": 4200.0
+     },
+     {
+      "line": 3,
+      "qty_billed": 29,
+      "unit_price_billed": 1150.0
+     }
+    ],
+    "total": 107450.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0037",
+  "supplier_id": "S-032",
+  "category": "cloud services",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Object storage TB-month",
+    "qty": 29,
+    "unit_price": 21.5
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0037",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 29
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0037-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 29,
+      "unit_price_billed": 21.5
+     }
+    ],
+    "total": 623.5
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0038",
+  "supplier_id": "S-004",
+  "category": "logistics",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Courier batch 50pkg",
+    "qty": 30,
+    "unit_price": 175.0
+   },
+   {
+    "line": 2,
+    "item": "Courier batch 50pkg",
+    "qty": 5,
+    "unit_price": 175.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0038",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 30
+    },
+    {
+     "line": 2,
+     "qty_received": 5
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0038-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 30,
+      "unit_price_billed": 175.0
+     },
+     {
+      "line": 2,
+      "qty_billed": 5,
+      "unit_price_billed": 187.59
+     }
+    ],
+    "total": 6187.95
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0039",
+  "supplier_id": "S-017",
+  "category": "professional services",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Consultant day senior",
+    "qty": 15,
+    "unit_price": 1450.0
+   },
+   {
+    "line": 2,
+    "item": "Consultant day senior",
+    "qty": 39,
+    "unit_price": 1450.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0039",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 15
+    },
+    {
+     "line": 2,
+     "qty_received": 39
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0039-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 15,
+      "unit_price_billed": 1450.0
+     },
+     {
+      "line": 2,
+      "qty_billed": 39,
+      "unit_price_billed": 1450.0
+     }
+    ],
+    "total": 78300.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0040",
+  "supplier_id": "S-021",
+  "category": "facilities",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "LED panel 600x600",
+    "qty": 38,
+    "unit_price": 47.5
+   },
+   {
+    "line": 2,
+    "item": "LED panel 600x600",
+    "qty": 5,
+    "unit_price": 47.5
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0040",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 38
+    },
+    {
+     "line": 2,
+     "qty_received": 5
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0040-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 38,
+      "unit_price_billed": 47.5
+     },
+     {
+      "line": 2,
+      "qty_billed": 5,
+      "unit_price_billed": 47.5
+     }
+    ],
+    "total": 2042.5
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0041",
+  "supplier_id": "S-025",
+  "category": "IT hardware",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Dock station USB-C",
+    "qty": 15,
+    "unit_price": 185.0
+   },
+   {
+    "line": 2,
+    "item": "Laptop 14in business",
+    "qty": 45,
+    "unit_price": 1150.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0041",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 15
+    },
+    {
+     "line": 2,
+     "qty_received": 45
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0041-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 15,
+      "unit_price_billed": 185.0
+     },
+     {
+      "line": 2,
+      "qty_billed": 45,
+      "unit_price_billed": 1150.0
+     }
+    ],
+    "total": 54525.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0042",
+  "supplier_id": "S-021",
+  "category": "facilities",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "LED panel 600x600",
+    "qty": 39,
+    "unit_price": 47.5
+   },
+   {
+    "line": 2,
+    "item": "HVAC filter set",
+    "qty": 22,
+    "unit_price": 86.0
+   },
+   {
+    "line": 3,
+    "item": "Cleaning service day",
+    "qty": 31,
+    "unit_price": 320.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0042",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 39
+    },
+    {
+     "line": 2,
+     "qty_received": 22
+    },
+    {
+     "line": 3,
+     "qty_received": 31
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0042-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 39,
+      "unit_price_billed": 47.5
+     },
+     {
+      "line": 2,
+      "qty_billed": 22,
+      "unit_price_billed": 86.0
+     },
+     {
+      "line": 3,
+      "qty_billed": 31,
+      "unit_price_billed": 320.0
+     }
+    ],
+    "total": 13664.5
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0043",
+  "supplier_id": "S-008",
+  "category": "cloud services",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Managed DB instance-month",
+    "qty": 7,
+    "unit_price": 980.0
+   },
+   {
+    "line": 2,
+    "item": "Managed DB instance-month",
+    "qty": 35,
+    "unit_price": 980.0
+   },
+   {
+    "line": 3,
+    "item": "Managed DB instance-month",
+    "qty": 38,
+    "unit_price": 980.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0043",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 7
+    },
+    {
+     "line": 2,
+     "qty_received": 35
+    },
+    {
+     "line": 3,
+     "qty_received": 38
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0043-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 7,
+      "unit_price_billed": 980.0
+     },
+     {
+      "line": 2,
+      "qty_billed": 35,
+      "unit_price_billed": 980.0
+     },
+     {
+      "line": 3,
+      "qty_billed": 38,
+      "unit_price_billed": 980.0
+     }
+    ],
+    "total": 78400.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0044",
+  "supplier_id": "S-035",
+  "category": "IT hardware",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Server rack unit",
+    "qty": 49,
+    "unit_price": 4200.0
+   },
+   {
+    "line": 2,
+    "item": "Dock station USB-C",
+    "qty": 56,
+    "unit_price": 185.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0044",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 49
+    },
+    {
+     "line": 2,
+     "qty_received": 56
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0044-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 49,
+      "unit_price_billed": 4200.0
+     },
+     {
+      "line": 2,
+      "qty_billed": 56,
+      "unit_price_billed": 185.0
+     }
+    ],
+    "total": 216160.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0045",
+  "supplier_id": "S-026",
+  "category": "cloud services",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Compute reserved instance-month",
+    "qty": 29,
+    "unit_price": 640.0
+   },
+   {
+    "line": 2,
+    "item": "Object storage TB-month",
+    "qty": 26,
+    "unit_price": 21.5
+   },
+   {
+    "line": 3,
+    "item": "Compute reserved instance-month",
+    "qty": 37,
+    "unit_price": 640.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0045",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 29
+    },
+    {
+     "line": 2,
+     "qty_received": 26
+    },
+    {
+     "line": 3,
+     "qty_received": 37
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0045-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 29,
+      "unit_price_billed": 640.0
+     },
+     {
+      "line": 2,
+      "qty_billed": 26,
+      "unit_price_billed": 21.5
+     },
+     {
+      "line": 3,
+      "qty_billed": 37,
+      "unit_price_billed": 640.0
+     }
+    ],
+    "total": 42799.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0046",
+  "supplier_id": "S-016",
+  "category": "logistics",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Pallet LTL shipment",
+    "qty": 47,
+    "unit_price": 410.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0046",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 47
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0046-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 47,
+      "unit_price_billed": 410.0
+     }
+    ],
+    "total": 19270.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0047",
+  "supplier_id": "S-039",
+  "category": "professional services",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Consultant day analyst",
+    "qty": 42,
+    "unit_price": 720.0
+   },
+   {
+    "line": 2,
+    "item": "Training workshop day",
+    "qty": 37,
+    "unit_price": 2100.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0047",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 42
+    },
+    {
+     "line": 2,
+     "qty_received": 37
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0047-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 42,
+      "unit_price_billed": 720.0
+     },
+     {
+      "line": 2,
+      "qty_billed": 37,
+      "unit_price_billed": 2100.0
+     }
+    ],
+    "total": 107940.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0048",
+  "supplier_id": "S-030",
+  "category": "MRO",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Bearing assembly",
+    "qty": 25,
+    "unit_price": 132.0
+   },
+   {
+    "line": 2,
+    "item": "Safety gloves box",
+    "qty": 5,
+    "unit_price": 24.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0048",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 25
+    },
+    {
+     "line": 2,
+     "qty_received": 5
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0048-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 25,
+      "unit_price_billed": 132.0
+     },
+     {
+      "line": 2,
+      "qty_billed": 5,
+      "unit_price_billed": 24.0
+     }
+    ],
+    "total": 3420.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0049",
+  "supplier_id": "S-012",
+  "category": "MRO",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Safety gloves box",
+    "qty": 56,
+    "unit_price": 24.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0049",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 56
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0049-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 56,
+      "unit_price_billed": 24.0
+     }
+    ],
+    "total": 1344.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0050",
+  "supplier_id": "S-031",
+  "category": "IT hardware",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Laptop 14in business",
+    "qty": 36,
+    "unit_price": 1150.0
+   },
+   {
+    "line": 2,
+    "item": "Dock station USB-C",
+    "qty": 17,
+    "unit_price": 185.0
+   },
+   {
+    "line": 3,
+    "item": "Laptop 14in business",
+    "qty": 53,
+    "unit_price": 1150.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0050",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 36
+    },
+    {
+     "line": 2,
+     "qty_received": 17
+    },
+    {
+     "line": 3,
+     "qty_received": 53
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0050-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 36,
+      "unit_price_billed": 1150.0
+     },
+     {
+      "line": 2,
+      "qty_billed": 17,
+      "unit_price_billed": 185.0
+     },
+     {
+      "line": 3,
+      "qty_billed": 53,
+      "unit_price_billed": 1150.0
+     }
+    ],
+    "total": 105495.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0051",
+  "supplier_id": "S-007",
+  "category": "IT hardware",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "27in monitor",
+    "qty": 12,
+    "unit_price": 310.0
+   },
+   {
+    "line": 2,
+    "item": "Laptop 14in business",
+    "qty": 40,
+    "unit_price": 1150.0
+   },
+   {
+    "line": 3,
+    "item": "Dock station USB-C",
+    "qty": 29,
+    "unit_price": 185.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0051",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 12
+    },
+    {
+     "line": 2,
+     "qty_received": 40
+    },
+    {
+     "line": 3,
+     "qty_received": 29
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0051-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 12,
+      "unit_price_billed": 310.0
+     },
+     {
+      "line": 2,
+      "qty_billed": 40,
+      "unit_price_billed": 1150.0
+     },
+     {
+      "line": 3,
+      "qty_billed": 29,
+      "unit_price_billed": 185.0
+     }
+    ],
+    "total": 55085.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0052",
+  "supplier_id": "S-032",
+  "category": "cloud services",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Compute reserved instance-month",
+    "qty": 14,
+    "unit_price": 640.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0052",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 10
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0052-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 14,
+      "unit_price_billed": 640.0
+     }
+    ],
+    "total": 8960.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0053",
+  "supplier_id": "S-014",
+  "category": "cloud services",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Compute reserved instance-month",
+    "qty": 15,
+    "unit_price": 640.0
+   },
+   {
+    "line": 2,
+    "item": "Managed DB instance-month",
+    "qty": 57,
+    "unit_price": 980.0
+   },
+   {
+    "line": 3,
+    "item": "Object storage TB-month",
+    "qty": 20,
+    "unit_price": 21.5
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0053",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 15
+    },
+    {
+     "line": 2,
+     "qty_received": 57
+    },
+    {
+     "line": 3,
+     "qty_received": 20
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0053-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 15,
+      "unit_price_billed": 640.0
+     },
+     {
+      "line": 2,
+      "qty_billed": 57,
+      "unit_price_billed": 980.0
+     },
+     {
+      "line": 3,
+      "qty_billed": 20,
+      "unit_price_billed": 21.5
+     }
+    ],
+    "total": 65890.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0054",
+  "supplier_id": "S-017",
+  "category": "professional services",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Consultant day senior",
+    "qty": 57,
+    "unit_price": 1450.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0054",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 57
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0054-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 57,
+      "unit_price_billed": 1450.0
+     }
+    ],
+    "total": 82650.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0055",
+  "supplier_id": "S-036",
+  "category": "cloud services",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Object storage TB-month",
+    "qty": 17,
+    "unit_price": 21.5
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0055",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 17
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0055-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 17,
+      "unit_price_billed": 21.5
+     }
+    ],
+    "total": 365.5
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0056",
+  "supplier_id": "S-011",
+  "category": "professional services",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Consultant day analyst",
+    "qty": 26,
+    "unit_price": 720.0
+   },
+   {
+    "line": 2,
+    "item": "Training workshop day",
+    "qty": 57,
+    "unit_price": 2100.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0056",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 26
+    },
+    {
+     "line": 2,
+     "qty_received": 57
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0056-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 26,
+      "unit_price_billed": 720.0
+     },
+     {
+      "line": 2,
+      "qty_billed": 57,
+      "unit_price_billed": 2100.0
+     }
+    ],
+    "total": 138420.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0057",
+  "supplier_id": "S-038",
+  "category": "logistics",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Container 40ft shipment",
+    "qty": 18,
+    "unit_price": 2850.0
+   },
+   {
+    "line": 2,
+    "item": "Container 40ft shipment",
+    "qty": 30,
+    "unit_price": 2850.0
+   },
+   {
+    "line": 3,
+    "item": "Pallet LTL shipment",
+    "qty": 60,
+    "unit_price": 410.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0057",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 18
+    },
+    {
+     "line": 2,
+     "qty_received": 30
+    },
+    {
+     "line": 3,
+     "qty_received": 60
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0057-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 18,
+      "unit_price_billed": 2850.0
+     },
+     {
+      "line": 2,
+      "qty_billed": 30,
+      "unit_price_billed": 2850.0
+     },
+     {
+      "line": 3,
+      "qty_billed": 60,
+      "unit_price_billed": 410.0
+     }
+    ],
+    "total": 161400.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0058",
+  "supplier_id": "S-016",
+  "category": "logistics",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Courier batch 50pkg",
+    "qty": 12,
+    "unit_price": 175.0
+   },
+   {
+    "line": 2,
+    "item": "Container 40ft shipment",
+    "qty": 48,
+    "unit_price": 2850.0
+   },
+   {
+    "line": 3,
+    "item": "Courier batch 50pkg",
+    "qty": 57,
+    "unit_price": 175.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0058",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 12
+    },
+    {
+     "line": 2,
+     "qty_received": 48
+    },
+    {
+     "line": 3,
+     "qty_received": 57
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0058-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 12,
+      "unit_price_billed": 175.0
+     },
+     {
+      "line": 2,
+      "qty_billed": 48,
+      "unit_price_billed": 2850.0
+     },
+     {
+      "line": 3,
+      "qty_billed": 57,
+      "unit_price_billed": 175.0
+     }
+    ],
+    "total": 148875.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0059",
+  "supplier_id": "S-022",
+  "category": "logistics",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Container 40ft shipment",
+    "qty": 4,
+    "unit_price": 2850.0
+   },
+   {
+    "line": 2,
+    "item": "Container 40ft shipment",
+    "qty": 17,
+    "unit_price": 2850.0
+   },
+   {
+    "line": 3,
+    "item": "Courier batch 50pkg",
+    "qty": 13,
+    "unit_price": 175.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0059",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 4
+    },
+    {
+     "line": 2,
+     "qty_received": 17
+    },
+    {
+     "line": 3,
+     "qty_received": 13
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0059-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 4,
+      "unit_price_billed": 3271.2
+     },
+     {
+      "line": 2,
+      "qty_billed": 17,
+      "unit_price_billed": 2850.0
+     },
+     {
+      "line": 3,
+      "qty_billed": 13,
+      "unit_price_billed": 175.0
+     }
+    ],
+    "total": 63809.8
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0060",
+  "supplier_id": "S-017",
+  "category": "professional services",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Consultant day senior",
+    "qty": 6,
+    "unit_price": 1450.0
+   },
+   {
+    "line": 2,
+    "item": "Consultant day analyst",
+    "qty": 41,
+    "unit_price": 720.0
+   },
+   {
+    "line": 3,
+    "item": "Consultant day senior",
+    "qty": 16,
+    "unit_price": 1450.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0060",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 6
+    },
+    {
+     "line": 2,
+     "qty_received": 41
+    },
+    {
+     "line": 3,
+     "qty_received": 16
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0060-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 6,
+      "unit_price_billed": 1450.0
+     },
+     {
+      "line": 2,
+      "qty_billed": 41,
+      "unit_price_billed": 720.0
+     },
+     {
+      "line": 3,
+      "qty_billed": 16,
+      "unit_price_billed": 1450.0
+     }
+    ],
+    "total": 61420.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0061",
+  "supplier_id": "S-012",
+  "category": "MRO",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Industrial lubricant 20L",
+    "qty": 20,
+    "unit_price": 96.0
+   },
+   {
+    "line": 2,
+    "item": "Hydraulic seal kit",
+    "qty": 15,
+    "unit_price": 78.0
+   },
+   {
+    "line": 3,
+    "item": "Industrial lubricant 20L",
+    "qty": 33,
+    "unit_price": 96.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0061",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 20
+    },
+    {
+     "line": 2,
+     "qty_received": 15
+    },
+    {
+     "line": 3,
+     "qty_received": 33
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0061-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 20,
+      "unit_price_billed": 96.0
+     },
+     {
+      "line": 2,
+      "qty_billed": 15,
+      "unit_price_billed": 78.0
+     },
+     {
+      "line": 3,
+      "qty_billed": 33,
+      "unit_price_billed": 96.0
+     }
+    ],
+    "total": 6258.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0062",
+  "supplier_id": "S-005",
+  "category": "professional services",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Training workshop day",
+    "qty": 35,
+    "unit_price": 2100.0
+   },
+   {
+    "line": 2,
+    "item": "Consultant day senior",
+    "qty": 58,
+    "unit_price": 1450.0
+   },
+   {
+    "line": 3,
+    "item": "Training workshop day",
+    "qty": 2,
+    "unit_price": 2100.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0062",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 35
+    },
+    {
+     "line": 2,
+     "qty_received": 58
+    },
+    {
+     "line": 3,
+     "qty_received": 2
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0062-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 35,
+      "unit_price_billed": 2100.0
+     },
+     {
+      "line": 2,
+      "qty_billed": 58,
+      "unit_price_billed": 1450.0
+     },
+     {
+      "line": 3,
+      "qty_billed": 2,
+      "unit_price_billed": 2100.0
+     }
+    ],
+    "total": 161800.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0063",
+  "supplier_id": "S-031",
+  "category": "IT hardware",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Dock station USB-C",
+    "qty": 57,
+    "unit_price": 185.0
+   },
+   {
+    "line": 2,
+    "item": "Laptop 14in business",
+    "qty": 23,
+    "unit_price": 1150.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0063",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 57
+    },
+    {
+     "line": 2,
+     "qty_received": 23
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0063-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 57,
+      "unit_price_billed": 185.0
+     },
+     {
+      "line": 2,
+      "qty_billed": 23,
+      "unit_price_billed": 1150.0
+     }
+    ],
+    "total": 36995.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0064",
+  "supplier_id": "S-018",
+  "category": "MRO",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Industrial lubricant 20L",
+    "qty": 10,
+    "unit_price": 96.0
+   },
+   {
+    "line": 2,
+    "item": "Safety gloves box",
+    "qty": 5,
+    "unit_price": 24.0
+   },
+   {
+    "line": 3,
+    "item": "Safety gloves box",
+    "qty": 22,
+    "unit_price": 24.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0064",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 10
+    },
+    {
+     "line": 2,
+     "qty_received": 5
+    },
+    {
+     "line": 3,
+     "qty_received": 22
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0064-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 10,
+      "unit_price_billed": 96.0
+     },
+     {
+      "line": 2,
+      "qty_billed": 5,
+      "unit_price_billed": 24.0
+     },
+     {
+      "line": 3,
+      "qty_billed": 22,
+      "unit_price_billed": 24.0
+     }
+    ],
+    "total": 1608.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0065",
+  "supplier_id": "S-028",
+  "category": "logistics",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Courier batch 50pkg",
+    "qty": 40,
+    "unit_price": 175.0
+   },
+   {
+    "line": 2,
+    "item": "Courier batch 50pkg",
+    "qty": 6,
+    "unit_price": 175.0
+   },
+   {
+    "line": 3,
+    "item": "Container 40ft shipment",
+    "qty": 37,
+    "unit_price": 2850.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0065",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 40
+    },
+    {
+     "line": 2,
+     "qty_received": 6
+    },
+    {
+     "line": 3,
+     "qty_received": 37
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0065-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 40,
+      "unit_price_billed": 175.0
+     },
+     {
+      "line": 2,
+      "qty_billed": 6,
+      "unit_price_billed": 175.0
+     },
+     {
+      "line": 3,
+      "qty_billed": 37,
+      "unit_price_billed": 2850.0
+     }
+    ],
+    "total": 113500.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0066",
+  "supplier_id": "S-015",
+  "category": "facilities",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "HVAC filter set",
+    "qty": 2,
+    "unit_price": 86.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0066",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 2
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0066-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 2,
+      "unit_price_billed": 86.0
+     }
+    ],
+    "total": 172.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0067",
+  "supplier_id": "S-026",
+  "category": "cloud services",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Compute reserved instance-month",
+    "qty": 15,
+    "unit_price": 640.0
+   },
+   {
+    "line": 2,
+    "item": "Managed DB instance-month",
+    "qty": 11,
+    "unit_price": 980.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0067",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 15
+    },
+    {
+     "line": 2,
+     "qty_received": 11
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0067-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 15,
+      "unit_price_billed": 640.0
+     },
+     {
+      "line": 2,
+      "qty_billed": 11,
+      "unit_price_billed": 980.0
+     }
+    ],
+    "total": 20380.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0068",
+  "supplier_id": "S-012",
+  "category": "MRO",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Hydraulic seal kit",
+    "qty": 60,
+    "unit_price": 78.0
+   },
+   {
+    "line": 2,
+    "item": "Hydraulic seal kit",
+    "qty": 33,
+    "unit_price": 78.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0068",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 60
+    },
+    {
+     "line": 2,
+     "qty_received": 33
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0068-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 60,
+      "unit_price_billed": 78.0
+     },
+     {
+      "line": 2,
+      "qty_billed": 33,
+      "unit_price_billed": 78.0
+     }
+    ],
+    "total": 7254.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0069",
+  "supplier_id": "S-029",
+  "category": "professional services",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Consultant day analyst",
+    "qty": 15,
+    "unit_price": 720.0
+   },
+   {
+    "line": 2,
+    "item": "Consultant day senior",
+    "qty": 6,
+    "unit_price": 1450.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0069",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 15
+    },
+    {
+     "line": 2,
+     "qty_received": 6
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0069-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 15,
+      "unit_price_billed": 720.0
+     },
+     {
+      "line": 2,
+      "qty_billed": 6,
+      "unit_price_billed": 1450.0
+     }
+    ],
+    "total": 19500.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0070",
+  "supplier_id": "S-027",
+  "category": "facilities",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Cleaning service day",
+    "qty": 46,
+    "unit_price": 320.0
+   },
+   {
+    "line": 2,
+    "item": "HVAC filter set",
+    "qty": 27,
+    "unit_price": 86.0
+   },
+   {
+    "line": 3,
+    "item": "LED panel 600x600",
+    "qty": 21,
+    "unit_price": 47.5
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0070",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 46
+    },
+    {
+     "line": 2,
+     "qty_received": 27
+    },
+    {
+     "line": 3,
+     "qty_received": 21
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0070-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 46,
+      "unit_price_billed": 320.0
+     },
+     {
+      "line": 2,
+      "qty_billed": 27,
+      "unit_price_billed": 86.0
+     },
+     {
+      "line": 3,
+      "qty_billed": 21,
+      "unit_price_billed": 47.5
+     }
+    ],
+    "total": 18039.5
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0071",
+  "supplier_id": "S-031",
+  "category": "IT hardware",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Server rack unit",
+    "qty": 2,
+    "unit_price": 4200.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0071",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 2
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0071-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 2,
+      "unit_price_billed": 4200.0
+     }
+    ],
+    "total": 8400.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0072",
+  "supplier_id": "S-014",
+  "category": "cloud services",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Object storage TB-month",
+    "qty": 5,
+    "unit_price": 21.5
+   },
+   {
+    "line": 2,
+    "item": "Compute reserved instance-month",
+    "qty": 26,
+    "unit_price": 640.0
+   },
+   {
+    "line": 3,
+    "item": "Compute reserved instance-month",
+    "qty": 23,
+    "unit_price": 640.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0072",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 5
+    },
+    {
+     "line": 2,
+     "qty_received": 26
+    },
+    {
+     "line": 3,
+     "qty_received": 23
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0072-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 5,
+      "unit_price_billed": 21.5
+     },
+     {
+      "line": 2,
+      "qty_billed": 26,
+      "unit_price_billed": 640.0
+     },
+     {
+      "line": 3,
+      "qty_billed": 23,
+      "unit_price_billed": 640.0
+     }
+    ],
+    "total": 31467.5
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0073",
+  "supplier_id": "S-040",
+  "category": "MRO",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Hydraulic seal kit",
+    "qty": 41,
+    "unit_price": 78.0
+   },
+   {
+    "line": 2,
+    "item": "Industrial lubricant 20L",
+    "qty": 10,
+    "unit_price": 96.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0073",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 41
+    },
+    {
+     "line": 2,
+     "qty_received": 10
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0073-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 41,
+      "unit_price_billed": 78.0
+     },
+     {
+      "line": 2,
+      "qty_billed": 10,
+      "unit_price_billed": 96.0
+     }
+    ],
+    "total": 4158.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0074",
+  "supplier_id": "S-019",
+  "category": "IT hardware",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Laptop 14in business",
+    "qty": 42,
+    "unit_price": 1150.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0074",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 42
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0074-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 42,
+      "unit_price_billed": 1150.0
+     }
+    ],
+    "total": 48300.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0075",
+  "supplier_id": "S-031",
+  "category": "IT hardware",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Dock station USB-C",
+    "qty": 48,
+    "unit_price": 185.0
+   },
+   {
+    "line": 2,
+    "item": "Laptop 14in business",
+    "qty": 10,
+    "unit_price": 1150.0
+   },
+   {
+    "line": 3,
+    "item": "Server rack unit",
+    "qty": 19,
+    "unit_price": 4200.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0075",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 48
+    },
+    {
+     "line": 2,
+     "qty_received": 10
+    },
+    {
+     "line": 3,
+     "qty_received": 19
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0075-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 48,
+      "unit_price_billed": 185.0
+     },
+     {
+      "line": 2,
+      "qty_billed": 10,
+      "unit_price_billed": 1150.0
+     },
+     {
+      "line": 3,
+      "qty_billed": 19,
+      "unit_price_billed": 4200.0
+     }
+    ],
+    "total": 100180.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0076",
+  "supplier_id": "S-002",
+  "category": "cloud services",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Managed DB instance-month",
+    "qty": 57,
+    "unit_price": 980.0
+   },
+   {
+    "line": 2,
+    "item": "Object storage TB-month",
+    "qty": 32,
+    "unit_price": 21.5
+   },
+   {
+    "line": 3,
+    "item": "Object storage TB-month",
+    "qty": 34,
+    "unit_price": 21.5
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0076",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 57
+    },
+    {
+     "line": 2,
+     "qty_received": 32
+    },
+    {
+     "line": 3,
+     "qty_received": 34
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0076-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 57,
+      "unit_price_billed": 980.0
+     },
+     {
+      "line": 2,
+      "qty_billed": 32,
+      "unit_price_billed": 21.5
+     },
+     {
+      "line": 3,
+      "qty_billed": 34,
+      "unit_price_billed": 21.5
+     }
+    ],
+    "total": 57279.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0077",
+  "supplier_id": "S-011",
+  "category": "professional services",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Consultant day analyst",
+    "qty": 28,
+    "unit_price": 720.0
+   },
+   {
+    "line": 2,
+    "item": "Consultant day senior",
+    "qty": 25,
+    "unit_price": 1450.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0077",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 21
+    },
+    {
+     "line": 2,
+     "qty_received": 25
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0077-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 28,
+      "unit_price_billed": 720.0
+     },
+     {
+      "line": 2,
+      "qty_billed": 25,
+      "unit_price_billed": 1450.0
+     }
+    ],
+    "total": 56410.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0078",
+  "supplier_id": "S-011",
+  "category": "professional services",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Consultant day senior",
+    "qty": 17,
+    "unit_price": 1450.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0078",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 17
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0078-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 17,
+      "unit_price_billed": 1450.0
+     }
+    ],
+    "total": 24650.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0079",
+  "supplier_id": "S-026",
+  "category": "cloud services",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Managed DB instance-month",
+    "qty": 44,
+    "unit_price": 980.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0079",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 44
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0079-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 44,
+      "unit_price_billed": 980.0
+     }
+    ],
+    "total": 43120.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0080",
+  "supplier_id": "S-023",
+  "category": "professional services",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Consultant day analyst",
+    "qty": 58,
+    "unit_price": 720.0
+   },
+   {
+    "line": 2,
+    "item": "Consultant day analyst",
+    "qty": 28,
+    "unit_price": 720.0
+   },
+   {
+    "line": 3,
+    "item": "Training workshop day",
+    "qty": 6,
+    "unit_price": 2100.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0080",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 58
+    },
+    {
+     "line": 2,
+     "qty_received": 28
+    },
+    {
+     "line": 3,
+     "qty_received": 6
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0080-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 58,
+      "unit_price_billed": 720.0
+     },
+     {
+      "line": 2,
+      "qty_billed": 28,
+      "unit_price_billed": 720.0
+     },
+     {
+      "line": 3,
+      "qty_billed": 6,
+      "unit_price_billed": 2100.0
+     }
+    ],
+    "total": 74520.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0081",
+  "supplier_id": "S-019",
+  "category": "IT hardware",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Server rack unit",
+    "qty": 19,
+    "unit_price": 4200.0
+   },
+   {
+    "line": 2,
+    "item": "Dock station USB-C",
+    "qty": 40,
+    "unit_price": 185.0
+   },
+   {
+    "line": 3,
+    "item": "Server rack unit",
+    "qty": 43,
+    "unit_price": 4200.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0081",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 19
+    },
+    {
+     "line": 2,
+     "qty_received": 40
+    },
+    {
+     "line": 3,
+     "qty_received": 43
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0081-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 19,
+      "unit_price_billed": 4200.0
+     },
+     {
+      "line": 2,
+      "qty_billed": 40,
+      "unit_price_billed": 185.0
+     },
+     {
+      "line": 3,
+      "qty_billed": 43,
+      "unit_price_billed": 4200.0
+     }
+    ],
+    "total": 267800.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0082",
+  "supplier_id": "S-038",
+  "category": "logistics",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Container 40ft shipment",
+    "qty": 35,
+    "unit_price": 2850.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0082",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 35
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0082-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 35,
+      "unit_price_billed": 2850.0
+     }
+    ],
+    "total": 99750.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0083",
+  "supplier_id": "S-014",
+  "category": "cloud services",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Managed DB instance-month",
+    "qty": 51,
+    "unit_price": 980.0
+   },
+   {
+    "line": 2,
+    "item": "Managed DB instance-month",
+    "qty": 45,
+    "unit_price": 980.0
+   },
+   {
+    "line": 3,
+    "item": "Object storage TB-month",
+    "qty": 49,
+    "unit_price": 21.5
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0083",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 51
+    },
+    {
+     "line": 2,
+     "qty_received": 45
+    },
+    {
+     "line": 3,
+     "qty_received": 49
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0083-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 51,
+      "unit_price_billed": 980.0
+     },
+     {
+      "line": 2,
+      "qty_billed": 45,
+      "unit_price_billed": 980.0
+     },
+     {
+      "line": 3,
+      "qty_billed": 49,
+      "unit_price_billed": 21.5
+     }
+    ],
+    "total": 95133.5
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0084",
+  "supplier_id": "S-037",
+  "category": "facilities",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Cleaning service day",
+    "qty": 19,
+    "unit_price": 320.0
+   },
+   {
+    "line": 2,
+    "item": "Cleaning service day",
+    "qty": 52,
+    "unit_price": 320.0
+   },
+   {
+    "line": 3,
+    "item": "HVAC filter set",
+    "qty": 18,
+    "unit_price": 86.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0084",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 19
+    },
+    {
+     "line": 2,
+     "qty_received": 52
+    },
+    {
+     "line": 3,
+     "qty_received": 18
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0084-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 19,
+      "unit_price_billed": 320.0
+     },
+     {
+      "line": 2,
+      "qty_billed": 52,
+      "unit_price_billed": 320.0
+     },
+     {
+      "line": 3,
+      "qty_billed": 18,
+      "unit_price_billed": 86.0
+     }
+    ],
+    "total": 24268.0
+   },
+   {
+    "invoice_id": "INV-0084-B",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 19,
+      "unit_price_billed": 320.0
+     },
+     {
+      "line": 2,
+      "qty_billed": 52,
+      "unit_price_billed": 320.0
+     },
+     {
+      "line": 3,
+      "qty_billed": 18,
+      "unit_price_billed": 86.0
+     }
+    ],
+    "total": 24268.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0085",
+  "supplier_id": "S-039",
+  "category": "professional services",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Training workshop day",
+    "qty": 29,
+    "unit_price": 2100.0
+   },
+   {
+    "line": 2,
+    "item": "Consultant day senior",
+    "qty": 39,
+    "unit_price": 1450.0
+   },
+   {
+    "line": 3,
+    "item": "Training workshop day",
+    "qty": 41,
+    "unit_price": 2100.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0085",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 29
+    },
+    {
+     "line": 2,
+     "qty_received": 33
+    },
+    {
+     "line": 3,
+     "qty_received": 41
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0085-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 29,
+      "unit_price_billed": 2100.0
+     },
+     {
+      "line": 2,
+      "qty_billed": 39,
+      "unit_price_billed": 1450.0
+     },
+     {
+      "line": 3,
+      "qty_billed": 41,
+      "unit_price_billed": 2100.0
+     }
+    ],
+    "total": 203550.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0086",
+  "supplier_id": "S-001",
+  "category": "IT hardware",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "27in monitor",
+    "qty": 11,
+    "unit_price": 310.0
+   },
+   {
+    "line": 2,
+    "item": "Server rack unit",
+    "qty": 51,
+    "unit_price": 4200.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0086",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 11
+    },
+    {
+     "line": 2,
+     "qty_received": 51
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0086-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 11,
+      "unit_price_billed": 310.0
+     },
+     {
+      "line": 2,
+      "qty_billed": 51,
+      "unit_price_billed": 4200.0
+     }
+    ],
+    "total": 217610.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0087",
+  "supplier_id": "S-028",
+  "category": "logistics",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Container 40ft shipment",
+    "qty": 10,
+    "unit_price": 2850.0
+   },
+   {
+    "line": 2,
+    "item": "Container 40ft shipment",
+    "qty": 49,
+    "unit_price": 2850.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0087",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 10
+    },
+    {
+     "line": 2,
+     "qty_received": 49
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0087-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 10,
+      "unit_price_billed": 2850.0
+     },
+     {
+      "line": 2,
+      "qty_billed": 49,
+      "unit_price_billed": 2850.0
+     }
+    ],
+    "total": 168150.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0088",
+  "supplier_id": "S-015",
+  "category": "facilities",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "LED panel 600x600",
+    "qty": 59,
+    "unit_price": 47.5
+   },
+   {
+    "line": 2,
+    "item": "LED panel 600x600",
+    "qty": 8,
+    "unit_price": 47.5
+   },
+   {
+    "line": 3,
+    "item": "HVAC filter set",
+    "qty": 8,
+    "unit_price": 86.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0088",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 59
+    },
+    {
+     "line": 2,
+     "qty_received": 8
+    },
+    {
+     "line": 3,
+     "qty_received": 8
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0088-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 59,
+      "unit_price_billed": 47.5
+     },
+     {
+      "line": 2,
+      "qty_billed": 8,
+      "unit_price_billed": 47.5
+     },
+     {
+      "line": 3,
+      "qty_billed": 8,
+      "unit_price_billed": 86.0
+     }
+    ],
+    "total": 3870.5
+   },
+   {
+    "invoice_id": "INV-0088-B",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 59,
+      "unit_price_billed": 47.5
+     },
+     {
+      "line": 2,
+      "qty_billed": 8,
+      "unit_price_billed": 47.5
+     },
+     {
+      "line": 3,
+      "qty_billed": 8,
+      "unit_price_billed": 86.0
+     }
+    ],
+    "total": 3870.5
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0089",
+  "supplier_id": "S-011",
+  "category": "professional services",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Training workshop day",
+    "qty": 39,
+    "unit_price": 2100.0
+   },
+   {
+    "line": 2,
+    "item": "Training workshop day",
+    "qty": 58,
+    "unit_price": 2100.0
+   },
+   {
+    "line": 3,
+    "item": "Training workshop day",
+    "qty": 53,
+    "unit_price": 2100.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0089",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 39
+    },
+    {
+     "line": 2,
+     "qty_received": 58
+    },
+    {
+     "line": 3,
+     "qty_received": 53
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0089-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 39,
+      "unit_price_billed": 2100.0
+     },
+     {
+      "line": 2,
+      "qty_billed": 58,
+      "unit_price_billed": 2100.0
+     },
+     {
+      "line": 3,
+      "qty_billed": 53,
+      "unit_price_billed": 2100.0
+     }
+    ],
+    "total": 315000.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0090",
+  "supplier_id": "S-005",
+  "category": "professional services",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Consultant day senior",
+    "qty": 23,
+    "unit_price": 1450.0
+   },
+   {
+    "line": 2,
+    "item": "Training workshop day",
+    "qty": 20,
+    "unit_price": 2100.0
+   },
+   {
+    "line": 3,
+    "item": "Training workshop day",
+    "qty": 23,
+    "unit_price": 2100.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0090",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 23
+    },
+    {
+     "line": 2,
+     "qty_received": 20
+    },
+    {
+     "line": 3,
+     "qty_received": 23
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0090-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 23,
+      "unit_price_billed": 1450.0
+     },
+     {
+      "line": 2,
+      "qty_billed": 20,
+      "unit_price_billed": 2100.0
+     },
+     {
+      "line": 3,
+      "qty_billed": 23,
+      "unit_price_billed": 2100.0
+     }
+    ],
+    "total": 123650.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0091",
+  "supplier_id": "S-015",
+  "category": "facilities",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "HVAC filter set",
+    "qty": 2,
+    "unit_price": 86.0
+   },
+   {
+    "line": 2,
+    "item": "Cleaning service day",
+    "qty": 6,
+    "unit_price": 320.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0091",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 2
+    },
+    {
+     "line": 2,
+     "qty_received": 6
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0091-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 2,
+      "unit_price_billed": 86.0
+     },
+     {
+      "line": 2,
+      "qty_billed": 6,
+      "unit_price_billed": 320.0
+     }
+    ],
+    "total": 2092.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0092",
+  "supplier_id": "S-012",
+  "category": "MRO",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Safety gloves box",
+    "qty": 29,
+    "unit_price": 24.0
+   },
+   {
+    "line": 2,
+    "item": "Hydraulic seal kit",
+    "qty": 10,
+    "unit_price": 78.0
+   },
+   {
+    "line": 3,
+    "item": "Hydraulic seal kit",
+    "qty": 54,
+    "unit_price": 78.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0092",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 29
+    },
+    {
+     "line": 2,
+     "qty_received": 10
+    },
+    {
+     "line": 3,
+     "qty_received": 54
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0092-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 29,
+      "unit_price_billed": 24.0
+     },
+     {
+      "line": 2,
+      "qty_billed": 10,
+      "unit_price_billed": 78.0
+     },
+     {
+      "line": 3,
+      "qty_billed": 54,
+      "unit_price_billed": 78.0
+     }
+    ],
+    "total": 5688.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0093",
+  "supplier_id": "S-038",
+  "category": "logistics",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Courier batch 50pkg",
+    "qty": 60,
+    "unit_price": 175.0
+   },
+   {
+    "line": 2,
+    "item": "Pallet LTL shipment",
+    "qty": 33,
+    "unit_price": 410.0
+   },
+   {
+    "line": 3,
+    "item": "Pallet LTL shipment",
+    "qty": 13,
+    "unit_price": 410.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0093",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 60
+    },
+    {
+     "line": 2,
+     "qty_received": 33
+    },
+    {
+     "line": 3,
+     "qty_received": 13
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0093-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 60,
+      "unit_price_billed": 175.0
+     },
+     {
+      "line": 2,
+      "qty_billed": 33,
+      "unit_price_billed": 410.0
+     },
+     {
+      "line": 3,
+      "qty_billed": 13,
+      "unit_price_billed": 410.0
+     }
+    ],
+    "total": 29360.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0094",
+  "supplier_id": "S-011",
+  "category": "professional services",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Consultant day analyst",
+    "qty": 47,
+    "unit_price": 720.0
+   },
+   {
+    "line": 2,
+    "item": "Consultant day analyst",
+    "qty": 49,
+    "unit_price": 720.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0094",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 47
+    },
+    {
+     "line": 2,
+     "qty_received": 49
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0094-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 47,
+      "unit_price_billed": 720.0
+     },
+     {
+      "line": 2,
+      "qty_billed": 49,
+      "unit_price_billed": 720.0
+     }
+    ],
+    "total": 69120.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0095",
+  "supplier_id": "S-033",
+  "category": "facilities",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "LED panel 600x600",
+    "qty": 6,
+    "unit_price": 47.5
+   },
+   {
+    "line": 2,
+    "item": "Cleaning service day",
+    "qty": 51,
+    "unit_price": 320.0
+   },
+   {
+    "line": 3,
+    "item": "Cleaning service day",
+    "qty": 35,
+    "unit_price": 320.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0095",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 6
+    },
+    {
+     "line": 2,
+     "qty_received": 51
+    },
+    {
+     "line": 3,
+     "qty_received": 35
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0095-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 6,
+      "unit_price_billed": 47.5
+     },
+     {
+      "line": 2,
+      "qty_billed": 51,
+      "unit_price_billed": 320.0
+     },
+     {
+      "line": 3,
+      "qty_billed": 35,
+      "unit_price_billed": 320.0
+     }
+    ],
+    "total": 27805.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0096",
+  "supplier_id": "S-010",
+  "category": "logistics",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Container 40ft shipment",
+    "qty": 30,
+    "unit_price": 2850.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0096",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 30
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0096-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 30,
+      "unit_price_billed": 2850.0
+     }
+    ],
+    "total": 85500.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0097",
+  "supplier_id": "S-034",
+  "category": "logistics",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Courier batch 50pkg",
+    "qty": 43,
+    "unit_price": 175.0
+   },
+   {
+    "line": 2,
+    "item": "Pallet LTL shipment",
+    "qty": 5,
+    "unit_price": 410.0
+   },
+   {
+    "line": 3,
+    "item": "Pallet LTL shipment",
+    "qty": 44,
+    "unit_price": 410.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0097",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 43
+    },
+    {
+     "line": 2,
+     "qty_received": 5
+    },
+    {
+     "line": 3,
+     "qty_received": 44
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0097-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 43,
+      "unit_price_billed": 175.0
+     },
+     {
+      "line": 2,
+      "qty_billed": 5,
+      "unit_price_billed": 410.0
+     },
+     {
+      "line": 3,
+      "qty_billed": 44,
+      "unit_price_billed": 410.0
+     }
+    ],
+    "total": 27615.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0098",
+  "supplier_id": "S-035",
+  "category": "IT hardware",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Laptop 14in business",
+    "qty": 26,
+    "unit_price": 1150.0
+   },
+   {
+    "line": 2,
+    "item": "Laptop 14in business",
+    "qty": 26,
+    "unit_price": 1150.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0098",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 26
+    },
+    {
+     "line": 2,
+     "qty_received": 26
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0098-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 26,
+      "unit_price_billed": 1150.0
+     },
+     {
+      "line": 2,
+      "qty_billed": 26,
+      "unit_price_billed": 1150.0
+     }
+    ],
+    "total": 59800.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0099",
+  "supplier_id": "S-005",
+  "category": "professional services",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Consultant day senior",
+    "qty": 46,
+    "unit_price": 1450.0
+   },
+   {
+    "line": 2,
+    "item": "Training workshop day",
+    "qty": 18,
+    "unit_price": 2100.0
+   },
+   {
+    "line": 3,
+    "item": "Training workshop day",
+    "qty": 43,
+    "unit_price": 2100.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0099",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 46
+    },
+    {
+     "line": 2,
+     "qty_received": 18
+    },
+    {
+     "line": 3,
+     "qty_received": 43
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0099-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 46,
+      "unit_price_billed": 1450.0
+     },
+     {
+      "line": 2,
+      "qty_billed": 18,
+      "unit_price_billed": 2100.0
+     },
+     {
+      "line": 3,
+      "qty_billed": 43,
+      "unit_price_billed": 2100.0
+     }
+    ],
+    "total": 194800.0
+   }
+  ]
+ },
+ {
+  "po_id": "PO-0100",
+  "supplier_id": "S-024",
+  "category": "MRO",
+  "order_date": "2026-04-15",
+  "lines": [
+   {
+    "line": 1,
+    "item": "Industrial lubricant 20L",
+    "qty": 31,
+    "unit_price": 96.0
+   },
+   {
+    "line": 2,
+    "item": "Industrial lubricant 20L",
+    "qty": 27,
+    "unit_price": 96.0
+   }
+  ],
+  "receipt": {
+   "receipt_id": "GR-0100",
+   "lines": [
+    {
+     "line": 1,
+     "qty_received": 31
+    },
+    {
+     "line": 2,
+     "qty_received": 27
+    }
+   ]
+  },
+  "invoices": [
+   {
+    "invoice_id": "INV-0100-A",
+    "lines": [
+     {
+      "line": 1,
+      "qty_billed": 31,
+      "unit_price_billed": 96.0
+     },
+     {
+      "line": 2,
+      "qty_billed": 27,
+      "unit_price_billed": 96.0
+     }
+    ],
+    "total": 5568.0
+   }
+  ]
+ }
+]
