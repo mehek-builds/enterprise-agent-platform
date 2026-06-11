@@ -56,6 +56,25 @@ class TaskRequest(BaseModel):
     task_type: str = Field(default="general", max_length=64)
 
 
+@app.get("/")
+def root():
+    return {
+        "platform": "G42 Intelligence Agent Platform",
+        "version": VERSION,
+        "developer": "Mehek Mandal",
+        "agents": list_packs(),
+        "endpoints": {
+            "health": "/health",
+            "interactive_api_docs": "/docs",
+            "impact_dashboard": "/dashboard",
+            "auth": "POST /v1/auth/token",
+            "run_task": "POST /v1/agents/{domain}/tasks",
+            "audit_trail": "GET /v1/audit/{session_id}",
+        },
+        "note": "Evaluation credentials are provided in the submission package.",
+    }
+
+
 @app.get("/health")
 def health():
     return {"status": "ok", "version": VERSION, "uptime_seconds": round(time.time() - _started),
