@@ -1,0 +1,76 @@
+{
+  "base_url": "http://127.0.0.1:8042",
+  "ts": 1781180733.777131,
+  "profiles": [
+    {
+      "profile": "gateway-health-c1",
+      "concurrency": 1,
+      "duration_s": 10,
+      "requests": 17340,
+      "req_per_s": 1734.0,
+      "latency_p50_ms": 0.6,
+      "latency_p95_ms": 0.7,
+      "ok_2xx": 17340,
+      "rate_limited_429": 0,
+      "server_errors_5xx": 0,
+      "client_transport_errors": 0,
+      "server_error_rate": 0.0
+    },
+    {
+      "profile": "gateway-health-c10",
+      "concurrency": 10,
+      "duration_s": 10,
+      "requests": 19021,
+      "req_per_s": 1902.1,
+      "latency_p50_ms": 3.6,
+      "latency_p95_ms": 15.1,
+      "ok_2xx": 19021,
+      "rate_limited_429": 0,
+      "server_errors_5xx": 0,
+      "client_transport_errors": 0,
+      "server_error_rate": 0.0
+    },
+    {
+      "profile": "gateway-health-c50",
+      "concurrency": 50,
+      "duration_s": 10,
+      "requests": 14669,
+      "req_per_s": 1466.9,
+      "latency_p50_ms": 18.7,
+      "latency_p95_ms": 122.6,
+      "ok_2xx": 14669,
+      "rate_limited_429": 0,
+      "server_errors_5xx": 0,
+      "client_transport_errors": 0,
+      "server_error_rate": 0.0
+    },
+    {
+      "profile": "gateway-authed-c10",
+      "concurrency": 10,
+      "duration_s": 10,
+      "requests": 80,
+      "req_per_s": 8.0,
+      "latency_p50_ms": 5.9,
+      "latency_p95_ms": 11.1,
+      "ok_2xx": 30,
+      "rate_limited_429": 50,
+      "server_errors_5xx": 0,
+      "client_transport_errors": 0,
+      "server_error_rate": 0.0
+    },
+    {
+      "profile": "agent-task-c5",
+      "concurrency": 5,
+      "duration_s": 60,
+      "requests": 140,
+      "req_per_s": 2.3,
+      "latency_p50_ms": 6.4,
+      "latency_p95_ms": 4368.2,
+      "ok_2xx": 15,
+      "rate_limited_429": 125,
+      "server_errors_5xx": 0,
+      "client_transport_errors": 0,
+      "server_error_rate": 0.0
+    }
+  ]
+}

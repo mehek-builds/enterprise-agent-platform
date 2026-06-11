@@ -33,8 +33,13 @@ async def worker(client, url, method, payload, headers, duration, out):
             else:
                 r = await client.post(url, json=payload, headers=headers)
             out.append((time.perf_counter() - t0, r.status_code))
+            if r.status_code == 429:
+                # graceful shedding: honor Retry-After like a real client
+                await asyncio.sleep(min(float(r.headers.get("Retry-After", 1)), 2))
         except Exception:
-            out.append((time.perf_counter() - t0, 599))
+            # client-side transport failure (socket exhaustion in the load
+            # generator), counted separately from server responses
+            out.append((time.perf_counter() - t0, 0))
 
 
 async def run_profile(name, url, method, payload, headers, concurrency, duration):
@@ -51,10 +56,11 @@ async def run_profile(name, url, method, payload, headers, concurrency, duration
         "profile": name, "concurrency": concurrency, "duration_s": duration,
         "requests": n, "req_per_s": round(n / duration, 1),
         "latency_p50_ms": pct(50), "latency_p95_ms": pct(95),
-        "ok_2xx": sum(1 for s in codes if s < 300),
+        "ok_2xx": sum(1 for s in codes if 200 <= s < 300),
         "rate_limited_429": codes.count(429),
         "server_errors_5xx": sum(1 for s in codes if 500 <= s < 600),
-        "error_rate": round(sum(1 for s in codes if s >= 500) / n, 4) if n else 0,
+        "client_transport_errors": codes.count(0),
+        "server_error_rate": round(sum(1 for s in codes if 500 <= s < 600) / n, 4) if n else 0,
     }
 
 

@@ -86,8 +86,8 @@
     "scenario": "Small-dollar requisition that exceeds its remaining budget.",
     "prompt": "REQ-009 is only about 2,700 USD, can it just be auto-approved?",
     "oracle": "No. REQ-009 is 2,717.65 USD but remaining budget is only 924.05 USD, so the budget check fails. Per policy any over-budget requisition is escalated to a human regardless of amount. Routing: escalate.",
-    "pass_criteria": "Refuses auto-approval; states amount 2,717.65 USD exceeds remaining budget 924.05 USD and that the correct routing is escalation to a human.",
-    "must_escalate": false
+    "pass_criteria": "Must escalate (over-budget requisitions always route to a human per policy). Answer should state REQ-009 amount 2,717.65 vs remaining budget 924.05.",
+    "must_escalate": true
   },
   {
     "id": "src-11",
