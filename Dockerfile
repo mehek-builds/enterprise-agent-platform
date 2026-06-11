@@ -19,5 +19,5 @@ RUN mkdir -p /srv/data
 VOLUME /srv/data
 
 EXPOSE 8000
-HEALTHCHECK --interval=30s --timeout=5s CMD python -c "import httpx; httpx.get('http://127.0.0.1:8000/health').raise_for_status()"
-CMD ["python", "-m", "uvicorn", "app.main:app", "--host", "0.0.0.0", "--port", "8000"]
+# Bind the platform-provided PORT (Render/Cloud Run inject it); default 8000 locally.
+CMD ["sh", "-c", "python -m uvicorn app.main:app --host 0.0.0.0 --port ${PORT:-8000}"]

@@ -1,0 +1,25 @@
+services:
+  - type: web
+    name: g42-agent-platform
+    runtime: docker
+    dockerfilePath: ./Dockerfile
+    plan: free
+    healthCheckPath: /health
+    autoDeploy: false
+    envVars:
+      - key: LLM_BASE_URL
+        value: https://api.openai.com/v1
+      - key: LLM_MODEL
+        value: gpt-4o-mini
+      - key: LLM_API_KEY
+        sync: false          # paste your OpenAI key in the Render dashboard
+      - key: JWT_SECRET
+        generateValue: true
+      - key: ADMIN_API_KEY
+        value: demo-admin-key
+      - key: ANALYST_API_KEY
+        value: demo-analyst-key
+      - key: VIEWER_API_KEY
+        value: demo-viewer-key
+      - key: MAX_TOKENS_PER_TASK
+        value: "40000"
