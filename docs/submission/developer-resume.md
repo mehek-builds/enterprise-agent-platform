@@ -1,6 +1,6 @@
 # Mehek Mandal
 
-Dubai, UAE / Los Angeles, CA | +1 213 574 6270 | mehekman@usc.edu | linkedin.com/in/mehekmandal
+Dubai, UAE / Los Angeles, CA | +1 213 574 6270 | mehekbuilds@gmail.com | linkedin.com/in/mehekmandal
 
 AI agent engineer and founder. Sole engineer of the G42 Intelligence Agent Platform submitted with this application: designed, built, benchmarked, and deployed end to end.
 
