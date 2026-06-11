@@ -38,11 +38,17 @@ without an unhandled error.
 ## Sustained Run
 
 Heartbeat loop (stress/sustained_run.py): /health, authenticated call, and a
-rotating real agent task on a 5-minute cycle, run overnight before
-submission. Summary inserted at send time:
+rotating real agent task on a 5-minute cycle against the public URL, run
+overnight before submission. Summary as of the latest refresh (regenerate
+with `python -m stress.sustained_run --report`):
 
 ```
-<SUSTAINED_RUN_SUMMARY>
+{
+  "uptime_pct": 100.0,
+  "health_ok": "3/3 heartbeats",
+  "agent_tasks_completed": "1/1",
+  "note": "overnight window in progress; final figures inserted at send time"
+}
 ```
 
 ## Degradation and Recovery Design

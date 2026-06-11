@@ -1,7 +1,9 @@
 # Submission Package: Completeness Checklist
 
 Developer: Mehek Mandal. Platform: G42 Intelligence Agent Platform v1.2.1.
-Live system: <PUBLIC_URL> (health: /health, API docs: /docs, impact: /dashboard).
+Live system: https://listed-classified-pts-listprice.trycloudflare.com
+(health: /health, API docs: /docs, impact: /dashboard; evaluation
+credentials supplied in the submission email).
 
 Mapped one to one against the Required Submission Materials in the postings.
 Per-agent paths are relative to docs/submission/.
@@ -28,4 +30,4 @@ Per-agent paths are relative to docs/submission/.
 | 30/60/90 probation plan per agent | */thirty-sixty-ninety.md | Stage 5 |
 | Reproducible eval harness (source) | evals/ in the repository | Stage 2: their re-benchmark reproduces our numbers |
 | Impact telemetry + dashboard | /v1/impact, /dashboard, ../impact-assumptions.md | value-linked compensation, computable from day one |
-| Live deployed system | <PUBLIC_URL> | Stage 1: inspectable architecture, not a description |
+| Live deployed system | https://listed-classified-pts-listprice.trycloudflare.com | Stage 1: inspectable architecture, not a description |
