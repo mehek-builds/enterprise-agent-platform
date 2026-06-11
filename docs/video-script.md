@@ -10,7 +10,7 @@ stream in; Claude clicks the next thing when your words reach the next beat.
 SCREEN: landing page (Claude has it up)
 
 "Hi, I'm Mehek Mandal. This is the G42 Intelligence Agent Platform, live at
-this URL: one governed chassis built on LangGraph and FastAPI, serving three
+this URL: one governed agent engine built on LangGraph and FastAPI, serving three
 enterprise agents from a single deployment. It comes out of my production
 work: Nucleus, my agency's analytics pipeline behind client work for
 Perplexity, Gamma, and Chess.com, and Traeco, my agent governance startup.
