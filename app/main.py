@@ -1,5 +1,6 @@
 """FastAPI gateway: JWT auth, RBAC, rate limiting, request validation.
 One deployment serves all domain packs."""
+import json
 import time
 from collections import defaultdict, deque
 
@@ -56,23 +57,96 @@ class TaskRequest(BaseModel):
     task_type: str = Field(default="general", max_length=64)
 
 
+ROOT_JSON = {
+    "platform": "G42 Intelligence Agent Platform",
+    "version": VERSION,
+    "developer": "Mehek Mandal",
+    "endpoints": {
+        "health": "/health",
+        "interactive_api_docs": "/docs",
+        "impact_dashboard": "/dashboard",
+        "auth": "POST /v1/auth/token",
+        "run_task": "POST /v1/agents/{domain}/tasks",
+        "audit_trail": "GET /v1/audit/{session_id}",
+    },
+}
+
+AGENT_CARDS = [
+    ("Financial Intelligence", "finance",
+     "Planning and budgeting, treasury, AP/AR aging, capex tracking. Escalation-first: payments never execute.",
+     "Explain the budget variance for cost center CC-FIN in April 2026. What drove it?"),
+    ("Human Capital Intelligence", "human_capital",
+     "Candidate screening, attrition analytics, comp benchmarking, org modeling. Qualifications-only scoring, hiring decisions are recommend-only.",
+     "Screen candidates for ROLE-ENG-01 and give me a top-3 shortlist with reasoning."),
+    ("Strategic Sourcing Intelligence", "sourcing",
+     "Supplier scorecards, requisition routing, contract risk review, 3-way match. Contract awards always escalate.",
+     "Run the 3-way match on PO-0015 and report any discrepancies."),
+]
+
+
 @app.get("/")
-def root():
-    return {
-        "platform": "G42 Intelligence Agent Platform",
-        "version": VERSION,
-        "developer": "Mehek Mandal",
-        "agents": list_packs(),
-        "endpoints": {
-            "health": "/health",
-            "interactive_api_docs": "/docs",
-            "impact_dashboard": "/dashboard",
-            "auth": "POST /v1/auth/token",
-            "run_task": "POST /v1/agents/{domain}/tasks",
-            "audit_trail": "GET /v1/audit/{session_id}",
-        },
-        "note": "Evaluation credentials are provided in the submission package.",
-    }
+def root(request: Request):
+    """Human-friendly landing for browsers; JSON for API clients."""
+    if "text/html" not in (request.headers.get("accept") or ""):
+        return ROOT_JSON
+    from fastapi.responses import HTMLResponse
+    cards = "".join(
+        f"""<div class="card"><h3>{title}</h3><p>{desc}</p>
+        <p class="try">Try: <em>{example}</em></p>
+        <button onclick="runDemo('{domain}', this)">Run this task live</button>
+        <pre class="out" id="out-{domain}" hidden></pre></div>"""
+        for title, domain, desc, example in AGENT_CARDS)
+    html = f"""<!doctype html><html><head><title>G42 Intelligence Agent Platform</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+    body{{font-family:system-ui;margin:0;color:#1a1a2e;background:#f7f7fb}}
+    header{{background:#16213e;color:#fff;padding:2.2rem 2rem}}
+    header h1{{margin:0;font-size:1.6rem}} header p{{margin:.4rem 0 0;color:#cdd3e0}}
+    main{{max-width:64rem;margin:0 auto;padding:1.5rem 2rem}}
+    .nav a{{display:inline-block;margin:.3rem .8rem .3rem 0;padding:.5rem 1rem;
+      background:#fff;border:1px solid #d8dbe6;border-radius:8px;color:#16213e;
+      text-decoration:none;font-weight:600}}
+    .grid{{display:grid;grid-template-columns:repeat(auto-fit,minmax(18rem,1fr));gap:1rem;margin-top:1rem}}
+    .card{{background:#fff;border:1px solid #d8dbe6;border-radius:10px;padding:1.1rem}}
+    .card h3{{margin:0 0 .4rem}} .card p{{font-size:.92rem;line-height:1.45}}
+    .try{{color:#444}} .out{{white-space:pre-wrap;font-size:.78rem;background:#f1f2f7;
+      padding:.6rem;border-radius:6px;max-height:16rem;overflow:auto}}
+    button{{background:#16213e;color:#fff;border:0;border-radius:7px;padding:.5rem .9rem;
+      cursor:pointer;font-weight:600}} button:disabled{{opacity:.5}}
+    footer{{padding:1.5rem 2rem;color:#555;font-size:.85rem;max-width:64rem;margin:0 auto}}
+    </style></head><body>
+    <header><h1>G42 Intelligence Agent Platform</h1>
+    <p>One governed agent chassis, three enterprise agents. v{VERSION} &middot; Mehek Mandal</p></header>
+    <main>
+    <div class="nav">
+      <a href="/docs">Interactive API explorer</a>
+      <a href="/dashboard">Impact dashboard</a>
+      <a href="/health">Health</a>
+    </div>
+    <div class="grid">{cards}</div>
+    </main>
+    <footer>Every figure an agent reports is validated against tool outputs; actions above
+    authority always escalate to a human; every session is replayable from its audit trail
+    (GET /v1/audit/&lt;session_id&gt;). Live demo runs use an evaluation role.</footer>
+    <script>
+    async function runDemo(domain, btn) {{
+      const out = document.getElementById('out-' + domain);
+      const example = {json.dumps({d: ex for _, d, _desc, ex in AGENT_CARDS})};
+      btn.disabled = true; out.hidden = false; out.textContent = 'Running live (5-15s)...';
+      try {{
+        const t = await (await fetch('/v1/auth/token', {{method:'POST',
+          headers:{{'content-type':'application/json'}},
+          body: JSON.stringify({{api_key:'demo-analyst-key'}})}})).json();
+        const r = await (await fetch('/v1/agents/' + domain + '/tasks', {{method:'POST',
+          headers:{{'content-type':'application/json', 'Authorization':'Bearer ' + t.access_token}},
+          body: JSON.stringify({{task: example[domain], task_type:'general'}})}})).json();
+        out.textContent = 'status: ' + r.status + '\\n\\n' + (r.answer || '') +
+          '\\n\\nmetrics: ' + JSON.stringify(r.metrics) + '\\naudit: GET /v1/audit/' + r.session_id;
+      }} catch (e) {{ out.textContent = 'error: ' + e; }}
+      btn.disabled = false;
+    }}
+    </script></body></html>"""
+    return HTMLResponse(html)
 
 
 @app.get("/health")

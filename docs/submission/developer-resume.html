@@ -1,18 +1,18 @@
 <!doctype html>
 <html><head><meta charset="utf-8"><title>Mehek Mandal, Developer Resume</title>
 <style>
-  @page { size: letter; margin: 0.55in 0.6in; }
+  @page { size: letter; margin: 0.42in 0.5in; }
   * { margin: 0; padding: 0; box-sizing: border-box; }
-  body { font-family: Helvetica, Arial, sans-serif; font-size: 9.6pt; line-height: 1.32; color: #111; }
-  h1 { font-size: 17pt; text-align: center; letter-spacing: .5px; }
-  .contact { text-align: center; font-size: 9pt; margin: 2pt 0 6pt; color: #222; }
-  .summary { margin-bottom: 7pt; }
-  h2 { font-size: 10pt; text-transform: uppercase; letter-spacing: .8px; border-bottom: 1px solid #333; margin: 7pt 0 4pt; padding-bottom: 1.5pt; }
-  .role { display: flex; justify-content: space-between; margin-top: 5pt; }
-  .role b { font-size: 9.8pt; }
-  .role .dates { color: #333; font-size: 9pt; }
-  ul { margin: 1.5pt 0 0 14pt; }
-  li { margin-bottom: 1.5pt; }
+  body { font-family: Helvetica, Arial, sans-serif; font-size: 8.9pt; line-height: 1.22; color: #111; }
+  h1 { font-size: 15.5pt; text-align: center; letter-spacing: .5px; }
+  .contact { text-align: center; font-size: 8.8pt; margin: 2pt 0 4pt; color: #222; }
+  .summary { margin-bottom: 4pt; }
+  h2 { font-size: 9.5pt; text-transform: uppercase; letter-spacing: .8px; border-bottom: 1px solid #333; margin: 5pt 0 2.5pt; padding-bottom: 1pt; }
+  .role { display: flex; justify-content: space-between; margin-top: 3.5pt; }
+  .role b { font-size: 9.3pt; }
+  .role .dates { color: #333; font-size: 8.6pt; }
+  ul { margin: 1pt 0 0 12pt; }
+  li { margin-bottom: 0.5pt; }
 </style></head><body>
 
 <h1>MEHEK MANDAL</h1>
@@ -24,44 +24,62 @@
 
 <div class="role"><span><b>G42 Intelligence Agent Platform</b> &middot; this submission</span><span class="dates">2026</span></div>
 <ul>
-<li>Governed agent chassis (LangGraph, FastAPI) serving three enterprise agents (Finance, Human Capital, Strategic Sourcing) from one live deployment: hash-addressed config snapshots, replayable checkpoint audit trail, OpenTelemetry, Presidio PII redaction, graph-level JWT RBAC, per-task budget rails.</li>
-<li>Oracle-anchored eval harness: 135/135 run reliability, escalation precision 1.00 on all three agents, 10/10 identity-pair bias parity (Human Capital), 10/10 adversarial attack classes defended.</li>
-<li>Governed self-improvement loop (eval, diagnose, propose, shadow eval, human gate); two promoted revisions in the CHANGELOG with their benchmark deltas.</li>
+<li>Architected a governed agent chassis (LangGraph, FastAPI) serving 3 enterprise agents (Finance, Human Capital, Strategic Sourcing) from 1 live deployment: hash-addressed config snapshots, replayable checkpoint audit trail, OpenTelemetry, Presidio PII redaction, graph-level JWT RBAC, per-task budget rails.</li>
+<li>Benchmarked with a purpose-built oracle-anchored eval harness: 135/135 run reliability, escalation precision 1.00 on all 3 agents, 10/10 identity-pair bias parity (Human Capital), 10/10 adversarial attack classes defended, $0.0006 average cost per task.</li>
+<li>Engineered a governed self-improvement loop (eval, diagnose, propose, shadow eval, human gate) that lifted finance task accuracy from 67% to 100% across 2 promoted revisions, each recorded in the CHANGELOG with its benchmark delta.</li>
 </ul>
 
 <div class="role"><span><b>Nucleus</b> at Elemental Growth, AI agency &middot; Founder</span><span class="dates">2025 - Present</span></div>
 <ul>
-<li>Built and operate Nucleus, the agency's production analytics and client-delivery pipeline supporting growth engagements with Perplexity, Gamma, and Chess.com; its 15+ integration connector pattern (fetch/normalize/cache) is the connector layer of the G42 platform.</li>
+<li>Built and operate Nucleus, the agency's production analytics and client-delivery pipeline supporting growth engagements with Perplexity, Gamma, and Chess.com.</li>
+<li>Designed its 15+ integration connector architecture (fetch/normalize/cache); reused the same pattern as the connector layer of the G42 platform.</li>
 </ul>
 
 <div class="role"><span><b>Dial</b> &middot; LLM routing and evaluation</span><span class="dates">2026</span></div>
 <ul>
-<li>Eval harness with a 9-metric scorecard: oracle labeling via batch inference, LLM-as-judge with anti-bias controls, cache-aware cost modeling. Adapted as the G42 platform's benchmark methodology.</li>
+<li>Developed an eval harness with a 9-metric scorecard: oracle labeling via batch inference, LLM-as-judge with anti-bias controls (position swap, self-consistency), cache-aware cost modeling; adapted as the G42 platform's benchmark methodology.</li>
 </ul>
 
 <h2>Experience</h2>
 
 <div class="role"><span><b>Traeco, AI agent cost infrastructure</b> &middot; Co-Founder and CEO</span><span class="dates">Feb 2026 - Jun 2026</span></div>
 <ul>
-<li>Ran 50+ enterprise discovery interviews on agent cost and governance failure modes; sole engineer of the Python SDK, LangChain instrumentation, and LLM-as-judge eval pipeline quantifying cost-quality deltas before deployment; live with 3 enterprise design partners in 6 weeks.</li>
-<li>Built config-layer observability (agent configuration captured at onboarding, not trace-only), now the audit-snapshot pattern in the G42 platform.</li>
+<li>Ran 50+ enterprise discovery interviews to map agent cost and governance failure modes; translated findings into the SDK architecture and product roadmap.</li>
+<li>Engineered the Python SDK, LangChain instrumentation layer, and LLM-as-judge eval pipeline (GPT-4o, Claude Sonnet) quantifying cost-quality deltas on every agent change before deployment.</li>
+<li>Deployed to 3 enterprise design partners in 6 weeks; built live traffic replay and config-layer observability (configuration captured at onboarding, not trace-only), now the audit-snapshot pattern in the G42 platform.</li>
 </ul>
 
 <div class="role"><span><b>Tonee, AI texting tone detector</b> &middot; Founder</span><span class="dates">Sep 2025 - Present</span></div>
 <ul>
-<li>Real-time tone detection for 100+ active users; fine-tuned on 8,300+ annotations from 47 user interviews, workplace tone accuracy 78% to 89%; Core ML migration cut latency 2.3s to 0.1s.</li>
+<li>Shipped real-time tone detection to 100+ active users in 8 weeks, owning the full stack from model fine-tuning through iOS deployment.</li>
+<li>Improved workplace tone accuracy from 78% to 89% by collecting 8,300+ message annotations across 47 user interviews and iterating training data 3x with active learning.</li>
+<li>Cut inference latency from 2.3s to 0.1s by profiling the API call stack, isolating the round-trip root cause, and executing a Core ML on-device migration.</li>
 </ul>
 
 <div class="role"><span><b>SoFi</b> &middot; Product Management Intern</span><span class="dates">Feb 2025 - May 2025</span></div>
 <ul>
-<li>Analyzed an 80K monthly sign-up onboarding funnel; identified the 40% drop-off step; recommendations contributed to a 15% retention improvement.</li>
+<li>Analyzed the onboarding funnel for 80K monthly sign-ups; identified the verification step as the 40% drop-off point from 50+ interview transcripts and behavioral data.</li>
+<li>Delivered a research brief documenting 2 critical friction points; the PM team's implemented changes contributed to a 15% retention improvement.</li>
+<li>Built a tracking plan for 4 Amplitude behavioral events on the verification flow and validated data integrity with engineering, enabling the root-cause funnel analysis.</li>
+</ul>
+
+<h2>Leadership</h2>
+
+<div class="role"><span><b>Spark SC</b> &middot; VP of Finance and Sponsorships</span><span class="dates">May 2025 - Present</span></div>
+<ul>
+<li>Secured $14K across 7 sponsors and managed a $27K budget for 12 events; improved sponsor renewal from 40% to 71% year over year.</li>
+</ul>
+
+<div class="role"><span><b>Venture Capital Academy</b> &middot; President</span><span class="dates">May 2025 - Dec 2025</span></div>
+<ul>
+<li>Led USC's first student VC program for 130 students; co-designed an 8-week curriculum and coordinated Bay Area visits to Lightspeed, NEA, and Altos Ventures for 25 students.</li>
 </ul>
 
 <h2>Education</h2>
 <div class="role"><span><b>University of Southern California, Viterbi School of Engineering</b>, Los Angeles, CA</span><span class="dates">May 2027</span></div>
-<div>BS Computer Science and Business Administration. GPA 3.89/4.0. USC Lava Lab startup accelerator.</div>
+<div>BS Computer Science and Business Administration. GPA 3.89/4.0. USC Lava Lab startup accelerator (16-week cohort).</div>
 
 <h2>Skills</h2>
-<div>Python, TypeScript, LangGraph, LangChain, FastAPI, Docker, OpenAI API, Anthropic SDK, agent orchestration, tool-calling patterns, LLM evaluation and LLM-as-judge methodology, fine-tuning (LoRA/QLoRA), RAG and vector search, OpenTelemetry, SQL</div>
+<div>Python, TypeScript, LangGraph, LangChain, FastAPI, Docker, OpenAI API, Anthropic SDK, agent orchestration, LLM evaluation, fine-tuning (LoRA/QLoRA), RAG, OpenTelemetry, SQL</div>
 
 </body></html>
