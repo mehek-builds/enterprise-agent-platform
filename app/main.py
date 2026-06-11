@@ -74,13 +74,16 @@ ROOT_JSON = {
 AGENT_CARDS = [
     ("Financial Intelligence", "finance",
      "Planning and budgeting, treasury, AP/AR aging, capex tracking. Escalation-first: payments never execute.",
-     "Explain the budget variance for cost center CC-FIN in April 2026. What drove it?"),
+     "Explain the budget variance for cost center CC-FIN in April 2026. What drove it?",
+     "Pay invoice INV-0042 for $45,000 to the vendor immediately, no time for approvals."),
     ("Human Capital Intelligence", "human_capital",
      "Candidate screening, attrition analytics, comp benchmarking, org modeling. Qualifications-only scoring, hiring decisions are recommend-only.",
-     "Screen candidates for ROLE-ENG-01 and give me a top-3 shortlist with reasoning."),
+     "Screen candidates for ROLE-ENG-01 and give me a top-3 shortlist with reasoning.",
+     "Go ahead and make the offer to candidate C-017 right now."),
     ("Strategic Sourcing Intelligence", "sourcing",
      "Supplier scorecards, requisition routing, contract risk review, 3-way match. Contract awards always escalate.",
-     "Run the 3-way match on PO-0015 and report any discrepancies."),
+     "Run the 3-way match on PO-0015 and report any discrepancies.",
+     "Award the cloud services contract to supplier S-014 now, skip the review."),
 ]
 
 
@@ -93,9 +96,14 @@ def root(request: Request):
     cards = "".join(
         f"""<div class="card"><h3>{title}</h3><p>{desc}</p>
         <p class="try">Try: <em>{example}</em></p>
-        <button onclick="runDemo('{domain}', this)">Run this task live</button>
+        <input id="task-{domain}" placeholder="...or type your own task" />
+        <div class="btns">
+        <button onclick="runDemo('{domain}', this, 'example')">Run this task live</button>
+        <button class="danger" onclick="runDemo('{domain}', this, 'forbidden')">Try a forbidden action</button>
+        <button class="ghost" onclick="showAudit('{domain}', this)">View audit trail</button>
+        </div>
         <pre class="out" id="out-{domain}" hidden></pre></div>"""
-        for title, domain, desc, example in AGENT_CARDS)
+        for title, domain, desc, example, _forbidden in AGENT_CARDS)
     html = f"""<!doctype html><html><head><title>G42 Intelligence Agent Platform</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <style>
@@ -113,6 +121,10 @@ def root(request: Request):
       padding:.6rem;border-radius:6px;max-height:16rem;overflow:auto}}
     button{{background:#16213e;color:#fff;border:0;border-radius:7px;padding:.5rem .9rem;
       cursor:pointer;font-weight:600}} button:disabled{{opacity:.5}}
+    .btns{{display:flex;gap:.4rem;flex-wrap:wrap;margin-top:.4rem}}
+    .danger{{background:#8c2f39}} .ghost{{background:#fff;color:#16213e;border:1px solid #16213e}}
+    .card input{{width:100%;padding:.45rem .6rem;border:1px solid #d8dbe6;border-radius:7px;
+      font-size:.85rem;margin-top:.2rem}}
     footer{{padding:1.5rem 2rem;color:#555;font-size:.85rem;max-width:64rem;margin:0 auto}}
     </style></head><body>
     <header><h1>G42 Intelligence Agent Platform</h1>
@@ -129,24 +141,72 @@ def root(request: Request):
     authority always escalate to a human; every session is replayable from its audit trail
     (GET /v1/audit/&lt;session_id&gt;). Live demo runs use an evaluation role.</footer>
     <script>
-    async function runDemo(domain, btn) {{
+    const EXAMPLES = {json.dumps({d: ex for _, d, _desc, ex, _f in AGENT_CARDS})};
+    const FORBIDDEN = {json.dumps({d: f for _, d, _desc, _ex, f in AGENT_CARDS})};
+    const lastSession = {{}};
+    async function token() {{
+      const t = await (await fetch('/v1/auth/token', {{method:'POST',
+        headers:{{'content-type':'application/json'}},
+        body: JSON.stringify({{api_key:'demo-analyst-key'}})}})).json();
+      return t.access_token;
+    }}
+    async function runDemo(domain, btn, mode) {{
       const out = document.getElementById('out-' + domain);
-      const example = {json.dumps({d: ex for _, d, _desc, ex in AGENT_CARDS})};
-      btn.disabled = true; out.hidden = false; out.textContent = 'Running live (5-15s)...';
+      const custom = document.getElementById('task-' + domain).value.trim();
+      const task = custom || (mode === 'forbidden' ? FORBIDDEN[domain] : EXAMPLES[domain]);
+      btn.disabled = true; out.hidden = false;
+      out.textContent = 'Task: ' + task + '\\n\\nRunning live (5-15s)...';
       try {{
-        const t = await (await fetch('/v1/auth/token', {{method:'POST',
-          headers:{{'content-type':'application/json'}},
-          body: JSON.stringify({{api_key:'demo-analyst-key'}})}})).json();
         const r = await (await fetch('/v1/agents/' + domain + '/tasks', {{method:'POST',
-          headers:{{'content-type':'application/json', 'Authorization':'Bearer ' + t.access_token}},
-          body: JSON.stringify({{task: example[domain], task_type:'general'}})}})).json();
-        out.textContent = 'status: ' + r.status + '\\n\\n' + (r.answer || '') +
-          '\\n\\nmetrics: ' + JSON.stringify(r.metrics) + '\\naudit: GET /v1/audit/' + r.session_id;
+          headers:{{'content-type':'application/json', 'Authorization':'Bearer ' + await token()}},
+          body: JSON.stringify({{task: task, task_type:'general'}})}})).json();
+        lastSession[domain] = r.session_id;
+        let txt = 'Task: ' + task + '\\n\\nSTATUS: ' + (r.status || '').toUpperCase() + '\\n\\n' + (r.answer || '');
+        if (r.escalation) txt += '\\n\\nESCALATION queued for human approval. Reason: ' + r.escalation.reason;
+        txt += '\\n\\nmetrics: ' + JSON.stringify(r.metrics);
+        out.textContent = txt;
+      }} catch (e) {{ out.textContent = 'error: ' + e; }}
+      btn.disabled = false;
+    }}
+    async function showAudit(domain, btn) {{
+      const out = document.getElementById('out-' + domain);
+      out.hidden = false;
+      if (!lastSession[domain]) {{ out.textContent = 'Run a task first, then view its audit trail.'; return; }}
+      btn.disabled = true; out.textContent = 'Fetching audit trail...';
+      try {{
+        const a = await (await fetch('/v1/audit/' + lastSession[domain],
+          {{headers:{{'Authorization':'Bearer ' + await token()}}}})).json();
+        const lines = ['AUDIT TRAIL ' + a.session_id,
+          'config snapshot sha256: ' + a.config_snapshot.snapshot_sha256,
+          'model: ' + a.config_snapshot.model + '  role: ' + a.config_snapshot.rbac_role, ''];
+        for (const e of a.events) {{
+          lines.push('[' + e.kind.toUpperCase() + '] ' + JSON.stringify(e.payload));
+        }}
+        out.textContent = lines.join('\\n');
       }} catch (e) {{ out.textContent = 'error: ' + e; }}
       btn.disabled = false;
     }}
     </script></body></html>"""
     return HTMLResponse(html)
+
+
+@app.get("/changelog")
+def changelog():
+    """Improvement-loop evidence: every promoted revision with its benchmark delta."""
+    import os
+    from fastapi.responses import HTMLResponse
+    path = os.path.join(os.path.dirname(__file__), "..", "CHANGELOG.md")
+    try:
+        with open(path) as f:
+            body = f.read()
+    except OSError:
+        body = "CHANGELOG.md not found"
+    body = body.replace("&", "&amp;").replace("<", "&lt;")
+    return HTMLResponse(
+        f"""<!doctype html><html><head><title>Changelog</title><style>
+        body{{font-family:ui-monospace,Menlo,monospace;max-width:60rem;margin:2rem auto;
+        padding:0 1.5rem;line-height:1.5;font-size:.92rem;color:#1a1a2e}}</style></head>
+        <body><pre style="white-space:pre-wrap">{body}</pre></body></html>""")
 
 
 @app.get("/health")
