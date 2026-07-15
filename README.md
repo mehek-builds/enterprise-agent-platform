@@ -1,36 +1,6 @@
 # Enterprise Agent Platform
 
-**The G42 Intelligence Agent Platform: one production-grade, governed agent chassis running three enterprise domain agents.** Financial Intelligence (req 732965122), Human Capital Intelligence (req 732965022), and Strategic Sourcing Intelligence (req 732965422) are not three codebases. They are three *domain packs* (a system prompt, a tool set, a dataset, and an eval suite) mounted on a single shared chassis, and one deployment serves all three.
-
-This is not a chatbot wrapper. It is a full enterprise-agent stack: a FastAPI gateway with JWT auth, RBAC, request validation and rate limiting; a LangGraph agent core whose every state transition is persisted by a SQLite checkpointer (so any session is replayable); a governance wrapper that snapshots the exact config each session ran under, redacts PII in and out with Microsoft Presidio, enforces per-role tool allowlists at the graph layer, and holds hard token/cost/call budget rails; a runtime validator that refuses to let the agent report a figure it cannot trace to a tool output; an escalation model where consequential actions (paying, hiring, awarding) are recommend-only and always route to a human; an OpenTelemetry trace layer; an impact-telemetry rollup that measures hours saved against documented human-equivalent assumptions; and a reproducible evaluation and adversarial-stress harness that ships in-repo, so the benchmark numbers reproduce. It is wired together over FastAPI, LangGraph, an OpenAI-compatible model client, SQLite, and Docker, and it deploys unchanged to Render, Azure Container Apps, AKS, or any VPS.
-
----
-
-## The problem this solves
-
-Every enterprise function now wants its own AI agent. Finance wants variance analysis and treasury support. HR wants candidate screening and attrition analytics. Procurement wants supplier scorecards and three-way match. So teams stand up an agent per function, and each one re-implements the same plumbing from scratch: authentication, role-based access control, tool calling, an audit trail, PII handling, cost controls, an evaluation harness. The domain logic is maybe twenty percent of the work. The other eighty percent is governance, and it gets rebuilt, badly, every time.
-
-Rebuilding that plumbing per agent is not just wasteful, it is dangerous, for reasons that have nothing to do with the domain and everything to do with engineering:
-
-1. **Ungoverned tool use.** An agent that can call a `pay_invoice` or `award_contract` tool is one hallucinated tool call away from moving money it should never have moved. The hard part is not exposing the tool, it is guaranteeing that consequential actions can never execute autonomously, regardless of how the user phrases the request or what a document embedded in the task tries to instruct.
-
-2. **Ungrounded figures.** A finance agent that says "the variance was $77,329" and is wrong by an order of magnitude is worse than useless, it is a liability. The number has to be provably sourced from a tool result, not recalled, estimated, or invented. Very few agent stacks enforce this at runtime.
-
-3. **No audit trail.** When an agent makes a decision, an enterprise needs to answer, months later, *exactly* what configuration, model, prompt, and data produced it. Most agent logs are a flat text stream that cannot be replayed or attributed.
-
-4. **Fairness and PII exposure.** An HR screening agent that lets a candidate's name or nationality leak into a score is a discrimination lawsuit. An agent that echoes a personal phone number or IBAN into a log is a data-protection breach. Both need to be structurally impossible, not merely discouraged in a prompt.
-
-5. **Unproven claims.** "Our agent is accurate and safe" means nothing without a reproducible benchmark: scenarios with oracle answers, an unbiased judge, adversarial attack coverage, and bias parity tests, all runnable by the reader.
-
-6. **Vendor lock-in.** A sovereign-AI customer such as G42 cannot be bolted to one US model API. The model layer has to swap to G42's own Compass / JAIS endpoints with zero code change, or the platform is a non-starter.
-
-**This platform solves all six as one shared chassis** and then proves each domain agent on top of it, rather than shipping three demos that each solve the domain and ignore the governance.
-
-## Why you should care (even if you never touch enterprise software)
-
-If you are reading this to understand what I can build: this repository takes the phrase "production-grade AI agent" and makes it literal. It is not a notebook and not a single prompt. It is a governed runtime with an auth model, an RBAC model enforced below the API at the graph layer, a self-correcting execution graph, a replayable audit store, a PII firewall, cost rails, an OpenTelemetry surface, a portable model layer, and a benchmark harness that reproduces its own reported numbers. The genuinely interesting engineering is the *separation*: a domain-agnostic chassis that knows nothing about finance or HR, and thin domain packs that carry all the domain knowledge, so a fourth agent is a new folder, not a new service. Everything is deterministic where it can be (the tools compute real answers from seeded data, no LLM guessing) and governed where it cannot be, and the whole thing runs on a schedule, defends itself against a suite of attacks, and shows its work.
-
----
+Every enterprise function wants its own AI agent, but teams keep rebuilding the same auth, tooling, and evaluation plumbing. This runs three governed domain agents (finance, HR, and sourcing) on one shared chassis, and was built for G42's agent competition.
 
 ## System architecture
 
