@@ -5,3 +5,8 @@ data/*.db*
 .env
 logs/
 .gstack/
+
+# logs / OS cruft
+*.log
+logs_*.log
+.DS_Store
